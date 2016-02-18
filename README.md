@@ -2,12 +2,9 @@
 I'm publishing and saving my academic works here on github for better public usage and to keep track on them. most of them are in german, I'm afraid. All are available under the WTFPL.
 
 # Content
-1. InternetHerrschaftsinstrument.odt
-Ist das Internet ein Herrschaftsinstrument nach Adorno/Horkheimers Buch "Dialektik der Aufklärung"?
-2. Technikethik.odt
-Wie ist ethisches Programmieren möglich? ist proprietäre Software ethisch, und wie kann ein BGE freie Software fördern?
-3. EssayDidaktik.odt
-Wie muss Erziehung unter der Parole "Dass Auschwitz nie wieder sei" aussehen?
+1. InternetHerrschaftsinstrument.odt - Ist das Internet ein Herrschaftsinstrument nach Adorno/Horkheimers Buch "Dialektik der Aufklärung"?
+2. Technikethik.odt - Wie ist ethisches Programmieren möglich? ist proprietäre Software ethisch, und wie kann ein BGE freie Software fördern?
+3. EssayDidaktik.odt - Wie muss Erziehung unter der Parole "Dass Auschwitz nie wieder sei" aussehen?
 
 
 # License
