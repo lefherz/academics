@@ -5,6 +5,10 @@ I'm publishing and saving my academic works here on github for better public usa
 1. InternetHerrschaftsinstrument.odt - Ist das Internet ein Herrschaftsinstrument nach Adorno/Horkheimers Buch "Dialektik der Aufklärung"?
 2. Technikethik.odt - Wie ist ethisches Programmieren möglich? ist proprietäre Software ethisch, und wie kann ein BGE freie Software fördern?
 3. EssayDidaktik.odt - Wie muss Erziehung unter der Parole "Dass Auschwitz nie wieder sei" aussehen?
+4. EUintegration.odt - Ein Vergleich verschiedener Theorien zur europäischen Integration.
+5. Intelligence.odt - What is the future of Intelligence Services in an interconnected world? Are they compatible with openData ideas?
+6. verfassungspatriotismusgescheitert.odt - Der Verfassungspatriotismus ist als Ideologie gescheitert. Was kann man als nächstes der doitschen Identität entgegensetzen?
+7. Eine kritische Betrachtung der Objektivität in John Rawls Urzustand.pdf - ist der Urzustand, den Rawls konstruiert, wirklich wertfrei, oder ist seine Konzeption von Gesellschaft schon darin angelegt?
 
 
 # License
