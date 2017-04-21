@@ -699,24 +699,24 @@ evtl mit Wort der Macht
 nötiger Zauberstab?_
 
 **Essenzielles Prinzip**
-magische Grundessenz Bor (Essenz von Brocken) hält magische Macht
-Bor lässt sich mit Zauberzutat 
-in Tränke brauen
-in Schriftrollen verwenden
-in Maschinen/Waffen einarbeiten
-zu Puder verarbeitet vom Finger pusten
-eingenommen sorgt es für Visionen und unkontrollierte magische Ausbrüche
-Bor ist die Lebensessenz von Wombats
-Wombatscheiße Kochen = Brocken 
-Wombatscheiße, Blut, Kotze, Flüssigkeiten destillieren: Bor
+magische Grundessenz Bor (Essenz von Brocken) hält magische Macht  
+Bor lässt sich mit Zauberzutat  
+in Tränke brauen  
+in Schriftrollen verwenden  
+in Maschinen/Waffen einarbeiten  
+zu Puder verarbeitet vom Finger pusten  
+eingenommen sorgt es für Visionen und unkontrollierte magische Ausbrüche  
+Bor ist die Lebensessenz von Wombats  
+Wombatscheiße Kochen = Brocken  
+Wombatscheiße, Blut, Kotze, Flüssigkeiten destillieren: Bor  
 
 **Göttliches Prinzip**
-Feuer/Wassergott sind tot, ihre Macht ruht in den Artefakten
-Feuerartefakte wirken durch Unschuld, Jungfräulichkeit
-Wasserartefakte wirken durch reines Wasser trinken/waschen
-Götterdämmerung/Inkarnation:
-sammeln der Splitter, wenn Gott tot war 
-Fusion der Splitter an heiligem Ort unter Opfer von einer*m, di*er sich noch nie gewaschen/geblutet/Sex gehabt hat
+Feuer/Wassergott sind tot, ihre Macht ruht in den Artefakten  
+Feuerartefakte wirken durch Unschuld, Jungfräulichkeit  
+Wasserartefakte wirken durch reines Wasser trinken/waschen  
+Götterdämmerung/Inkarnation:  
+sammeln der Splitter, wenn Gott tot war  
+Fusion der Splitter an heiligem Ort unter Opfer von einer*m, di*er sich noch nie gewaschen/geblutet/Sex gehabt hat  
 
 _Geistliches Prinzip
 Geister leben in Parallelwelt
@@ -730,15 +730,15 @@ durch berühren der Runen + Machtwort erfüllt sich die Bedeutung
 müssen durch magische Flüssigkeit aufgeladen werden_
 
 **Blutmagie**
-Menschenblut trinken schafft Kontakt zu Blutgöttin, sie verleiht Macht 
-Beeinflusst Wahrnehmung der Realität → kognitive Dissonanzen wegen Grausamkeit?
-Energie wird durch Machtworte kanalisiert
-durch Blutmagie getötete Gegner sind blutleer 
+Menschenblut trinken schafft Kontakt zu Blutgöttin, sie verleiht Macht  
+Beeinflusst Wahrnehmung der Realität → kognitive Dissonanzen wegen Grausamkeit?  
+Energie wird durch Machtworte kanalisiert  
+durch Blutmagie getötete Gegner sind blutleer  
 
 **Brocken**
-eingenommen erzeugt es Visionen, Größenwahn und Ausbrüche leichter magischer Macht
-zu große Ausbrüche von Brockenmagie können töten
-stark vom Orden verfolgt
+eingenommen erzeugt es Visionen, Größenwahn und Ausbrüche leichter magischer Macht  
+zu große Ausbrüche von Brockenmagie können töten  
+stark vom Orden verfolgt  
 
 _Zauberstäbe
 Zauberstab + Wort der Macht ruft Effekt hervor_
