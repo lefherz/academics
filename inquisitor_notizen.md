@@ -79,10 +79,11 @@ Stepanie
 * ihr Bruder (Orst) ist als kleiner Junge zum Orden gegangen, und nun lehrender Inquisitor, versorgt sie immer mal wieder mit Essen und Geld, sie muss den Job Hunnars verheimlichen
 * findet sich außerordentlich hässlich und hat damit ein Problem, auch wenn Hunnar sie liebt
 * Mann (Hunnar) stirbt bei Revolte gegen Magister Thorn, sie sucht sich einen Job bei Arghan Howl, und/oder wird Informantin für Marcin
-* Tochter geht auf Jorans Schule, als sie eröffnet wird
+* Tochter geht auf Jorans Schule, als sie eröffnet wird, bringt später Stepanie das Lesen bei
 * herzlich & großzügig, auch wenn sie sich mal mit unschönen Taten über Wasser halten muss
 * fromm, aber tolerant
 * selbstlos – aber warum für kaputte Menschen?
+* Hat ein ordentliches Netzwerk an Frauen, die zum Markt gehen
 * während des zweiten Aktes von Schicksalsschlägen erschüttert (Tod ihres Mannes), Situation wird spürbar schlechter
 * schreibt im dritten Akt die feministischen Terrorbotschaften
 * freundet sich mit Varg an
@@ -96,7 +97,7 @@ C'rahanijz
 * Schamane der Ureinwohnerstämme
 * Blutmagier
 * leicht wahnsinnig, spricht mit der Blutgöttin
-* folgt der Blutgöttin blind
+* folgt der Blutgöttin blind, sonst gutmütig
 * liebt sein Volk
 
 
