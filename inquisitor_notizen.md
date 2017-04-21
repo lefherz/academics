@@ -96,32 +96,32 @@ C'rahanijz
 # Other people
 
 Kenin
-* Hauptmann der ehrbaren Diebe des siebten Bezirks  
-* Boss von Marcin  
-* Brockensüchtig  
-* homosexuell  
+* Hauptmann der ehrbaren Diebe des siebten Bezirks
+* Boss von Marcin
+* Brockensüchtig
+* homosexuell
 
 Gabor
-* Leutnant der ehrbaren Diebe des siebten Bezirks  
-* Verkauft Brocken   
-* Setzt oft kleine Jungen ein, deren Familien er vorher zerstört hat, und die dann keine Wahl haben, als mit ihm zusammenzuarbeiten. Sieht sich gerne als Vater dieser Kinder, die er schlägt.  
-* Liebt schlechte Reime, um seinen Kindern etwas beizubringen  
+* Leutnant der ehrbaren Diebe des siebten Bezirks 
+* Verkauft Brocken 
+* Setzt oft kleine Jungen ein, deren Familien er vorher zerstört hat, und die dann keine Wahl haben, als mit ihm zusammenzuarbeiten. Sieht sich gerne als Vater dieser Kinder, die er schlägt. 
+* Liebt schlechte Reime, um seinen Kindern etwas beizubringen 
 
 Patrizier 
-* Ratsvorsitzender  
-* größte militärische Macht  
-* intrigant  
-* muss alle Fraktionen auf einem kleinen Level halten  
+* Ratsvorsitzender 
+* größte militärische Macht 
+* intrigant 
+* muss alle Fraktionen auf einem kleinen Level halten 
 
 Arghan Howl
-* Unternehmer  
-* Besitzer einer Waffenfabrik  
-* Ratsmitglied  
-* Mitglied der Loge  
-* will Fortschritt vorantreiben  
-* Rücksichtslos  
-* vernarbt, trägt ein Okular  
-* hat er Thorn aus dem Orden werfen lassen?  
+* Unternehmer 
+* Besitzer einer Waffenfabrik 
+* Ratsmitglied 
+* Mitglied der Loge 
+* will Fortschritt vorantreiben 
+* Rücksichtslos 
+* vernarbt, trägt ein Okular 
+* hat er Thorn aus dem Orden werfen lassen? 
 
 Großinquisitor Isigor 
 * Oberhaupt des Ordens der Flamme 
