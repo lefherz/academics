@@ -1,6 +1,6 @@
-Das Geheimnis des Inquisitors
+# Das Geheimnis des Inquisitors
 
-Don't lie.
+_Don't lie.
 Don't cheat.
 Don't steal.
 Don't sell drugs.
@@ -12,7 +12,7 @@ Für Leon. Gegen Leon.
 
 
 
-# Dramatis Personae
+# Point of View-Charaktere
 
 Thorn von Hartlingen
 * ehemaliger Inquisitor
@@ -55,34 +55,45 @@ Varg
 * starke Prinzipien, hin und wieder dogmatisch
 
 Joran
-Magier
-Erfinder bei Howl Industries
-an Dania interessiert
-schüchtern, weiß nicht, wie man mit Menschen umgeht
-Prinzipientreu
-faul, außer wenn‘s um etwas geht, das ihn interessiert 
-Atheist mit Fantasie 
-will seine Erfindungen für das gute einsetzen, Fortschritt für alle 
+* Magier
+* Erfinder bei Howl Industries
+* an Dania interessiert
+* schüchtern, weiß nicht, wie man mit Menschen umgeht
+* Prinzipientreu
+* faul, außer wenn‘s um etwas geht, das ihn interessiert 
+* Atheist mit Fantasie 
+* will seine Erfindungen für das gute einsetzen, Fortschritt für alle 
 
 Dragan Burk
-Hauptmann der Miliz
-Hakuns Leibwächter
-homosexuell
-aus reichem Hause
-vorsichtig 
-war als Kind immer sehr gelangweilt
-musste lernen, seine Liebe zu verstecken, und lässt diesen Frust gerne an Verbrechern raus
-kann lesen
+* Hauptmann der Miliz
+* Hakuns Leibwächter
+* homosexuell
+* aus reichem Hause
+* vorsichtig 
+* war als Kind immer sehr gelangweilt
+* musste lernen, seine Liebe zu verstecken, und lässt diesen Frust gerne an Verbrechern raus
+* kann lesen
 
 Stepanie
-lebt im achten Bezirk, arbeitslos, Frau eines Ehrbaren Diebes, Tochter Mia (8)
-ihr Bruder (Orst) ist als kleiner Junge zum Orden gegangen, und nun lehrender Inquisitor, versorgt sie immer mal wieder mit Essen und Geld, sie muss den Job Hunnars verheimlichen
-findet sich außerordentlich hässlich und hat damit ein Problem, auch wenn Hunnar sie liebt
-Mann (Hunnar) stirbt bei Revolte gegen Magister Thorn, sie sucht sich einen Job bei Arghan Howl, und/oder wird Informantin für Marcin
-Tochter geht auf Jorans Schule, als sie eröffnet wird
-herzlich & großzügig, auch wenn sie sich mal mit unschönen Taten über Wasser halten muss
-fromm, aber tolerant
-selbstlos – aber warum für kaputte Menschen?
+* lebt im achten Bezirk, arbeitslos, Frau eines Ehrbaren Diebes, Tochter Mia (8)
+* ihr Bruder (Orst) ist als kleiner Junge zum Orden gegangen, und nun lehrender Inquisitor, versorgt sie immer mal wieder mit Essen und Geld, sie muss den Job Hunnars verheimlichen
+* findet sich außerordentlich hässlich und hat damit ein Problem, auch wenn Hunnar sie liebt
+* Mann (Hunnar) stirbt bei Revolte gegen Magister Thorn, sie sucht sich einen Job bei Arghan Howl, und/oder wird Informantin für Marcin
+* Tochter geht auf Jorans Schule, als sie eröffnet wird
+* herzlich & großzügig, auch wenn sie sich mal mit unschönen Taten über Wasser halten muss
+* fromm, aber tolerant
+* selbstlos – aber warum für kaputte Menschen?
+
+C'rahanijz
+* Schamane der Ureinwohnerstämme
+* Blutmagier
+* leicht wahnsinnig, spricht mit der Blutgöttin
+* folgt der Blutgöttin blind
+* liebt sein Volk
+
+
+
+# Other people
 
 Kenin
 Hauptmann der ehrbaren Diebe des siebten Bezirks
@@ -111,13 +122,6 @@ will Fortschritt vorantreiben
 Rücksichtslos
 vernarbt, trägt ein Okular
 hat er Thorn aus dem Orden werfen lassen?
-
-C'rahanijz
-Schamane der Ureinwohnerstämme
-Blutmagier
-leicht wahnsinnig, spricht mit der Blutgöttin
-folgt der Blutgöttin blind
-liebt sein Volk
 
 Großinquisitor Isigor 
 Oberhaupt des Ordens der Flamme 
@@ -170,7 +174,7 @@ frech
 wird wegen Homosexualität verbrannt 
 
 Tobian
-lehrt Kampfunterricht
+lehrt Kampfunterricht in den Heiligen Hallen der Flamme
 
 Toman
 Ehrbarer Dieb
@@ -225,72 +229,85 @@ Giulia von Hartlingen
 - Giulia brennt das Haus ihrer Familie mit allen darin nieder
 - Eunuch verurteilt sie nicht, aber ist traurig, dass sie nicht so weit ist, Weisheit zu verstehen, Auflehnung mit Grausamkeit verwechselt – Giulia: Welt war grausam zu mir, so muss Auflehnung aussehen
 - Giulia verschwindet und schwebt auf den anderen Kontinent, lernt dort die Blutgöttin kennen, schließt sich den Pantherinnen an
-Fraktionen 
+
+
+
+# Fraktionen 
 
 Rat Lagons
-korruptes Parlament
-Kommando über Miliz
-Bürokratieapparat mit Verwaltung
-treiben Steuern ein
-Berater, Bürokraten, Lobbyisten, Gesellschaftliche Vertreter, Hauptleute, Inquisitoren, Kaufleute, Fabrikanten
+* korruptes Parlament
+* Kommando über Miliz
+* Bürokratieapparat mit Verwaltung
+* treiben Steuern ein
+* Berater, Bürokraten, Lobbyisten, Gesellschaftliche Vertreter, Hauptleute, Inquisitoren, Kaufleute, Fabrikanten
 
 Orden der Flamme/Inquisition
-Glaube des kleinen Mannes
-besteht aus Inquisitoren in braunen Roben und Novizen in schwarzen Roben
-Antimagische Einstellung, verfolgt Magier
-Göttliche Feuersplitter als Festigung ihrer Macht 
-Zölibat, sexuelle Abstinenz
-Große Macht über Bürger, durch Manipulation im Gottesdienst
+* Glaube des kleinen Mannes
+* besteht aus Inquisitoren in braunen Roben und Novizen in schwarzen Roben
+* Antimagische Einstellung, verfolgt Magier
+* Göttliche Feuersplitter als Festigung ihrer Macht 
+* Zölibat, sexuelle Abstinenz
+* Große Macht über Bürger, durch Manipulation im Gottesdienst
 
 Loge innovativer Eliten
-Wirtschaftsbosse
-Intellektueller Verbund von Erfindern
-kapitalistische Ausbeuter
-führen Universität 
-heimliche magische Forschungen
-Fabrikführer
+* Wirtschaftsbosse
+* Intellektueller Verbund von Erfindern
+* kapitalistische Ausbeuter
+* führen Universität 
+* heimliche magische Forschungen
+* Fabrikführer
 
 die ehrbaren Diebe
-Mafiabosse, die ihr Geld mit Brockenhandel, Prostitution, Raub, Auftragsmord und vor allem Informationen verdienen
-Organisationen funktionieren nach Gefallen gegen Gefallen, Ruf ist sehr wichtig für einen Dieb
-große Rivalitäten zB um Reviere
-Intrigant wie sonst was
-Diebe leben nicht lang
-Gefallen sind Währung unter Dieben, wer einen Gefallen nicht zurückgibt, verliert seinen Ruf und kriegt nie wieder einen Gefallen
-Diebe helfen Armen gegen Gefallen
+* Mafiabosse, die ihr Geld mit Brockenhandel, Prostitution, Raub, Auftragsmord und vor allem Informationen verdienen
+* Organisationen funktionieren nach Gefallen gegen Gefallen, Ruf ist sehr wichtig für einen Dieb
+* große Rivalitäten zB um Reviere
+* Intrigant wie sonst was
+* Diebe leben nicht lang
+* Gefallen sind Währung unter Dieben, wer einen Gefallen nicht zurückgibt, verliert seinen Ruf und kriegt nie wieder einen Gefallen
+* Diebe helfen Armen gegen Gefallen
 
 Thornische Ureinwohner 
-geprägt von Sexismus, Kannibalismus, Blutmagie, Inzestclans
-Hass auf den Wassergott
-Homoerotik als edle Liebe
-kein eigener Name für das Land, keine einheitliche Regierung
-Frauen sehen sich selbst als Menschen zweiter Klasse
-Stämme bilden Dörfer 
+* geprägt von Sexismus, Kannibalismus, Blutmagie, Inzestclans
+* Hass auf den Wassergott
+* Homoerotik als edle Liebe
+* kein eigener Name für das Land, keine einheitliche Regierung
+* Frauen sehen sich selbst als Menschen zweiter Klasse
+* Stämme bilden Dörfer 
 Stadtmenschen
-Ackerbau im Flussdelta
+	Ackerbau im Flussdelta
 Nomaden
-Viehzucht in der Wüste
-Handel
+	Viehzucht in der Wüste
+	Handel
 Dschungeldörfer
-Jagen&Sammeln
-Schamanen haben gehobene, Stammexterne Stellung
-Wombats heilige Tiere
+	Jagen&Sammeln
+	Schamanen haben gehobene, Stammexterne Stellung
+	Wombats heilige Tiere
 
 A'kradizz
-Rebellen gegen Ureinwohner
-verehren den Wassergott, seine Nachkommen
-benutzen Artefakte aus Tempeln 
+* Rebellen gegen Ureinwohner
+* verehren den Wassergott, seine Nachkommen
+* benutzen Artefakte aus Tempeln 
 
 Pantherinnen
-Frauenrechtler-Untergrundorganisation
-Terroristisch
-Männerhass
-Blutmagie aus Periodenblut
-machen keinen Unterschied zwischen Gegnern
-ständig auf brocken 
-Handlung
+* Frauenrechtler-Untergrundorganisation
+* Terroristisch
+* Männerhass
+* Blutmagie aus Periodenblut
+* machen keinen Unterschied zwischen Gegnern
+* ständig auf brocken 
+* Handlung
 
-Akt 1
+Feministischer Untergrund
+* Instrumentalisiert Terroranschläge für sich, um zu zeigen, dass auch Frauen Macht haben
+* Wollen über Furcht die Unversehrtheit weiblicher Körper bewahren
+* Kein Geld, keine Waffen, keine Skills
+* Mit der Zeit kommen reiche Unterstützerinnen hinzu
+
+
+
+
+
+# Akt 1
 Einführungskapitel mit Thorn?
 Dania trifft sich mit Stepanie, nimmt eine Nase Brocken und treibt es mit einem Freier. als er fertig und benommen ist, klaut sie ihm die Brieftasche und versucht zu fliehen. Er erwischt sie, schlägt sie zusammen, raubt sie aus und lässt sie liegen
 Joran sitzt in seinem Labor und tüftelt für Arghan Howl
@@ -309,7 +326,7 @@ Thorn trifft sich mit Varg, fragt ihn um Unterstützung
 Thorn lehrt Dania einen leichten Illusionszauber, mit dem sie sich in Kenins Wohnung schleicht und ihn umbringt
 Marcin wird Kenins Nachfolger und Hauptmann des siebten Bezirks
 
-Akt 2
+# Akt 2
 Kontakt zur Loge herstellen
 Arghan Howl wurde früher der Magie beschuldigt, weil er Magier in seinem Dienst hatte, wurde jedoch aufgrund seiner Position freigesprochen
 Thorn nimmt Kontakt zu ihm auf und gründet Zusammenarbeit auf ideologischer Basis gegen den Orden
@@ -341,7 +358,7 @@ Thorn ergreift mit Unterstützung Howls und Dragans die Macht und lässt sich zu
 Dania wendet sich an Howl wegen Aufträgen, ohne Thorn Bescheid zu sagen, für mehr Unabhängigkeit. Howl verrät sie, weil er Thorns Unterstützung für wichtiger befindet.
 Thorn vergiftet Dania
 
-Akt 3
+# Akt 3
 Vargs Doppelleben
 Thorn erzählt Joran und Varg, dass Dania im Kampf ums Leben gekommen ist
 Varg und Joran sind erschüttert über den Tod Danias
@@ -384,7 +401,7 @@ Laya missglückt magisches Experiment, sodass sie unfruchtbar wird und ihre erst
 Laya lebt in Jorans Labor, Interesse an Wissenschaft vertreibt ihr die Langeweile
 Laya verliebt sich in Joran, sie ist ihm zu jung und Abhängigkeitsverhältnis ist auch scheiße
 
-Vorspiel
+# Vorspiel
 Thorn
 frommer, liebender Vater
 teilnahmslose Mutter, die in Psychose vor sich hin dämmert
@@ -430,7 +447,7 @@ sie verschwindet und schwebt auf den anderen Kontinent
 
 
 
-Akt 4
+# Akt 4
 Dragan
 Marcin und Dragan werden beauftragt, in einem fremden Kontinent nach einer Waffe gegen die Artefakte des Ordens zu suchen
 Die beiden müssen sich auf der überfahrt eine Kajüte teilen und kommen sich wieder näher
@@ -530,7 +547,7 @@ Pantherinnenrat soll bei patriarchaler Unterdrückung eingreifen, Dragan erhält
 Marcin, Giulia und Joran verlassen Sanguin, um Revolution in Lagon durchzuführen, Marcin hat andere Pläne
 
 
-Akt 5
+# Akt 5
 
 - Giulia, Marcin und Joran kommen in Lagon an
 - Laya als Hochmagierin Thorns greift Orden an, offener Bürgerkrieg
@@ -543,8 +560,7 @@ Akt 5
 - Marcin redet mit Thorn, versucht ihn zu überzeugen, Homosexualität akzeptabel zu machen, und ihm im Gegenzug zu helfen, Thorn verspottet ihn
 - Giulia streift durch die Straßen der Stadt, ihr fällt auf, wie die Frauen am Bürgerkrieg leiden, sie besetzt ein Haus und macht ein Frauenhaus auf
 - Eunuch zeigt ihm Grenzen der Menschlichkeit auf, hilft ihm, Realität nach seinem Willen zu formen
-- Joran wird zum Verhör aus der Zelle geführt, verbiegt Realität so, dass er entkommen kann
-(Zeit umdenken)
+- Joran wird zum Verhör aus der Zelle geführt, verbiegt Realität so, dass er entkommen kann (Zeit umdenken)
 - Blutgöttin redet ihm ein, dass er auf dem besten Weg ist, ein Gott zu werden, verführt ihn im Traum, sagt sie schenkt ihm Danias Leben 
 - Giulia wird von Blutgöttin zu Thorn geführt, sie macht ihn wegen seines Narzissmus fertig
 - Joran kehrt zur Zelle des Eunuchen zurück, erklärt ihm, dass Menschen das Problem sind, weil sie an Götter glauben, und er Lagon reinigen muss, um eine neue Generation Post-Menschen zu kreieren
@@ -582,7 +598,7 @@ Akt 5
 	- Eunuch kümmert sich um seine Wombats 
 
 
-Spielprinzip 
+# Spielprinzip 
 
 Prolog und Akt 1
 Charakter: Dania
@@ -650,8 +666,10 @@ Charakter: Joran
 Bormagie, Blutmagie, Wassersplitter, Flammensplitter vllt auch
 Stadt im Chaos, Bürgerkrieg
 
-Magie
-Flammen < Wasser < Blut < Flammen etc
+
+
+# Magie
+**Flammen < Wasser < Blut < Flammen etc**
 
 Alchemistisches Prinzip 
 Zutat extrahieren, unter einwirkung von magischer Energie
@@ -666,7 +684,7 @@ Manaprinzip
 Mana fließt durch die Erde und alles lebende
 Der Magier kanalisiert das Mana durch seinen Verstand, um Effekte hervorzurufen
 
-Kristallines Prinzip 
+Kristallines Prinzip
 Kristalle halten Magische Sprüche
 Magische Worte entfesseln Macht 
 
@@ -675,7 +693,7 @@ gewisse Fingerbewegungen entfesseln Magie
 evtl mit Wort der Macht 
 nötiger Zauberstab?
 
-Essenzielles Prinzip
+**Essenzielles Prinzip**
 magische Grundessenz Bor (Essenz von Brocken) hält magische Macht
 Bor lässt sich mit Zauberzutat 
 in Tränke brauen
@@ -687,7 +705,7 @@ Bor ist die Lebensessenz von Wombats
 Wombatscheiße Kochen = Brocken 
 Wombatscheiße, Blut, Kotze, Flüssigkeiten destillieren: Bor
 
-Göttliches Prinzip
+**Göttliches Prinzip**
 Feuer/Wassergott sind tot, ihre Macht ruht in den Artefakten
 Feuerartefakte wirken durch Unschuld, Jungfräulichkeit
 Wasserartefakte wirken durch reines Wasser trinken/waschen
@@ -706,16 +724,16 @@ Macht an Runen gebunden
 durch berühren der Runen + Machtwort erfüllt sich die Bedeutung
 müssen durch magische Flüssigkeit aufgeladen werden
 
-Blutmagie
-Menschenblut trinken schafft Kontakt zu ihr, sie verleiht Macht 
+**Blutmagie**
+Menschenblut trinken schafft Kontakt zu Blutgöttin, sie verleiht Macht 
 Beeinflusst Wahrnehmung der Realität → kognitive Dissonanzen wegen Grausamkeit?
 Energie wird durch Machtworte kanalisiert
 durch Blutmagie getötete Gegner sind blutleer 
 
-Brocken 
+**Brocken **
 eingenommen erzeugt es Visionen, Größenwahn und Ausbrüche leichter magischer Macht
 zu große Ausbrüche von Brockenmagie können töten
-stark vom Orden verfolgt, weil Gegner von Magie
+stark vom Orden verfolgt
 
 Zauberstäbe
 Zauberstab + Wort der Macht ruft Effekt hervor
@@ -729,7 +747,9 @@ Namenskunde
 Alles hat einen Namen, wenn du ihn verstehst, hast du Macht darüber
 Namen können nur mit dem unterbewussten Geist verstanden werden, du kannst sie nicht erlernen
 
-Rezepte
+
+# Rezepte
+
 Vergissmich # Vergissmeinnicht/Myosotis Sylvatica
 Feuer # Asche
 Schutz # Knochenstaub
@@ -746,7 +766,10 @@ Blitz vom Himmel # Schwefel
 Sprungkraft # Heuschreckenflügel
 Nicht lügen können # Blütenhonig
 Schlaf # 
-Distrikte
+
+
+
+# Stadtplan
 
 1. Bezirk
 Nobelviertel
@@ -795,7 +818,7 @@ weitläufig, Äußerster Stadtrand
 12. Bezirk
 13. Bezirk
 
-Feminismus – mehr weibliche Charaktere
+# Feminismus – mehr weibliche Charaktere
 Ideen:
 Dania hilft einer Bäuerin im Versteck
 Dania hat eine Jugendfreundin, die unter Schönheitsdruck leidet
