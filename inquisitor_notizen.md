@@ -1,11 +1,11 @@
 # Das Geheimnis des Inquisitors
 
-_Don't lie.
-Don't cheat.
-Don't steal.
-Don't sell drugs.
-Don't kill.
-The government hates competition._
+Don't lie.  
+Don't cheat.  
+Don't steal.  
+Don't sell drugs.  
+Don't kill.  
+The government hates competition.  
 
 Für Leon. Gegen Leon.
 
@@ -625,8 +625,8 @@ Wechsel zwischen Charakteren notwendig, weil sonst keine neuen Aufträge
 Stealth-Action
 Sicht eines Doppelagenten, Varg
 beim Orden aufgewachsen
-arbeitet für beide und kriegt so alle Pläne mit 
-Entscheidung für eine Seite oder gute Balance? 
+arbeitet für beide und kriegt so alle Pläne mit
+Entscheidung für eine Seite oder gute Balance?
 Gute Balance, weil sonst von der einen enttarnt
 3rd person
 Bormagie + später ein Flammensplitter
@@ -652,7 +652,7 @@ Informationsgewalt sichern durch Presse
 weitertreiben der Geschichte durch ein paar treue und nicht fluide Untergebene
 Spione werden sehr wichtig
 Marcin, Joran nicht fluid, Varg zumindest steuerbar
-Aufstände von Gläubigen, Armen, Dieben, Arbeitern, Milizen _
+Aufstände von Gläubigen, Armen, Dieben, Arbeitern, Milizen_
 
 _Akt 4 
 abwechselnde Perspektiven von Dragan, Marcin und C'rahanijz
@@ -735,7 +735,7 @@ Beeinflusst Wahrnehmung der Realität → kognitive Dissonanzen wegen Grausamkei
 Energie wird durch Machtworte kanalisiert
 durch Blutmagie getötete Gegner sind blutleer 
 
-**Brocken **
+**Brocken**
 eingenommen erzeugt es Visionen, Größenwahn und Ausbrüche leichter magischer Macht
 zu große Ausbrüche von Brockenmagie können töten
 stark vom Orden verfolgt
