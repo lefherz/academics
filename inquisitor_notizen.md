@@ -4,8 +4,8 @@ _Don't lie.
 Don't cheat.
 Don't steal.
 Don't sell drugs.
-Don't kill. 
-The government hates competition.
+Don't kill.
+The government hates competition._
 
 Für Leon. Gegen Leon.
 
@@ -410,6 +410,7 @@ Thorn
 * Urlaub in Landhaus im elften Bezirk 
 * Giulia und Thorn verbringen viel Zeit in den Feldern, sehen Tieren beim paaren zu
 * Giulia und Thorn schlafen miteinander, ohne wirklich zu wissen, was sie tun, aber es gefällt ihnen   
+
 Giulia
 * Beginn: sie wird von Thorn genommen
 * sie besucht ihre Mutter und erzählt ihr wie immer von ihrem Tag, die ist aber Teilnahmslos
@@ -422,12 +423,14 @@ Giulia
 * auf der Straße versucht sie klarzukommen, wird im ersten Bezirk überall abgewiesen, Miliz fährt sich in den achten Bezirk
 * Mann bringt sie zum Sex, sie beschwert sich, dass es ihr nicht gefällt, er schlägt sie 
 * sie nimmt den Schlafplatz und das Essen, haut aber am nächsten morgen ab  
+
 Eunuch
 * streicht mit seinem Wombat durch die Gassen, nackt, aber niemand scheint sich dafür zu interessieren, weil Magie 
 * erfährt die Geschichten der Menschen um sich herum, redet mit Einzelnen über Normen und warum sie ihnen folgen, alle irritiert
 * Giulia sieht ihn und erkennt, dass er nichts anhat, spricht ihn darauf an, auch warum er keinen Penis hat
 * er ist total erstaunt, nimmt sie mit und erklärt ihr Götter und Normen 
 * zeigt ihr Bormagie  
+
 Thorn
 * Vater ist hin- und hergerissen, will seinen Erben nicht verbannen, fragt ihn nach Motiv 
 * er erklärt, dass ihn die Macht fasziniert hat 
@@ -435,6 +438,7 @@ Thorn
 * er langt beim Orden an und wird wegen seiner Herkunft bevorzugt behandelt 
 * er ist klug genug und passt sich an, schluckt die Lehren, erkennend, dass er es hier zu etwas bringen kann und endlich die echte Welt anfängt
 * redet mit seinem Zimmergenossen über Ordnung und die Welt   
+
 Giulia
 * wird von Eunuch in Philosophie unterrichtet, fängt an Götter zu hassen
 * erhält Lektion in Willensfreiheit
@@ -601,14 +605,14 @@ Dragan (Marcin ist Dieb)
 
 # Spielprinzip 
 
-_Prolog und Akt 1  
-Charakter: Dania  
-3rdperson  
-Stealth + Social sehr wichtig (von masquerade abschauen)  
-Open world  
-Brockensucht  
-muss regelmäßig was nehmen, sonst sinken Stats.  
-Wenn high, stören Visionen  _
+_Prolog und Akt 1
+Charakter: Dania
+3rdperson
+Stealth + Social sehr wichtig (von masquerade abschauen)
+Open world
+Brockensucht
+muss regelmäßig was nehmen, sonst sinken Stats.
+Wenn high, stören Visionen_
 
 _Akt 2
 Bormagie
@@ -687,7 +691,7 @@ Der Magier kanalisiert das Mana durch seinen Verstand, um Effekte hervorzurufen_
 
 _Kristallines Prinzip
 Kristalle halten Magische Sprüche
-Magische Worte entfesseln Macht _
+Magische Worte entfesseln Macht_
 
 _Zeichen
 gewisse Fingerbewegungen entfesseln Magie
