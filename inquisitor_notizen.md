@@ -96,101 +96,101 @@ C'rahanijz
 # Other people
 
 Kenin
-Hauptmann der ehrbaren Diebe des siebten Bezirks
-Boss von Marcin
-Brockensüchtig
-homosexuell
+* Hauptmann der ehrbaren Diebe des siebten Bezirks  
+* Boss von Marcin  
+* Brockensüchtig  
+* homosexuell  
 
 Gabor
-Leutnant der ehrbaren Diebe des siebten Bezirks
-Verkauft Brocken 
-Setzt oft kleine Jungen ein, deren Familien er vorher zerstört hat, und die dann keine Wahl haben, als mit ihm zusammenzuarbeiten. Sieht sich gerne als Vater dieser Kinder, die er schlägt.
-Liebt schlechte Reime, um seinen Kindern etwas beizubringen
+* Leutnant der ehrbaren Diebe des siebten Bezirks  
+* Verkauft Brocken   
+* Setzt oft kleine Jungen ein, deren Familien er vorher zerstört hat, und die dann keine Wahl haben, als mit ihm zusammenzuarbeiten. Sieht sich gerne als Vater dieser Kinder, die er schlägt.  
+* Liebt schlechte Reime, um seinen Kindern etwas beizubringen  
 
 Patrizier 
-Ratsvorsitzender
-größte militärische Macht  
-intrigant
-muss alle Fraktionen auf einem kleinen Level halten
+* Ratsvorsitzender  
+* größte militärische Macht  
+* intrigant  
+* muss alle Fraktionen auf einem kleinen Level halten  
 
 Arghan Howl
-Unternehmer
-Besitzer einer Waffenfabrik
-Ratsmitglied
-Mitglied der Loge
-will Fortschritt vorantreiben
-Rücksichtslos
-vernarbt, trägt ein Okular
-hat er Thorn aus dem Orden werfen lassen?
+* Unternehmer  
+* Besitzer einer Waffenfabrik  
+* Ratsmitglied  
+* Mitglied der Loge  
+* will Fortschritt vorantreiben  
+* Rücksichtslos  
+* vernarbt, trägt ein Okular  
+* hat er Thorn aus dem Orden werfen lassen?  
 
 Großinquisitor Isigor 
-Oberhaupt des Ordens der Flamme 
-sehr stolz
-keusch
-nicht charismatisch
-Buckel
+* Oberhaupt des Ordens der Flamme 
+* sehr stolz
+* keusch
+* nicht charismatisch
+* Buckel
 
 Hor'igunda
-Ältester von Dorf B
+* Ältester von Dorf B
 
 Nathan
-Magier im Dienste Howls
-etwa 60 Jahre alt
+* Magier im Dienste Howls
+* etwa 60 Jahre alt
 
 J'zharr
-Gott des Feuers
-innere Reinheit als Ideal
+* Gott des Feuers
+* innere Reinheit als Ideal
 
 Q'holi
-Gott des Wassers
-äußere Reinheit als Ideal
+* Gott des Wassers
+* äußere Reinheit als Ideal
 
 Ratsinquisitor Callen
-ausschweifender Lebensstil
-korrupt und intrigant 
+* ausschweifender Lebensstil
+* korrupt und intrigant 
 
 Sinya 
-Novize des Ratsinquisitors
-schüchtern, gebrochen
-Hass auf Magie, da Mutter Brockensüchtig
+* Novize des Ratsinquisitors
+* schüchtern, gebrochen
+* Hass auf Magie, da Mutter Brockensüchtig
 
 Jun'ya
-Pantherin
-Terroristin
-Lesbisch
-jähzornig
+* Pantherin
+* Terroristin
+* Lesbisch
+* jähzornig
 
 Orfan
-lehrender Inquisitor
-fromm
-nicht rhetorisch begabt
-gutgläubig
+* lehrender Inquisitor
+* fromm
+* nicht rhetorisch begabt
+* gutgläubig
 
 Ulpor
-Inquisitoren-Novize
-Groß, Stark, Gutgebaut 
-weniger strenggläubig, Vergangenheit bei den ehrbaren Dieben
-frech
-wird wegen Homosexualität verbrannt 
+* Inquisitoren-Novize
+* Groß, Stark, Gutgebaut 
+* weniger strenggläubig, Vergangenheit bei den ehrbaren Dieben
+* frech
+* wird wegen Homosexualität verbrannt 
 
 Tobian
-lehrt Kampfunterricht in den Heiligen Hallen der Flamme
+* lehrt Kampfunterricht in den Heiligen Hallen der Flamme
 
 Toman
-Ehrbarer Dieb
-hat eine Schwester, Magda, die er sehr liebt
-fähiger Attentäter, gut mit der Armbrust
+* Ehrbarer Dieb
+* hat eine Schwester, Magda, die er sehr liebt
+* fähiger Attentäter, gut mit der Armbrust
 
 Katan
-Hauptmann der Miliz
-stolz, korrupt, arrogant, dumm, egoistisch, machtgierig, 
-wird Brockensüchtig gemacht
+* Hauptmann der Miliz
+* stolz, korrupt, arrogant, dumm, egoistisch, machtgierig, 
+* wird Brockensüchtig gemacht
 
 Goran Witten
-Sprecher der Kaufmannsgilde im Rat 
-Dick, gemächlich, doch mit scharfem Verstand fürs Geschäft 
-arbeitet mit Arghan Howl zusammen, bezieht seine Waren von ihm
-Ist dort angekommen, wo er hinwollte, und nutzt seine Position aus, um Profit machen zu können, sich einen Wettbewerbsvorteil zu verschaffen
+* Sprecher der Kaufmannsgilde im Rat 
+* Dick, gemächlich, doch mit scharfem Verstand fürs Geschäft 
+* arbeitet mit Arghan Howl zusammen, bezieht seine Waren von ihm
+* Ist dort angekommen, wo er hinwollte, und nutzt seine Position aus, um Profit machen zu können, sich einen Wettbewerbsvorteil zu verschaffen
 
 Ratsmitglied Pottner
 - Finanzminister
@@ -273,15 +273,15 @@ Thornische Ureinwohner
 * kein eigener Name für das Land, keine einheitliche Regierung
 * Frauen sehen sich selbst als Menschen zweiter Klasse
 * Stämme bilden Dörfer 
-Stadtmenschen
-	Ackerbau im Flussdelta
-Nomaden
-	Viehzucht in der Wüste
-	Handel
-Dschungeldörfer
-	Jagen&Sammeln
-	Schamanen haben gehobene, Stammexterne Stellung
-	Wombats heilige Tiere
+Stadtmenschen  
+	Ackerbau im Flussdelta  
+Nomaden  
+	Viehzucht in der Wüste  
+	Handel  
+Dschungeldörfer  
+	Jagen&Sammeln  
+	Schamanen haben gehobene, Stammexterne Stellung  
+	Wombats heilige Tiere  
 
 A'kradizz
 * Rebellen gegen Ureinwohner
@@ -308,197 +308,198 @@ Feministischer Untergrund
 
 
 # Akt 1
-Einführungskapitel mit Thorn?
-Dania trifft sich mit Stepanie, nimmt eine Nase Brocken und treibt es mit einem Freier. als er fertig und benommen ist, klaut sie ihm die Brieftasche und versucht zu fliehen. Er erwischt sie, schlägt sie zusammen, raubt sie aus und lässt sie liegen
-Joran sitzt in seinem Labor und tüftelt für Arghan Howl
-Marcin findet sie so am Straßenrand, bietet ihr nen Schlafplatz an
-Varg und Thorn stürmen Jorans Labor, kriegen Aussage, lassen ihn laufen, weil sie kein Bor finden.
-Marcin bietet ihr den Job als Spionin für ihn an, weil er sein Territorium ausweiten will, gegen Brocken als Bezahlung
-Stepanie findet Dania auf Brocken auf der Straße, gibt ihr was zu Essen aus und kotzt sich über ihre Sorgen bei ihr aus. „glaub mir, für Diebe arbeiten willst du nicht“
-Thorn stürmt das Labor, dass Joran ihm verraten hat, und reinigt einen Magier, der sich noch versucht zu wehren. Daraufhin stellt er Arghan Howl zur Rede und versucht, ihn zu erpressen
-(Daraufhin wird Jorans Labor geschlossen, aber evtl ergreift Arghan Maßnahmen, um Thorn aus dem Orden werfen zu lassen)
-Dania schaltet für ihn einen rivalisierenden Brockendealer aus, seine Kumpanen verfolgen Dania
-Thorn wird aus den heiligen Hallen des Ordens geprügelt, nachdem man ihm seine  entrissen hat, Dania läuft ihm verzweifelt in die Arme, er rettet sie
-Stepanies Bruder erzählt ihr von dem aktuellen Tratsch im Orden; Raft ist ermordet worden, Thorn wurde herausgeworfen, erzählt von Varg, der ihm unschuldig vorkommt
-Dania bringt Thorn zu Marcin, der ihm Unterkunft gibt
-die drei hecken einen Plan aus, um den Boss Marcins, Kenin, zu töten und Marcin den Platz zu verschaffen, Thorn gibt mit seiner Macht an, damit Marcin Nutzen an ihm findet
-Thorn trifft sich mit Varg, fragt ihn um Unterstützung 
-Thorn lehrt Dania einen leichten Illusionszauber, mit dem sie sich in Kenins Wohnung schleicht und ihn umbringt
-Marcin wird Kenins Nachfolger und Hauptmann des siebten Bezirks
+* Einführungskapitel mit Thorn
+* Dania trifft sich mit Stepanie, nimmt eine Nase Brocken und treibt es mit einem Freier. als er fertig und benommen ist, klaut sie ihm die Brieftasche und versucht zu fliehen. Er erwischt sie, schlägt sie zusammen, raubt sie aus und lässt sie liegen
+* Joran sitzt in seinem Labor und tüftelt für Arghan Howl
+* Marcin findet sie so am Straßenrand, bietet ihr nen Schlafplatz an
+* Varg und Thorn stürmen Jorans Labor, kriegen Aussage, lassen ihn laufen, weil sie kein Bor finden.
+* Marcin bietet ihr den Job als Spionin für ihn an, weil er sein Territorium ausweiten will, gegen Brocken als Bezahlung
+* Stepanie findet Dania auf Brocken auf der Straße, gibt ihr was zu Essen aus und kotzt sich über ihre Sorgen bei ihr aus. „glaub mir, für Diebe arbeiten willst du nicht“
+* Thorn stürmt das Labor, dass Joran ihm verraten hat, und reinigt einen Magier, der sich noch versucht zu wehren. Daraufhin stellt er Arghan Howl zur Rede und versucht, ihn zu erpressen
+* (Daraufhin wird Jorans Labor geschlossen, aber evtl ergreift Arghan Maßnahmen, um Thorn aus dem Orden werfen zu lassen)
+* Dania schaltet für ihn einen rivalisierenden Brockendealer aus, seine Kumpanen verfolgen Dania
+* Thorn wird aus den heiligen Hallen des Ordens geprügelt, nachdem man ihm seine  entrissen hat, Dania läuft ihm verzweifelt in die Arme, er rettet sie
+* Stepanies Bruder erzählt ihr von dem aktuellen Tratsch im Orden; Raft ist ermordet worden, Thorn wurde herausgeworfen, erzählt von Varg, der ihm unschuldig vorkommt
+* Dania bringt Thorn zu Marcin, der ihm Unterkunft gibt
+* die drei hecken einen Plan aus, um den Boss Marcins, Kenin, zu töten und Marcin den Platz zu verschaffen, Thorn gibt mit seiner Macht an, damit Marcin Nutzen an ihm findet
+* Thorn trifft sich mit Varg, fragt ihn um Unterstützung 
+* Thorn lehrt Dania einen leichten Illusionszauber, mit dem sie sich in Kenins Wohnung schleicht und ihn umbringt
+* Marcin wird Kenins Nachfolger und Hauptmann des siebten Bezirks
 
 # Akt 2
-Kontakt zur Loge herstellen
-Arghan Howl wurde früher der Magie beschuldigt, weil er Magier in seinem Dienst hatte, wurde jedoch aufgrund seiner Position freigesprochen
-Thorn nimmt Kontakt zu ihm auf und gründet Zusammenarbeit auf ideologischer Basis gegen den Orden
-Dania und Varg werden Schüler und Versuchskaninchen für Joran, tief in Howls Geheimlabor
-Dania macht mit, weil ihre magischen Fähigkeiten sie faszinieren, und weil sie an reineres Brocken kommt 
-Varg macht mit, weil er hofft, dass Magie die Welt besser machen kann, wenn sie sicher genutzt werden kann. Thorn will ihn in dem Job haben, damit er etwas gegen ihn in der Hand hat
-Ein A'kradizz, der übers Meer her geschwommen ist und total fertig, taucht auf, und erzählt mit seinen letzten Worten von den Wassersplittern und seinem Gott. Joran verwendet seine Überreste für Feuerlöschbor
-Dania begehrt Varg, weil er als erster Mann sie nicht will
-Joran verliebt sich in Dania, weil Frau
-Dania verführt Varg
-während ihrer Monatelangen Ausbildung setzen sie weiter die Intrigen Thorns durch.
-Thorns Aufstieg
-Howl besorgt ihm ein Verwaltungsamt in Marcins Bezirk, nachdem Dania den Vorgänger beseitigt
-Hakun, der alles in der Stadt sieht, wird auf Marcin aufmerksam – Marcin bietet ihm seine Hilfe gegen die Diebe im Austausch gegen Schutz an.
-Marcin zettelt einen Aufstand mehrerer Diebe an, den Thorn blutig niederschlägt.
-Hakun hat Dragan in seinen Diensten, weil er sein Geheimnis kennt
-Dragan merkt, dass Marcin Hakun ausspioniert, und bietet ihm seine Hilfe an, Hakun aus dem Weg zu räumen
-Dania, Marcin und Varg ermorden Hakun mithilfe von Informationen von Dragan
-Arghan plant mit Thorns Genehmigung den Bau einer Schule im achten Bezirk
-(Dania forscht im Leben Hauptmann Dragans nach und findet seine Homosexualität heraus)
-Marcin macht sich an Dragan heran, es klappt aber nicht, wegen Misstrauen
-Marcin findet Beweise für Dragans Homosexualität, um ihn auf mehrere Arten gleichzeitig kontrollieren zu können
-Dragan verzeiht ihm das aber (erstmal) nicht, arbeitet gezwungenermaßen mit ihm zusammen, kann sich aber keine Beziehung mit ihm vorstellen
-Marcin erpresst Dragan damit und sichert sich so seine Unterstützung
-Thorn eröffnet mit Arghan und Joran eine Schule, auf der die Schüler selbst experimentieren können.
-Thorn wird wegen seiner Leistungen im achten Bezirk zum Ratsmitglied ernannt.
-Dania ermordet den Patrizier 
-Thorn ergreift mit Unterstützung Howls und Dragans die Macht und lässt sich zum Patrizier wählen
-Dania wendet sich an Howl wegen Aufträgen, ohne Thorn Bescheid zu sagen, für mehr Unabhängigkeit. Howl verrät sie, weil er Thorns Unterstützung für wichtiger befindet.
-Thorn vergiftet Dania
+## Kontakt zur Loge herstellen
+* Arghan Howl wurde früher der Magie beschuldigt, weil er Magier in seinem Dienst hatte, wurde jedoch aufgrund seiner Position freigesprochen
+* Thorn nimmt Kontakt zu ihm auf und gründet Zusammenarbeit auf ideologischer Basis gegen den Orden
+* Dania und Varg werden Schüler und Versuchskaninchen für Joran, tief in Howls Geheimlabor
+* Dania macht mit, weil ihre magischen Fähigkeiten sie faszinieren, und weil sie an reineres Brocken kommt 
+* Varg macht mit, weil er hofft, dass Magie die Welt besser machen kann, wenn sie sicher genutzt werden kann. Thorn will ihn in dem Job haben, damit er etwas gegen ihn in der Hand hat
+* Ein A'kradizz, der übers Meer her geschwommen ist und total fertig, taucht auf, und erzählt mit seinen letzten Worten von den Wassersplittern und seinem Gott. Joran verwendet seine Überreste für Feuerlöschbor
+* Dania begehrt Varg, weil er als erster Mann sie nicht will
+* Joran verliebt sich in Dania, weil Frau
+* Dania verführt Varg
+* während ihrer Monatelangen Ausbildung setzen sie weiter die Intrigen Thorns durch.
+## Thorns Aufstieg
+* Howl besorgt ihm ein Verwaltungsamt in Marcins Bezirk, nachdem Dania den Vorgänger beseitigt
+* Hakun, der alles in der Stadt sieht, wird auf Marcin aufmerksam – Marcin bietet ihm seine Hilfe gegen die Diebe im Austausch gegen Schutz an.
+* Marcin zettelt einen Aufstand mehrerer Diebe an, den Thorn blutig niederschlägt.
+* Hakun hat Dragan in seinen Diensten, weil er sein Geheimnis kennt
+* Dragan merkt, dass Marcin Hakun ausspioniert, und bietet ihm seine Hilfe an, Hakun aus dem Weg zu räumen
+* Dania, Marcin und Varg ermorden Hakun mithilfe von Informationen von Dragan
+* Arghan plant mit Thorns Genehmigung den Bau einer Schule im achten Bezirk
+* (Dania forscht im Leben Hauptmann Dragans nach und findet seine Homosexualität heraus)
+* Marcin macht sich an Dragan heran, es klappt aber nicht, wegen Misstrauen
+* Marcin findet Beweise für Dragans Homosexualität, um ihn auf mehrere Arten gleichzeitig kontrollieren zu können
+* Dragan verzeiht ihm das aber (erstmal) nicht, arbeitet gezwungenermaßen mit ihm zusammen, kann sich aber keine Beziehung mit ihm vorstellen
+* Marcin erpresst Dragan damit und sichert sich so seine Unterstützung
+* Thorn eröffnet mit Arghan und Joran eine Schule, auf der die Schüler selbst experimentieren können.
+* Thorn wird wegen seiner Leistungen im achten Bezirk zum Ratsmitglied ernannt.
+* Dania ermordet den Patrizier 
+* Thorn ergreift mit Unterstützung Howls und Dragans die Macht und lässt sich zum Patrizier wählen
+* Dania wendet sich an Howl wegen Aufträgen, ohne Thorn Bescheid zu sagen, für mehr Unabhängigkeit. Howl verrät sie, weil er Thorns Unterstützung für wichtiger befindet.
+* Thorn vergiftet Dania
 
 # Akt 3
-Vargs Doppelleben
-Thorn erzählt Joran und Varg, dass Dania im Kampf ums Leben gekommen ist
-Varg und Joran sind erschüttert über den Tod Danias
-Thorn: Loyalität der Hauptleute sicherstellen
-ein Exempel statuieren, den Sergeant töten, um den Hauptmann bei der Stange zu halten
-vom einen die Tochter kidnappen, Laya
-und Katan Brocken-süchtig machen
-Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
-Varg wendet sich an Isigor, weil Thorns Machenschaften ihm langsam suspekt werden
-Isigor: bring mir Informationen, belausche Thorn & Marcin; Varg erfährt, dass Thorn Dania getötet hat
-Isigor: zerstöre eine Fabrik Howls. 
-Varg klaut Schutzmagie, die gut für die Welt wäre und zu schade zum vernichten
-Thorn: töte Ratsinquisitor Callen. Sinya sieht es, Varg verschont ihn
-Thorn kann die Legalisierung von Luftkutschen durchsetzen, Varg erhält einen Flammensplitter; es wird verbreitet, dass es das Werk von Terroristen war
-Isigor gibt Varg einen weiteren Flammensplitter, und schickt ihn auf die Jagd nach dem Mörder des Ratsinquisitors, nach dem anderen Terroristen
-Thorn: stiehl Lehrplan aus den Heiligen Hallen
-Isigor ernennt Varg zum Inquisitor und gibt ihm eine sehr zentrale Kirche zum predigen
-Varg predigt entweder für Magie, für soziale Gerechtigkeit, für starken Glauben oder für mehr Sicherheitspolitik
-Isigor weist Varg Sinya als Novizen zu
-Isigor: konfisziere im Namen des Ordens Howls Baupläne für eine Luftkutsche
-Thorn: bedrohe den Inquisitor, der für die Lehrpläne zuständig ist, damit er keine Angst vor dem Wasser verbreitet und klau die Baupläne zurück – Inquisitor soll stattdessen wissenschaftliche Erkenntnisse von Jorans Schule verbreiten
-Joran beginnt, eine Luftkutsche zu bauen, die Wasser als Treibstoff benutzt
-Marcin entführt Sinya, um ein Druckmittel gegen Varg zu haben, Varg befreit Sinya und bringt ihn in seinem Versteck unter 
-Isigor: sammle Informationen über Marcin
-Varg findet Marcins Homosexualität heraus: Isigor lässt Marcin festnehmen und verurteilt ihn zum Tode
-Thorn: rette Marcin vor dem Scheiterhaufen; Varg setzt gestohlene Schutzmagie ein
-Isigor findet Sinya, der ihm sagt, dass Varg Callen getötet hat
-Thorn und Isigor eröffnen die Jagd auf Varg, der Orden, die Diebe und die Armee jagen ihn
-Varg und Marcin verstecken sich bei Joran
-Varg wagt ein Attentat auf Thorn. Sein Flammensplitter ist mächtiger, und er erkennt, dass Thorn einmal geliebt haben muss. In diesem Moment trifft ihn ein Bolzen von Marcin.
-Thorn bietet Marcin zur Belohnung die Möglichkeit, in Thornien unterzutauchen und die Expedition nach Wassersplittern zu leiten
-Der Aufbau einer Schule
-im achten Bezirk soll die erste Schule der Wissenschaft entstehen
-Joran muss erst die Lehrer ausbilden / als Lehrer werden einfach random Leute mit Lebenserfahrung herangezogen, die Schüler sollen aus verschiedenen gesellschaftlichen Schichten kommen
-Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
-Fächer: Konstruktion/Statik, Chemie, Gesellschaft, Finanzen, Historie, Biologie, 
-Undercoveragent des Ordens schleußt sich ein, auch um Varg zu überwachen 
-Joran ertappt ihn beim durchwühlen von Unterlagen und überwältigt und tötet ihn mithilfe von einer Bor-Mischung
-Laya missglückt magisches Experiment, sodass sie unfruchtbar wird und ihre erste Periode nicht bekommt, nur dunkler Staub kommt bei ihr raus, Joran ist überfordert
-Laya lebt in Jorans Labor, Interesse an Wissenschaft vertreibt ihr die Langeweile
-Laya verliebt sich in Joran, sie ist ihm zu jung und Abhängigkeitsverhältnis ist auch scheiße
+## Vargs Doppelleben
+* Thorn erzählt Joran und Varg, dass Dania im Kampf ums Leben gekommen ist
+* Varg und Joran sind erschüttert über den Tod Danias
+* Thorn: Loyalität der Hauptleute sicherstellen
+* ein Exempel statuieren, den Sergeant töten, um den Hauptmann bei der Stange zu halten
+* vom einen die Tochter kidnappen, Laya
+* und Katan Brocken-süchtig machen
+* Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
+* Varg wendet sich an Isigor, weil Thorns Machenschaften ihm langsam suspekt werden
+* Isigor: bring mir Informationen, belausche Thorn & Marcin; Varg erfährt, dass Thorn Dania getötet hat
+* Isigor: zerstöre eine Fabrik Howls. 
+* Varg klaut Schutzmagie, die gut für die Welt wäre und zu schade zum vernichten
+* Thorn: töte Ratsinquisitor Callen. Sinya sieht es, Varg verschont ihn
+* Thorn kann die Legalisierung von Luftkutschen durchsetzen, Varg erhält einen Flammensplitter; es wird verbreitet, dass es das Werk von Terroristen war
+* Stepanie erfährt auf dem Markt, dass seit es angeblich feministische Terroristinnen gibt, eine Freundin von ihr nicht mehr geschlagen wird
+* Isigor gibt Varg einen weiteren Flammensplitter, und schickt ihn auf die Jagd nach dem Mörder des Ratsinquisitors, nach dem anderen Terroristen
+* Thorn: stiehl Lehrplan aus den Heiligen Hallen
+* Isigor ernennt Varg zum Inquisitor und gibt ihm eine sehr zentrale Kirche zum predigen
+* Varg predigt entweder für Magie, für soziale Gerechtigkeit, für starken Glauben oder für mehr Sicherheitspolitik
+* Isigor weist Varg Sinya als Novizen zu
+* Isigor: konfisziere im Namen des Ordens Howls Baupläne für eine Luftkutsche
+* Thorn: bedrohe den Inquisitor, der für die Lehrpläne zuständig ist, damit er keine Angst vor dem Wasser verbreitet und klau die Baupläne zurück – Inquisitor soll stattdessen wissenschaftliche Erkenntnisse von Jorans Schule verbreiten
+* Joran beginnt, eine Luftkutsche zu bauen, die Wasser als Treibstoff benutzt
+* Marcin entführt Sinya, um ein Druckmittel gegen Varg zu haben, Varg befreit Sinya und bringt ihn in seinem Versteck unter 
+* Isigor: sammle Informationen über Marcin
+* Varg findet Marcins Homosexualität heraus: Isigor lässt Marcin festnehmen und verurteilt ihn zum Tode
+* Thorn: rette Marcin vor dem Scheiterhaufen; Varg setzt gestohlene Schutzmagie ein
+* Isigor findet Sinya, der ihm sagt, dass Varg Callen getötet hat
+* Thorn und Isigor eröffnen die Jagd auf Varg, der Orden, die Diebe und die Armee jagen ihn
+* Varg und Marcin verstecken sich bei Joran
+* Varg wagt ein Attentat auf Thorn. Sein Flammensplitter ist mächtiger, und er erkennt, dass Thorn einmal geliebt haben muss. In diesem Moment trifft ihn ein Bolzen von Marcin.
+* Thorn bietet Marcin zur Belohnung die Möglichkeit, in Thornien unterzutauchen und die Expedition nach Wassersplittern zu leiten
+## Der Aufbau einer Schule
+* im achten Bezirk soll die erste Schule der Wissenschaft entstehen
+* Joran muss erst die Lehrer ausbilden / als Lehrer werden einfach random Leute mit Lebenserfahrung herangezogen, die Schüler sollen aus verschiedenen gesellschaftlichen Schichten kommen
+* Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
+* Fächer: Konstruktion/Statik, Chemie, Gesellschaft, Finanzen, Historie, Biologie, 
+* Undercoveragent des Ordens schleußt sich ein, auch um Varg zu überwachen 
+* Joran ertappt ihn beim durchwühlen von Unterlagen und überwältigt und tötet ihn mithilfe von einer Bor-Mischung
+* Laya missglückt magisches Experiment, sodass sie unfruchtbar wird und ihre erste Periode nicht bekommt, nur dunkler Staub kommt bei ihr raus, Joran ist überfordert
+* Laya lebt in Jorans Labor, Interesse an Wissenschaft vertreibt ihr die Langeweile
+* Laya verliebt sich in Joran, sie ist ihm zu jung und Abhängigkeitsverhältnis ist auch scheiße
 
-# Vorspiel
+# Vorspiel  
 Thorn
-frommer, liebender Vater
-teilnahmslose Mutter, die in Psychose vor sich hin dämmert
-Giulia und er werden von Vater unterrichtet, Vater füttert Thorns Selbstbewusstsein
-Urlaub in Landhaus im elften Bezirk 
-Giulia und Thorn verbringen viel Zeit in den Feldern, sehen Tieren beim paaren zu
-Giulia und Thorn schlafen miteinander, ohne wirklich zu wissen, was sie tun, aber es gefällt ihnen 
+* frommer, liebender Vater
+* teilnahmslose Mutter, die in Psychose vor sich hin dämmert
+* Giulia und er werden von Vater unterrichtet, Vater füttert Thorns Selbstbewusstsein
+* Urlaub in Landhaus im elften Bezirk 
+* Giulia und Thorn verbringen viel Zeit in den Feldern, sehen Tieren beim paaren zu
+* Giulia und Thorn schlafen miteinander, ohne wirklich zu wissen, was sie tun, aber es gefällt ihnen   
 Giulia
-Beginn: sie wird von Thorn genommen
-sie besucht ihre Mutter und erzählt ihr wie immer von ihrem Tag, die ist aber Teilnahmslos
-Unterrichtsstunde bei Vater
-Thorn zeigt ihr Masturbation, scheint es zu genießen, Macht über sie zu haben
-sie besucht ihre Mutter und besorgt es ihr, in der Hoffnung, dass es ihr dann besser geht
-Als es nicht funktioniert läuft sie zu Thorn und will sich von ihm trösten lassen
-Vater kommt herein und erwischt die beiden beim Sex – ist vollkommen erschüttert
-jagt sie aus dem Haus, Thorn darf bleiben
-auf der Straße versucht sie klarzukommen, wird im ersten Bezirk überall abgewiesen, Miliz fährt sich in den achten Bezirk
-Mann bringt sie zum Sex, sie beschwert sich, dass es ihr nicht gefällt, er schlägt sie 
-sie nimmt den Schlafplatz und das Essen, haut aber am nächsten morgen ab
+* Beginn: sie wird von Thorn genommen
+* sie besucht ihre Mutter und erzählt ihr wie immer von ihrem Tag, die ist aber Teilnahmslos
+* Unterrichtsstunde bei Vater
+* Thorn zeigt ihr Masturbation, scheint es zu genießen, Macht über sie zu haben
+* sie besucht ihre Mutter und besorgt es ihr, in der Hoffnung, dass es ihr dann besser geht
+* Als es nicht funktioniert läuft sie zu Thorn und will sich von ihm trösten lassen
+* Vater kommt herein und erwischt die beiden beim Sex – ist vollkommen erschüttert
+* jagt sie aus dem Haus, Thorn darf bleiben
+* auf der Straße versucht sie klarzukommen, wird im ersten Bezirk überall abgewiesen, Miliz fährt sich in den achten Bezirk
+* Mann bringt sie zum Sex, sie beschwert sich, dass es ihr nicht gefällt, er schlägt sie 
+* sie nimmt den Schlafplatz und das Essen, haut aber am nächsten morgen ab  
 Eunuch
-streicht mit seinem Wombat durch die Gassen, nackt, aber niemand scheint sich dafür zu interessieren, weil Magie 
-erfährt die Geschichten der Menschen um sich herum, redet mit Einzelnen über Normen und warum sie ihnen folgen, alle irritiert
-Giulia sieht ihn und erkennt, dass er nichts anhat, spricht ihn darauf an, auch warum er keinen Penis hat
-er ist total erstaunt, nimmt sie mit und erklärt ihr Götter und Normen 
-zeigt ihr Bormagie
+* streicht mit seinem Wombat durch die Gassen, nackt, aber niemand scheint sich dafür zu interessieren, weil Magie 
+* erfährt die Geschichten der Menschen um sich herum, redet mit Einzelnen über Normen und warum sie ihnen folgen, alle irritiert
+* Giulia sieht ihn und erkennt, dass er nichts anhat, spricht ihn darauf an, auch warum er keinen Penis hat
+* er ist total erstaunt, nimmt sie mit und erklärt ihr Götter und Normen 
+* zeigt ihr Bormagie  
 Thorn
-Vater ist hin- und hergerissen, will seinen Erben nicht verbannen, fragt ihn nach Motiv 
-er erklärt, dass ihn die Macht fasziniert hat 
-Vater erkennt, dass seine Erziehung daran schuld ist, er hat ein narzisstisches Monster erschaffen, schickt ihn zum Orden
-er langt beim Orden an und wird wegen seiner Herkunft bevorzugt behandelt 
-er ist klug genug und passt sich an, schluckt die Lehren, erkennend, dass er es hier zu etwas bringen kann und endlich die echte Welt anfängt
-redet mit seinem Zimmergenossen über Ordnung und die Welt 
+* Vater ist hin- und hergerissen, will seinen Erben nicht verbannen, fragt ihn nach Motiv 
+* er erklärt, dass ihn die Macht fasziniert hat 
+* Vater erkennt, dass seine Erziehung daran schuld ist, er hat ein narzisstisches Monster erschaffen, schickt ihn zum Orden
+* er langt beim Orden an und wird wegen seiner Herkunft bevorzugt behandelt 
+* er ist klug genug und passt sich an, schluckt die Lehren, erkennend, dass er es hier zu etwas bringen kann und endlich die echte Welt anfängt
+* redet mit seinem Zimmergenossen über Ordnung und die Welt   
 Giulia
-wird von Eunuch in Philosophie unterrichtet, fängt an Götter zu hassen
-erhält Lektion in Willensfreiheit
-geht zu ihrem Vater und diskutiert mit ihm über Gott 
-sexuelle Traumsequenz mit sie erdrückender Familie und ihrer Auflehnung
-Sie lernt destruktive Bormagie vom Eunuchen, weil Wissen wichtig ist, egal welcher Zweck
-sie brennt Haus ihrer Familie nieder, mit allen darin
-Eunuch verurteilt sie nicht, aber ist traurig, dass sie nicht so weit ist, Weisheit zu verstehen, Auflehnung mit Grausamkeit verwechselt
-Giulia: Welt war grausam zu mir, so muss Auflehnung aussehen
-sie verschwindet und schwebt auf den anderen Kontinent
+* wird von Eunuch in Philosophie unterrichtet, fängt an Götter zu hassen
+* erhält Lektion in Willensfreiheit
+* geht zu ihrem Vater und diskutiert mit ihm über Gott 
+* sexuelle Traumsequenz mit sie erdrückender Familie und ihrer Auflehnung
+* Sie lernt destruktive Bormagie vom Eunuchen, weil Wissen wichtig ist, egal welcher Zweck
+* sie brennt Haus ihrer Familie nieder, mit allen darin
+* Eunuch verurteilt sie nicht, aber ist traurig, dass sie nicht so weit ist, Weisheit zu verstehen, Auflehnung mit Grausamkeit verwechselt
+* Giulia: Welt war grausam zu mir, so muss Auflehnung aussehen
+* sie verschwindet und schwebt auf den anderen Kontinent
 
 
 
 # Akt 4
 Dragan
-Marcin und Dragan werden beauftragt, in einem fremden Kontinent nach einer Waffe gegen die Artefakte des Ordens zu suchen
-Die beiden müssen sich auf der überfahrt eine Kajüte teilen und kommen sich wieder näher
-erste friedliche Kontaktversuche mit Ureinwohnern, die bei der Suche helfen sollen
-reisen mit Nomaden in den Dschungel, bezahlen mit Handventilatoren
-Unterkunft in Dorf B am Dschungelrand, Hilfe bei Wombats einfangen gegen Informationen
-die beiden finden aufgrund der Informationen einen antiken Tempel, in dem sie einen Feuersplitter finden 
-Auf dem Rückweg ins Lager werden sie von C'rahanijz überfallen
-Marcin wird von C'rahanijz entführt
+* Marcin und Dragan werden beauftragt, in einem fremden Kontinent nach einer Waffe gegen die Artefakte des Ordens zu suchen
+* Die beiden müssen sich auf der überfahrt eine Kajüte teilen und kommen sich wieder näher
+* erste friedliche Kontaktversuche mit Ureinwohnern, die bei der Suche helfen sollen
+* reisen mit Nomaden in den Dschungel, bezahlen mit Handventilatoren
+* Unterkunft in Dorf B am Dschungelrand, Hilfe bei Wombats einfangen gegen Informationen
+* die beiden finden aufgrund der Informationen einen antiken Tempel, in dem sie einen Feuersplitter finden 
+* Auf dem Rückweg ins Lager werden sie von C'rahanijz überfallen
+* Marcin wird von C'rahanijz entführt
 
 C'rahanijz
-Marcin wacht in C'rahanijz' Behausung auf, durch Magie gefesselt, und beobachtet ihn bei kannibalistischem Ritual
-Angst um sein Leben 
-C'rahanijz erklärt ihm, dass er seinen Platz hier hat, solange „sie“ (Blutgöttin) es sagt
-dazwischen geht man als C'rahanijz auf die Jagd nach Blut und Kräutern, von der Stimme geleitet
-während C'rahanijz Kräuter für ein „abschließendes Ritual“ sammelt, wird er von den A'kradizz angegriffen
-er wehrt die erste Welle ab, flüchtet zurück zu Marcin, der gerade vom A'kradizz gefoltert wird
-C'rahanijz befreit ihn, lehrt in einen einfachen Blutzauber, die beiden fliehen
+* Marcin wacht in C'rahanijz' Behausung auf, durch Magie gefesselt, und beobachtet ihn bei kannibalistischem Ritual
+* Angst um sein Leben 
+* C'rahanijz erklärt ihm, dass er seinen Platz hier hat, solange „sie“ (Blutgöttin) es sagt
+* dazwischen geht man als C'rahanijz auf die Jagd nach Blut und Kräutern, von der Stimme geleitet
+* während C'rahanijz Kräuter für ein „abschließendes Ritual“ sammelt, wird er von den A'kradizz angegriffen
+* er wehrt die erste Welle ab, flüchtet zurück zu Marcin, der gerade vom A'kradizz gefoltert wird
+* C'rahanijz befreit ihn, lehrt in einen einfachen Blutzauber, die beiden fliehen
 
 Dragan
-A'kradizz greift plötzlich Ureinwohner an
-Ureinwohner Dragan plötzlich feindlich gesinnt
-schlägt sich zum Flussdelta durch, fährt nach Lagon
-bringt Feuersplitter zu Thorn
-Thorn befiehlt ihm Kolonialisation
-Dragan kehrt mit Truppen und Joran zurück
-Dragan erobert Städte im Flussdelta, errichtet Wombatfarmen, Regierung
-Joran wird entführt
-Kampf mit Dschungelstamm
-Dragan trifft Marcin, der mittlerweile etablierter Schamane ist
+* A'kradizz greift plötzlich Ureinwohner an
+* Ureinwohner Dragan plötzlich feindlich gesinnt
+* schlägt sich zum Flussdelta durch, fährt nach Lagon
+* bringt Feuersplitter zu Thorn
+* Thorn befiehlt ihm Kolonialisation
+* Dragan kehrt mit Truppen und Joran zurück
+* Dragan erobert Städte im Flussdelta, errichtet Wombatfarmen, Regierung
+* Joran wird entführt
+* Kampf mit Dschungelstamm
+* Dragan trifft Marcin, der mittlerweile etablierter Schamane ist
 
 Marcin
-flieht mit C'rahanijz vor A'kradizz, verteidigt sich mit Blutzauber und Schwert 
-Zuflucht in abgelegenen Dorf A der Ureinwohner 
-Magische Lehre bei C'rahanijz
-spioniert A'kradizz aus, erfährt Ziele: 
-Wiederbringen des Wassergottes
-sammeln der Splitter des Wassergottes
-Fusion der Splitter an heiligem Wasserfall unter Opfer von einem, der sich noch nie gewaschen hat
-Marcin entführt Joran aus Kolonie in der Wüste, stiehlt moderne Waffen 
-C'rahanijz lehrt Joran Blutmagie
-Joran hilft Marcin bei Sammeln von Wassersplittern, plündern ein paar Tempel
-Großoffensive der A'kradizz, Marcin wird zu Dorf B gerufen
-Marcin verteidigt Dorf B, doch als er zu Dorf A zurückkehrt, wurden Joran und Wassersplitter entführt und das Dorf überrannt, nur C'rahanijz konnte mit Blutmagie entkommen
-Marcin eilt zu Wasserfall, A'kradizz wollen Joran opfern und Wassergott zurückholen 
-Marcin befreit Joran, vernichtet A'kradizz, Joran nimmt Wassersplitter 
-Joran und Marcin gehen zu Dragan, Joran will nach Hause, Marcin will Dragan sprechen
+* flieht mit C'rahanijz vor A'kradizz, verteidigt sich mit Blutzauber und Schwert 
+* Zuflucht in abgelegenen Dorf A der Ureinwohner 
+* Magische Lehre bei C'rahanijz
+* spioniert A'kradizz aus, erfährt Ziele: 
+* Wiederbringen des Wassergottes
+* sammeln der Splitter des Wassergottes
+* Fusion der Splitter an heiligem Wasserfall unter Opfer von einem, der sich noch nie gewaschen hat
+* Marcin entführt Joran aus Kolonie in der Wüste, stiehlt moderne Waffen 
+* C'rahanijz lehrt Joran Blutmagie
+* Joran hilft Marcin bei Sammeln von Wassersplittern, plündern ein paar Tempel
+* Großoffensive der A'kradizz, Marcin wird zu Dorf B gerufen
+* Marcin verteidigt Dorf B, doch als er zu Dorf A zurückkehrt, wurden Joran und Wassersplitter entführt und das Dorf überrannt, nur C'rahanijz konnte mit Blutmagie entkommen
+* Marcin eilt zu Wasserfall, A'kradizz wollen Joran opfern und Wassergott zurückholen 
+* Marcin befreit Joran, vernichtet A'kradizz, Joran nimmt Wassersplitter 
+* Joran und Marcin gehen zu Dragan, Joran will nach Hause, Marcin will Dragan sprechen
 
 (je nach Gesinnung von) Marcin (überzeugt er entweder Dragan, dazubleiben und zu rebellieren, oder) ist froh, zurückgekehrt zu sein und will mit Dragan den Dschungel erobern
 
-C'rahanijz (Marcin ist Magier)
+_C'rahanijz (Marcin ist Magier)
 sieht Veränderungen an Marcin und ist bestürzt
 zweifelt an Blutgöttin, führt aber Rebellion weiter an
 vereinigt Stämme unter seinem Banner der Freiheit
@@ -516,35 +517,35 @@ C'rahanijz bricht mit der Blutgöttin und schwört der Blutmagie ab
 sie stellen Joran, es kommt zum Kampf, Joran entkommt, weil C'rahanijz nicht zaubert, um ihn aufzuhalten, während Marcin kampfunfähig ist
 Joran flieht nach Lagon
 Marcin bringt in einem Wutanfall darüber C'rahanijz um 
-Marcin schwingt sich an Dragans Seite zum neuen Herrscher über das neue Land auf und nennt es Sanguin 
+Marcin schwingt sich an Dragans Seite zum neuen Herrscher über das neue Land auf und nennt es Sanguin_
 
-Dragan (Marcin ist Dieb? naja)
-Marcin und Dragan seite an seite Statthalter von Thornien in Deltastadt
-verhaften Homosexuelle, unter anderem Pantherinnenzelle (Jun'ya)
-werden von Pantherinnen angegriffen
-kämpfen gegen Frauenrechtler-Untergrundorganisation Pantherinnen
-werden irgendwann als schwul denunziert und eingesperrt
-entkommen mit Hilfe von Jun'ya
-Im Lager der Pantherinnen treffen sie Giulia, die etwas mit Jun'ya hat
-fangen mit Hilfe der Pantherinnen an, Anschläge durchzuführen
-Joran wird als Magier den Lagonern zur Unterstützung gesandt
-Joran nimmt Marcin fest, sperrt ihn ein, Marcin trifft im Gefängnis C'rahanijz
-Dragan nimmt aus Frust Brocken, weil er glaubt, dass Marcin tot ist
-Pantherinnen ziehen sich in Urwald zurück und er beginnt, mit Giulia die Brockenfarmen zu verwalten, hat Visionen, auch über Magie
-Jun'ya führt währenddessen weiter Terroranschläge durch 
-Pantherinnen lehren ihm keine Blutmagie, weil sie nur für Frauen da ist
-Er redet mit Giulia über Gesellschaft Lagons, sie überzeugt ihn, dass Patriarchat kacke ist
-Währenddessen entkommt Marcin aus dem Gefängnis, indem er dunkelste Blutmagie anwendet
-Marcin schlägt sich zu Dragan in den Dschungel durch und klagt ihn an, dass er nicht versucht hat, ihn zu befreien, der ist froh, ihn wieder zu sehen, stört sich aber an seinem Maskulinismus
-Marcin und Jun'ya führen Angriff auf Deltastadt an, ist ungerechtfertigt grausam, entführen Joran
-Dragan überzeugt Joran, dass Kampf gegen Lagon erfolgreich sein kann
-Lagoner überraschen Pantherinnen-Lager, Marcin, Giulia und Joran fliehen zusammen, Dragan und Jun'ya werden gefangen genommen, nach Deltastadt deportiert
-Giulia infiltriert Deltastadt zusehen, wie C'rahanijz öffentlich exekutiert wird
-Marcin und Joran stürmen zu zweit Deltastadt, werden in die Ecke getrieben, Marcin isst Kind und die beiden schaffen es, einen Aufstand loszuschlagen, Pantherinnen zu befreien, und Lagoner zu besiegen
-Jun'ya ruft Herrschaftslosigkeit aus, benennt Kontinent in Sanguin um
-Marcin streitet sich mit Dragan, weil er Machtverlust nicht akzeptieren kann
-Pantherinnenrat soll bei patriarchaler Unterdrückung eingreifen, Dragan erhält Sitz, um Schwule zu repräsentieren
-Marcin, Giulia und Joran verlassen Sanguin, um Revolution in Lagon durchzuführen, Marcin hat andere Pläne
+Dragan (Marcin ist Dieb)
+* Marcin und Dragan seite an seite Statthalter von Thornien in Deltastadt
+* verhaften Homosexuelle, unter anderem Pantherinnenzelle (Jun'ya)
+* werden von Pantherinnen angegriffen
+* kämpfen gegen Frauenrechtler-Untergrundorganisation Pantherinnen
+* werden irgendwann als schwul denunziert und eingesperrt
+* entkommen mit Hilfe von Jun'ya
+* Im Lager der Pantherinnen treffen sie Giulia, die etwas mit Jun'ya hat
+* fangen mit Hilfe der Pantherinnen an, Anschläge durchzuführen
+* Joran wird als Magier den Lagonern zur Unterstützung gesandt
+* Joran nimmt Marcin fest, sperrt ihn ein, Marcin trifft im Gefängnis C'rahanijz
+* Dragan nimmt aus Frust Brocken, weil er glaubt, dass Marcin tot ist
+* Pantherinnen ziehen sich in Urwald zurück und er beginnt, mit Giulia die Brockenfarmen zu verwalten, hat Visionen, auch über Magie
+* Jun'ya führt währenddessen weiter Terroranschläge durch 
+* Pantherinnen lehren ihm keine Blutmagie, weil sie nur für Frauen da ist
+* Er redet mit Giulia über Gesellschaft Lagons, sie überzeugt ihn, dass Patriarchat kacke ist
+* Währenddessen entkommt Marcin aus dem Gefängnis, indem er dunkelste Blutmagie anwendet
+* Marcin schlägt sich zu Dragan in den Dschungel durch und klagt ihn an, dass er nicht versucht hat, ihn zu befreien, der ist froh, ihn wieder zu sehen, stört sich aber an seinem Maskulinismus
+* Marcin und Jun'ya führen Angriff auf Deltastadt an, ist ungerechtfertigt grausam, entführen Joran
+* Dragan überzeugt Joran, dass Kampf gegen Lagon erfolgreich sein kann
+* Lagoner überraschen Pantherinnen-Lager, Marcin, Giulia und Joran fliehen zusammen, Dragan und Jun'ya werden gefangen genommen, nach Deltastadt deportiert
+* Giulia infiltriert Deltastadt zusehen, wie C'rahanijz öffentlich exekutiert wird
+* Marcin und Joran stürmen zu zweit Deltastadt, werden in die Ecke getrieben, Marcin isst Kind und die beiden schaffen es, einen Aufstand loszuschlagen, Pantherinnen zu befreien, und Lagoner zu besiegen
+* Jun'ya ruft Herrschaftslosigkeit aus, benennt Kontinent in Sanguin um
+* Marcin streitet sich mit Dragan, weil er Machtverlust nicht akzeptieren kann
+* Pantherinnenrat soll bei patriarchaler Unterdrückung eingreifen, Dragan erhält Sitz, um Schwule zu repräsentieren
+* Marcin, Giulia und Joran verlassen Sanguin, um Revolution in Lagon durchzuführen, Marcin hat andere Pläne
 
 
 # Akt 5
@@ -600,22 +601,22 @@ Marcin, Giulia und Joran verlassen Sanguin, um Revolution in Lagon durchzuführe
 
 # Spielprinzip 
 
-Prolog und Akt 1
-Charakter: Dania
-3rdperson
-Stealth + Social sehr wichtig (von masquerade abschauen)
-Open world
-Brockensucht
-muss regelmäßig was nehmen, sonst sinken Stats.
-Wenn high, stören Visionen
+_Prolog und Akt 1  
+Charakter: Dania  
+3rdperson  
+Stealth + Social sehr wichtig (von masquerade abschauen)  
+Open world  
+Brockensucht  
+muss regelmäßig was nehmen, sonst sinken Stats.  
+Wenn high, stören Visionen  _
 
-Akt 2
+_Akt 2
 Bormagie
 Crafting
 Wege, mit Sucht umzugehen
-3rdperson
+3rdperson_
 
-Akt 3
+_Akt 3
 Wechsel zwischen Charakteren notwendig, weil sonst keine neuen Aufträge
 Stealth-Action
 Sicht eines Doppelagenten, Varg
@@ -647,9 +648,9 @@ Informationsgewalt sichern durch Presse
 weitertreiben der Geschichte durch ein paar treue und nicht fluide Untergebene
 Spione werden sehr wichtig
 Marcin, Joran nicht fluid, Varg zumindest steuerbar
-Aufstände von Gläubigen, Armen, Dieben, Arbeitern, Milizen 
+Aufstände von Gläubigen, Armen, Dieben, Arbeitern, Milizen _
 
-Akt 4 
+_Akt 4 
 abwechselnde Perspektiven von Dragan, Marcin und C'rahanijz
 komplizierte Beziehungen
 Wombatpopulationen (Wirtschaft)
@@ -659,39 +660,39 @@ Marcins Charakter entwickelt sich nach Spielstil: mehr Magier, mehr Ureinwohner 
 als Blutmagier ist Wahrnehmung beeinflusst, was sich störend, aber lustig auf den Spielverlauf auswirkt; Blutgöttin spricht zu dir und gibt dir Aufgaben und Tipps
 als Dragan: 3rd person Shooter, moderne Waffentechnik
 als Marcin: 3rd person Rollenspiel: Entscheidung zwischen Blutmagie und Nahkampf; kompliziertere Beziehung mit Blutgöttin
-als C'Rahanijz: 3rd person Shooter: komplizierte Beziehung mit Blutgöttin stört Spielverlauf teilweise stark, hat Einfluss auf magische Fähigkeiten
+als C'Rahanijz: 3rd person Shooter: komplizierte Beziehung mit Blutgöttin stört Spielverlauf teilweise stark, hat Einfluss auf magische Fähigkeiten_
 
-Akt 5
+_Akt 5
 Charakter: Joran
 Bormagie, Blutmagie, Wassersplitter, Flammensplitter vllt auch
-Stadt im Chaos, Bürgerkrieg
+Stadt im Chaos, Bürgerkrieg_
 
 
 
 # Magie
 **Flammen < Wasser < Blut < Flammen etc**
 
-Alchemistisches Prinzip 
+_Alchemistisches Prinzip 
 Zutat extrahieren, unter einwirkung von magischer Energie
-zu Trank brauen
+zu Trank brauen_
 
-Energetisches Prinzip
+_Energetisches Prinzip
 Energie wohnt in Menschen
 Kontrolle muss man lernen
-Macht regeneriert sich langsam
+Macht regeneriert sich langsam_
 
-Manaprinzip
+_Manaprinzip
 Mana fließt durch die Erde und alles lebende
-Der Magier kanalisiert das Mana durch seinen Verstand, um Effekte hervorzurufen
+Der Magier kanalisiert das Mana durch seinen Verstand, um Effekte hervorzurufen_
 
-Kristallines Prinzip
+_Kristallines Prinzip
 Kristalle halten Magische Sprüche
-Magische Worte entfesseln Macht 
+Magische Worte entfesseln Macht _
 
-Zeichen
+_Zeichen
 gewisse Fingerbewegungen entfesseln Magie
 evtl mit Wort der Macht 
-nötiger Zauberstab?
+nötiger Zauberstab?_
 
 **Essenzielles Prinzip**
 magische Grundessenz Bor (Essenz von Brocken) hält magische Macht
@@ -713,16 +714,16 @@ Götterdämmerung/Inkarnation:
 sammeln der Splitter, wenn Gott tot war 
 Fusion der Splitter an heiligem Ort unter Opfer von einer*m, di*er sich noch nie gewaschen/geblutet/Sex gehabt hat
 
-Geistliches Prinzip
+_Geistliches Prinzip
 Geister leben in Parallelwelt
 Geister können durch Rituale gerufen und gebunden werden
 an Artefakte
-an Aufgaben
+an Aufgaben_
 
-Runenmagie
+_Runenmagie
 Macht an Runen gebunden
 durch berühren der Runen + Machtwort erfüllt sich die Bedeutung
-müssen durch magische Flüssigkeit aufgeladen werden
+müssen durch magische Flüssigkeit aufgeladen werden_
 
 **Blutmagie**
 Menschenblut trinken schafft Kontakt zu Blutgöttin, sie verleiht Macht 
@@ -735,93 +736,93 @@ eingenommen erzeugt es Visionen, Größenwahn und Ausbrüche leichter magischer 
 zu große Ausbrüche von Brockenmagie können töten
 stark vom Orden verfolgt
 
-Zauberstäbe
-Zauberstab + Wort der Macht ruft Effekt hervor
+_Zauberstäbe
+Zauberstab + Wort der Macht ruft Effekt hervor_
 
-Sympathie
+_Sympathie
 Mit einer sympathethischen Bindung kann man ähnliche Substanzen verbinden
 Energieimpulse auf eine der beiden beeinflussen auch die andere
-Es geht dabei etwas Energie verloren: durch Grad der Ähnlichkeit, durch Entfernung, durch gleichen Ursprung
+Es geht dabei etwas Energie verloren: durch Grad der Ähnlichkeit, durch Entfernung, durch unterschiedlichen Ursprung_
 
-Namenskunde
+_Namenskunde
 Alles hat einen Namen, wenn du ihn verstehst, hast du Macht darüber
-Namen können nur mit dem unterbewussten Geist verstanden werden, du kannst sie nicht erlernen
+Namen können nur mit dem unterbewussten Geist verstanden werden, du kannst sie nicht erlernen_
 
 
 # Rezepte
 
-Vergissmich # Vergissmeinnicht/Myosotis Sylvatica
-Feuer # Asche
-Schutz # Knochenstaub
-Feuerlöschen # A'kradizz-Schuppen
-Schweben # Schmetterlingsflügel
-Nachtsicht # Sonnenblumen
-Muskelkraft # menschliche Muskeln
-Lichtblitz # Knallquecksilber
-Unsichtbarkeit # 
-Nebel # Ammoniak
-Blindheit # Rattenaugen
-Gehör verstärken # Ohrenschmalz 
-Blitz vom Himmel # Schwefel 
-Sprungkraft # Heuschreckenflügel
-Nicht lügen können # Blütenhonig
-Schlaf # 
+* Vergissmich # Vergissmeinnicht/Myosotis Sylvatica
+* Feuer # Asche
+* Schutz # Knochenstaub
+* Feuerlöschen # A'kradizz-Schuppen
+* Schweben # Schmetterlingsflügel
+* Nachtsicht # Sonnenblumen
+* Muskelkraft # menschliche Muskeln
+* Lichtblitz # Knallquecksilber
+* Unsichtbarkeit # 
+* Nebel # Ammoniak
+* Blindheit # Rattenaugen
+* Gehör verstärken # Ohrenschmalz 
+* Blitz vom Himmel # Schwefel 
+* Sprungkraft # Heuschreckenflügel
+* Nicht lügen können # Blütenhonig
+* Schlaf # 
 
 
 
 # Stadtplan
 
 1. Bezirk
-Nobelviertel
-Villen
-Oberschicht
-hohe Mietpreise
-Dragan wohnt hier
-Patrizier wohnt hier
-grenzt an zweiten Bezirk, ist aber außen
+* Nobelviertel
+* Villen
+* Oberschicht
+* hohe Mietpreise
+* Dragan wohnt hier
+* Patrizier wohnt hier
+* grenzt an zweiten Bezirk, ist aber außen
 2. Bezirk
-Einkaufsmeile
-Öffentliches Leben 
-Heilige Hallen der Flamme, Rathaus, Banken, Saunas, Cafes, Läden
-zentral gelegen
+* Einkaufsmeile
+* Öffentliches Leben 
+* Heilige Hallen der Flamme, Rathaus, Banken, Saunas, Cafes, Läden
+* zentral gelegen
 3. Bezirk
-Milizen-HQ, zentral, grenzt an zweiten Bezirk
+* Milizen-HQ, zentral, grenzt an zweiten Bezirk
 4. Bezirk
-Familien, die in Heimarbeit Kleidung nähen und färben. Gehen meist pleite
-Durch Chemikalien ziemlich vergiftete Athmosphäre.
-Nathans Labor 
-Äußerster Stadtrand
+* Familien, die in Heimarbeit Kleidung nähen und färben. Gehen meist pleite
+* Durch Chemikalien ziemlich vergiftete Athmosphäre.
+* Nathans Labor 
+* Äußerster Stadtrand
 5. Bezirk
-Arbeiterbaracken, Joran wohnt hier
-Fabriken
-Arghan Howls Unternehmenssitz
-Stadtrand
+* Arbeiterbaracken, Joran wohnt hier
+* Fabriken
+* Arghan Howls Unternehmenssitz
+* Stadtrand
 6. Bezirk
-gutbürgerliche, gläubige Menschen
-obere Mittelschicht
+* gutbürgerliche, gläubige Menschen
+* obere Mittelschicht
 7. Bezirk
-abgefuckte Slums
+* abgefuckte Slums
 8. Bezirk
-immer noch abgefuckte Slums, aber Magister Darn hat hier ein paar soziale Experimente gemacht, die Leute sind etwas netter zueinander
-Jorans altes Labor
+* immer noch abgefuckte Slums, aber Magister Darn hat hier ein paar soziale Experimente gemacht, die Leute sind etwas netter zueinander
+* Jorans altes Labor
 9. Bezirk
-Varg ist hier aufgewachsen
-Krankheiten grassieren
-es gibt einen Metzger
+* Varg ist hier aufgewachsen
+* Krankheiten grassieren
+* es gibt einen Metzger
 10. Bezirk
 11. Bezirk
-abgelegene Ecke, nicht viel los
-hier wohnen ärmere Leute, aber keine Drogenprobleme, einfach nur Rückständig
-leben von kleinerer Landwirtschaft
-Labor
-weitläufig, Äußerster Stadtrand
+* abgelegene Ecke, nicht viel los
+* hier wohnen ärmere Leute, aber keine Drogenprobleme, einfach nur Rückständig
+* leben von kleinerer Landwirtschaft
+* Labor
+* weitläufig, Äußerster Stadtrand
 12. Bezirk
 13. Bezirk
 
 # Feminismus – mehr weibliche Charaktere
-Ideen:
+_Ideen:
 Dania hilft einer Bäuerin im Versteck
 Dania hat eine Jugendfreundin, die unter Schönheitsdruck leidet
 Marcin nutzt eine Putzfrau als Spionin – dritter Akt?
 Vargs Terrorismus wird feministisch gebrandet – versucht jemand, ihn so zu instrumentalisieren?
-Thorns ehemalige Liebe, nun Priesterin der Blutgöttin und auf Thornien, kehrt im fünften Akt zurück, Blutgöttin spielt mit ihr Thorn und Joran gegeneinander aus, Dania(Blutgöttin) und sie errichten Matriarchat
+Thorns ehemalige Liebe, nun Priesterin der Blutgöttin und auf Thornien, kehrt im fünften Akt zurück, Blutgöttin spielt mit ihr Thorn und Joran gegeneinander aus, Dania(Blutgöttin) und sie errichten Matriarchat_
