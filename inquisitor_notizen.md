@@ -83,6 +83,14 @@ Stepanie
 * herzlich & großzügig, auch wenn sie sich mal mit unschönen Taten über Wasser halten muss
 * fromm, aber tolerant
 * selbstlos – aber warum für kaputte Menschen?
+* während des zweiten Aktes von Schicksalsschlägen erschüttert (Tod ihres Mannes), Situation wird spürbar schlechter
+* schreibt im dritten Akt die feministischen Terrorbotschaften
+* freundet sich mit Varg an
+* arbeitet trotzdem für Marcin?
+* geht am Ende des dritten Aktes in den Untergrund, Tochter bleibt bei Jorans Schule. Bruder hilft?
+* läuft sie während des vierten Aktes Joran über den Weg?
+* im fünften Akt führt sie den Frauenwiderstand an
+
 
 C'rahanijz
 * Schamane der Ureinwohnerstämme
