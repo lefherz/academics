@@ -75,23 +75,24 @@ Dragan Burk
 * kann lesen
 
 Stepanie
-* lebt im achten Bezirk, arbeitslos, Frau eines Ehrbaren Diebes, Tochter Mia (8)
-* ihr Bruder (Orst) ist als kleiner Junge zum Orden gegangen, und nun lehrender Inquisitor, versorgt sie immer mal wieder mit Essen und Geld, sie muss den Job Hunnars verheimlichen
+* lebt im achten Bezirk, arbeitslos, Mutter von Mia, Schwester von Orst und Mann von Hunnar
+* Hunnar ist ehrbarer Dieb und stirbt bei Revolte gegen Magister Thorn.
+* Danach arbeitet sie bei Howl Industries, als Informantin erst für Orst, dann für Marcin, als Pädagogik-Lehrerin bei Joran
 * findet sich außerordentlich hässlich und hat damit ein Problem, auch wenn Hunnar sie liebt
-* Mann (Hunnar) stirbt bei Revolte gegen Magister Thorn, sie sucht sich einen Job bei Arghan Howl, und/oder wird Informantin für Marcin
-* Tochter geht auf Jorans Schule, als sie eröffnet wird, bringt später Stepanie das Lesen bei
-* herzlich & großzügig, auch wenn sie sich mal mit unschönen Taten über Wasser halten muss
+* Orst versorgt sie immer mal wieder mit Essen und Geld, sie muss den Job Hunnars verheimlichen
+* herzlich, selbstlos & großzügig, auch wenn sie sich mal mit unschönen Taten über Wasser halten muss
 * fromm, aber tolerant
-* selbstlos – aber warum für kaputte Menschen?
 * Hat ein ordentliches Netzwerk an Frauen, die zum Markt gehen
 * während des zweiten Aktes von Schicksalsschlägen erschüttert (Tod ihres Mannes), Situation wird spürbar schlechter
+* schickt Mia zur Schule, damit sie nicht nur auf der Straße gemobbt wird, sondern andere Chancen hat. Mia bringt Stepanie das Lesen bei
+* Weil sie sich selbst behaupten musst, lernt sie Eigenständigkeit
+* Weil sie ein großes Netzwerk hat und nacheinander für unterschiedliche Leute spioniert, bekommt sie immer mehr Übersicht
 * schreibt im dritten Akt die feministischen Terrorbotschaften
-* freundet sich mit Varg an
-* arbeitet trotzdem für Marcin?
-* geht am Ende des dritten Aktes in den Untergrund, Tochter bleibt bei Jorans Schule. Bruder hilft?
+* freundet sich mit Varg an?
+* geht am Ende des dritten Aktes in den Untergrund, Mia bleibt bei Jorans Schule. Orst hilft, aber Stepanie hat mittlerweile eh viele Freunde
 * läuft sie während des vierten Aktes Joran über den Weg?
 * im fünften Akt führt sie den Frauenwiderstand an
-
+* wird keine Atheistin, konzentriert sich auf das Gute im Glauben
 
 C'rahanijz
 * Schamane der Ureinwohnerstämme
@@ -190,6 +191,23 @@ Toman
 * hat eine Schwester, Magda, die er sehr liebt
 * fähiger Attentäter, gut mit der Armbrust
 
+Mia
+* Tochter Stepanies
+* 8 Jahre alt
+* neugierig, hat Schwierigkeiten, sich in Gruppen einzufügen
+
+Hunnar
+* Ehrbarer Dieb im achten Bezirk
+* Mann von Stepanie
+* liebt sie, auch wenn sie kaum kommunizieren können, und er ihr zu selten sagt, dass er sie schön findet.
+* würde gerne öfter mit Stepanie schlafen, glaubt aber, sie will es nicht
+
+Orst
+* Seit seiner Jugend beim Orden
+* Lehrender Inquisitor
+* Unterstützt Stepanie, wo er kann
+* lebt seinen Glauben streng aus und erwartet das auch von anderen
+
 Katan
 * Hauptmann der Miliz
 * stolz, korrupt, arrogant, dumm, egoistisch, machtgierig, 
@@ -211,6 +229,9 @@ Laya
 - zwölf Jahre alt, Kinderglauben
 - lebt in Jorans Labor, Interesse an Wissenschaft vertreibt ihr die Langeweile
 - führt mit Joran lange Gespräche über Glauben und Wissenschaft
+- Da sie seit einem magischen Unfall keine Kinder mehr bekommen kann und ihren Vater hasst, glaubt sie nicht an Familie
+- Während sie in dem kleinen Labor lebt, wird sie zunehmend radikalisiert
+- Ist Thorn gegenüber loyal. dankbar, dass er Dania umgebracht hat; so hat sie Joran für sich. 
 
 Der Eunuch
 - Herkunft unbekannt, keine Identität mehr 
@@ -238,6 +259,7 @@ Giulia von Hartlingen
 - Giulia brennt das Haus ihrer Familie mit allen darin nieder
 - Eunuch verurteilt sie nicht, aber ist traurig, dass sie nicht so weit ist, Weisheit zu verstehen, Auflehnung mit Grausamkeit verwechselt – Giulia: Welt war grausam zu mir, so muss Auflehnung aussehen
 - Giulia verschwindet und schwebt auf den anderen Kontinent, lernt dort die Blutgöttin kennen, schließt sich den Pantherinnen an
+
 
 
 
@@ -351,65 +373,79 @@ Feministischer Untergrund
 * Howl besorgt ihm ein Verwaltungsamt in Marcins Bezirk, nachdem Dania den Vorgänger beseitigt
 * Hakun, der alles in der Stadt sieht, wird auf Marcin aufmerksam – Marcin bietet ihm seine Hilfe gegen die Diebe im Austausch gegen Schutz an.
 * Marcin zettelt einen Aufstand mehrerer Diebe an, den Thorn blutig niederschlägt.
+* Stepanie trauert um ihren Mann, ihre Tochter wird auf der Straße gemobbt
 * Hakun hat Dragan in seinen Diensten, weil er sein Geheimnis kennt
 * Dragan merkt, dass Marcin Hakun ausspioniert, und bietet ihm seine Hilfe an, Hakun aus dem Weg zu räumen
 * Dania, Marcin und Varg ermorden Hakun mithilfe von Informationen von Dragan
+* Stepanie beginnt, in einer von Arghans Fabriken zu arbeiten, Leute sind unfreundlich
 * Arghan plant mit Thorns Genehmigung den Bau einer Schule im achten Bezirk
-* (Dania forscht im Leben Hauptmann Dragans nach und findet seine Homosexualität heraus)
 * Marcin macht sich an Dragan heran, es klappt aber nicht, wegen Misstrauen
-* Marcin findet Beweise für Dragans Homosexualität, um ihn auf mehrere Arten gleichzeitig kontrollieren zu können
-* Dragan verzeiht ihm das aber (erstmal) nicht, arbeitet gezwungenermaßen mit ihm zusammen, kann sich aber keine Beziehung mit ihm vorstellen
-* Marcin erpresst Dragan damit und sichert sich so seine Unterstützung
-* Thorn eröffnet mit Arghan und Joran eine Schule, auf der die Schüler selbst experimentieren können.
 * Thorn wird wegen seiner Leistungen im achten Bezirk zum Ratsmitglied ernannt.
-* Dania ermordet den Patrizier 
-* Thorn ergreift mit Unterstützung Howls und Dragans die Macht und lässt sich zum Patrizier wählen
+* Dania forscht im Leben Hauptmann Dragans nach und findet seine Homosexualität heraus
+* Thorn eröffnet mit Arghan und Joran eine Schule, auf der die Schüler selbst experimentieren können.
+* Stepanie bringt ihre Tochter zu Jorans Schule, damit sie eine ordentliche Ausbildung bekommt
 * Dania wendet sich an Howl wegen Aufträgen, ohne Thorn Bescheid zu sagen, für mehr Unabhängigkeit. Howl verrät sie, weil er Thorns Unterstützung für wichtiger befindet.
-* Thorn vergiftet Dania
+* Stepanies Tochter bringt ihr das Lesen bei, Orst kommt vorbei und missbilligt das
+* Marcin erpresst Dragan mit Informationen über Homosexualität, um Zugang zur Villa des Patriziers zu kriegen
+* Dragan verzeiht ihm das nicht, arbeitet gezwungenermaßen mit ihm zusammen, kann sich aber keine Beziehung mit ihm vorstellen
+* Dania ermordet den Patrizier und wird von Thorn vergiftet
+* Thorn ergreift mit Unterstützung von Howl, Dragan und Marcin die Macht und lässt sich zum Patrizier wählen
 
 # Akt 3
 ## Vargs Doppelleben
 * Thorn erzählt Joran und Varg, dass Dania im Kampf ums Leben gekommen ist
 * Varg und Joran sind erschüttert über den Tod Danias
 * Thorn: Loyalität der Hauptleute sicherstellen
-* ein Exempel statuieren, den Sergeant töten, um den Hauptmann bei der Stange zu halten
-* vom einen die Tochter kidnappen, Laya
-* und Katan Brocken-süchtig machen
-* Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
+* Marcin macht Katan Brocken-süchtig
+* Varg kidnappt Laya, Tochter eines Hauptmanns. Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
+* Varg statuiert ein Exempel und tötet einen Sergeant, um den Hauptmann bei der Stange zu halten
 * Varg wendet sich an Isigor, weil Thorns Machenschaften ihm langsam suspekt werden
 * Isigor: bring mir Informationen, belausche Thorn & Marcin; Varg erfährt, dass Thorn Dania getötet hat
-* Isigor: zerstöre eine Fabrik Howls. 
-* Varg klaut Schutzmagie, die gut für die Welt wäre und zu schade zum vernichten
-* Thorn: töte Ratsinquisitor Callen. Sinya sieht es, Varg verschont ihn
-* Thorn kann die Legalisierung von Luftkutschen durchsetzen, Varg erhält einen Flammensplitter; es wird verbreitet, dass es das Werk von Terroristen war
-* Stepanie erfährt auf dem Markt, dass seit es angeblich feministische Terroristinnen gibt, eine Freundin von ihr nicht mehr geschlagen wird
-* Isigor gibt Varg einen weiteren Flammensplitter, und schickt ihn auf die Jagd nach dem Mörder des Ratsinquisitors, nach dem anderen Terroristen
+* Orst will von Stepanie, dass sie in Howls Fabrik spioniert. Sie liefert ihm den Grundriss
+* Isigor: zerstöre eine Fabrik Howls. Varg klaut Schutzmagie, die gut für die Welt wäre und zu schade zum vernichten
+* Es wird verbreitet, dass es das Werk von Terroristinnen war
+* Stepanie wird arbeitslos und kehrt zurück in den achten Bezirk. Toman vermittelt ihr einen Spitzeljob für Marcin in einer Sauna
+* Thorn: töte Ratsinquisitor Callen in Stepanies Sauna. Sinya sieht es, Varg verschont ihn
+* Stepanie beobachtet aus Versehen Varg bei dem Mord, berichtet an Toman, der sagt ihr, sie stattdessen verbreiten, es wären Terroristinnen gewesen
+* Thorn kann die Legalisierung von Luftkutschen durchsetzen, Varg erhält Callens Flammensplitter
+* Isigor gibt Varg einen weiteren Flammensplitter, und schickt ihn auf die Jagd nach dem Mörder des Ratsinquisitors, nach der anderen Terroristin
+* Stepanie besucht Mia im achten & erfährt auf dem Markt, dass seit es angeblich feministische Terroristinnen gibt, eine Freundin von ihr nicht mehr geschlagen wird
+* Orst will von Stepanie, dass sie auch nach den Terroristinnen suchen soll - sie weigert sich
 * Thorn: stiehl Lehrplan aus den Heiligen Hallen
 * Isigor ernennt Varg zum Inquisitor und gibt ihm eine sehr zentrale Kirche zum predigen
-* Varg predigt entweder für Magie, für soziale Gerechtigkeit, für starken Glauben oder für mehr Sicherheitspolitik
+* Varg predigt für mehr Sicherheitspolitik, deren Zweck die Mittel heiligt. Außerdem traditionelle Familie, die besser für Frauen ist als Unabhängigkeit
+* Stepanie hört das und beschließt, Flugblätter für die Terroristinnen zu veröffentlichen
 * Isigor weist Varg Sinya als Novizen zu
-* Isigor: konfisziere im Namen des Ordens Howls Baupläne für eine Luftkutsche
-* Thorn: bedrohe den Inquisitor, der für die Lehrpläne zuständig ist, damit er keine Angst vor dem Wasser verbreitet und klau die Baupläne zurück – Inquisitor soll stattdessen wissenschaftliche Erkenntnisse von Jorans Schule verbreiten
+* Isigor: konfisziere im Namen des Ordens Howls Baupläne für eine Luftkutsche. Thorn ist misstrauisch
+* Thorn: bedrohe Orst, der für die Lehrpläne zuständig ist, damit er keine Angst vor dem Wasser verbreitet und klau die Baupläne zurück
+* Orst soll stattdessen wissenschaftliche Erkenntnisse von Jorans Schule verbreiten
+* Orst beschwert sich bei Stepanie, dass Varg ein Doppelagent zu sein scheint, der für die Schule arbeitet
 * Joran beginnt, eine Luftkutsche zu bauen, die Wasser als Treibstoff benutzt
-* Marcin entführt Sinya, um ein Druckmittel gegen Varg zu haben, Varg befreit Sinya und bringt ihn in seinem Versteck unter 
+* Marcin entführt Sinya mit Stepanies Hilfe (Ablenkung von Varg, Eskorte in Versteck), um ein Druckmittel gegen Varg zu haben
+* Stepanie bereut, einem Kind geschadet zu haben und verrät Varg, wo er ist
+* Varg befreit Sinya und bringt ihn in einem Versteck von Stepanies Freundin unter 
 * Isigor: sammle Informationen über Marcin
-* Varg findet Marcins Homosexualität heraus: Isigor lässt Marcin festnehmen und verurteilt ihn zum Tode
+* Varg findet mit Stepanies Hilfe Marcins Homosexualität heraus: Isigor lässt Marcin festnehmen und verurteilt ihn zum Tode
 * Thorn: rette Marcin vor dem Scheiterhaufen; Varg setzt gestohlene Schutzmagie ein
-* Isigor findet Sinya, der ihm sagt, dass Varg Callen getötet hat
+* Stepanie bringt Sinya zum Orden zurück, wo der Isigor sagt, dass Varg Callen getötet hat
 * Thorn und Isigor eröffnen die Jagd auf Varg, der Orden, die Diebe und die Armee jagen ihn
-* Varg und Marcin verstecken sich bei Joran
+* Stepanie eilt zu Mia in die Schule, will sie beschützen/sucht Zuflucht. Die rät ihr, mit Joran zu reden; der bietet ihr einen Job als Pädagogiklehrerin an
+* Varg und Marcin verstecken sich bei Joran zuhause & planen, wie sie Thorn erledigen können, um sich beim Orden einzuschleimen
 * Varg wagt ein Attentat auf Thorn. Sein Flammensplitter ist mächtiger, und er erkennt, dass Thorn einmal geliebt haben muss. In diesem Moment trifft ihn ein Bolzen von Marcin.
 * Thorn bietet Marcin zur Belohnung die Möglichkeit, in Thornien unterzutauchen und die Expedition nach Wassersplittern zu leiten
 ## Der Aufbau einer Schule
 * im achten Bezirk soll die erste Schule der Wissenschaft entstehen
-* Joran muss erst die Lehrer ausbilden / als Lehrer werden einfach random Leute mit Lebenserfahrung herangezogen, die Schüler sollen aus verschiedenen gesellschaftlichen Schichten kommen
-* Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
+* Joran muss erst die Lehrer ausbilden / als Lehrer werden einfach random Leute mit Lebenserfahrung herangezogen
+* die Schüler sollen aus verschiedenen gesellschaftlichen Schichten kommen
 * Fächer: Konstruktion/Statik, Chemie, Gesellschaft, Finanzen, Historie, Biologie, 
+* Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
 * Undercoveragent des Ordens schleußt sich ein, auch um Varg zu überwachen 
 * Joran ertappt ihn beim durchwühlen von Unterlagen und überwältigt und tötet ihn mithilfe von einer Bor-Mischung
+* Mia ist eine fleißige Schülerin. Joran versucht sich ein bisschen als Mentor, hört sich ihre Geschichte an, redet über Feminismus
 * Laya missglückt magisches Experiment, sodass sie unfruchtbar wird und ihre erste Periode nicht bekommt, nur dunkler Staub kommt bei ihr raus, Joran ist überfordert
-* Laya lebt in Jorans Labor, Interesse an Wissenschaft vertreibt ihr die Langeweile
+* Laya lebt in Jorans Labor, Interesse an Wissenschaft vertreibt ihr die Langeweile, sie wird radikalisiert
 * Laya verliebt sich in Joran, sie ist ihm zu jung und Abhängigkeitsverhältnis ist auch scheiße
+* Als Stepanie aufgelöst in die Schule flüchtet, rät Mia ihr, mit Joran zu sprechen; er bietet ihr einen Job als Lehrerin an
 
 # Vorspiel  
 Thorn
@@ -429,7 +465,7 @@ Giulia
 * Als es nicht funktioniert läuft sie zu Thorn und will sich von ihm trösten lassen
 * Vater kommt herein und erwischt die beiden beim Sex – ist vollkommen erschüttert
 * jagt sie aus dem Haus, Thorn darf bleiben
-* auf der Straße versucht sie klarzukommen, wird im ersten Bezirk überall abgewiesen, Miliz fährt sich in den achten Bezirk
+* auf der Straße versucht sie klarzukommen, wird im ersten Bezirk überall abgewiesen, Miliz fährt sie in den achten Bezirk
 * Mann bringt sie zum Sex, sie beschwert sich, dass es ihr nicht gefällt, er schlägt sie 
 * sie nimmt den Schlafplatz und das Essen, haut aber am nächsten morgen ab  
 
@@ -464,6 +500,7 @@ Giulia
 # Akt 4
 Dragan
 * Marcin und Dragan werden beauftragt, in einem fremden Kontinent nach einer Waffe gegen die Artefakte des Ordens zu suchen
+* Marcin legt sich einen neuen Namen zu
 * Die beiden müssen sich auf der überfahrt eine Kajüte teilen und kommen sich wieder näher
 * erste friedliche Kontaktversuche mit Ureinwohnern, die bei der Suche helfen sollen
 * reisen mit Nomaden in den Dschungel, bezahlen mit Handventilatoren
@@ -486,12 +523,13 @@ Dragan
 * Ureinwohner Dragan plötzlich feindlich gesinnt
 * schlägt sich zum Flussdelta durch, fährt nach Lagon
 * bringt Feuersplitter zu Thorn
-* Thorn befiehlt ihm Kolonialisation
+* Thorn befiehlt ihm Kolonialisierung
+* Joran überträgt Stepanie vorübergehend die Leitung der Schule und die Obhut über Laya
 * Dragan kehrt mit Truppen und Joran zurück
 * Dragan erobert Städte im Flussdelta, errichtet Wombatfarmen, Regierung
 * Joran wird entführt
 * Kampf mit Dschungelstamm
-* Dragan trifft Marcin, der mittlerweile etablierter Schamane ist
+* Dragan trifft Marcin, der mittlerweile etablierter Schamane ist, und Joran im Schlepptau
 
 Marcin
 * flieht mit C'rahanijz vor A'kradizz, verteidigt sich mit Blutzauber und Schwert 
@@ -533,7 +571,8 @@ Marcin bringt in einem Wutanfall darüber C'rahanijz um
 Marcin schwingt sich an Dragans Seite zum neuen Herrscher über das neue Land auf und nennt es Sanguin_
 
 Dragan (Marcin ist Dieb)
-* Marcin und Dragan seite an seite Statthalter von Thornien in Deltastadt
+* Marcin ist froh, zurückgekehrt zu sein und will mit Dragan den Dschungel erobern
+* Marcin und Dragan Seite an Seite Statthalter von Thornien in Deltastadt
 * verhaften Homosexuelle, unter anderem Pantherinnenzelle (Jun'ya)
 * werden von Pantherinnen angegriffen
 * kämpfen gegen Frauenrechtler-Untergrundorganisation Pantherinnen
@@ -549,12 +588,16 @@ Dragan (Marcin ist Dieb)
 * Pantherinnen lehren ihm keine Blutmagie, weil sie nur für Frauen da ist
 * Er redet mit Giulia über Gesellschaft Lagons, sie überzeugt ihn, dass Patriarchat kacke ist
 * Währenddessen entkommt Marcin aus dem Gefängnis, indem er dunkelste Blutmagie anwendet
-* Marcin schlägt sich zu Dragan in den Dschungel durch und klagt ihn an, dass er nicht versucht hat, ihn zu befreien, der ist froh, ihn wieder zu sehen, stört sich aber an seinem Maskulinismus
+* Marcin schlägt sich zu Dragan in den Dschungel durch und klagt ihn an, dass er nicht versucht hat, ihn zu befreien
+* Dragan ist froh, ihn wieder zu sehen, stört sich aber an seinem Maskulinismus
 * Marcin und Jun'ya führen Angriff auf Deltastadt an, ist ungerechtfertigt grausam, entführen Joran
 * Dragan überzeugt Joran, dass Kampf gegen Lagon erfolgreich sein kann
 * Lagoner überraschen Pantherinnen-Lager, Marcin, Giulia und Joran fliehen zusammen, Dragan und Jun'ya werden gefangen genommen, nach Deltastadt deportiert
-* Giulia infiltriert Deltastadt zusehen, wie C'rahanijz öffentlich exekutiert wird
-* Marcin und Joran stürmen zu zweit Deltastadt, werden in die Ecke getrieben, Marcin isst Kind und die beiden schaffen es, einen Aufstand loszuschlagen, Pantherinnen zu befreien, und Lagoner zu besiegen
+
+* Giulia infiltriert Deltastadt und muss zusehen, wie C'rahanijz öffentlich exekutiert wird
+* Marcin und Joran stürmen zu zweit Deltastadt, werden in die Ecke getrieben, Marcin isst Kind
+* Sie entkommen und verstecken sich in Deltastadt; Marcin lehrt Joran ein bisschen Blutmagie
+* die beiden schaffen es, einen Aufstand loszuschlagen, Pantherinnen zu befreien, und Lagoner zu besiegen
 * Jun'ya ruft Herrschaftslosigkeit aus, benennt Kontinent in Sanguin um
 * Marcin streitet sich mit Dragan, weil er Machtverlust nicht akzeptieren kann
 * Pantherinnenrat soll bei patriarchaler Unterdrückung eingreifen, Dragan erhält Sitz, um Schwule zu repräsentieren
@@ -564,27 +607,33 @@ Dragan (Marcin ist Dieb)
 # Akt 5
 
 - Giulia, Marcin und Joran kommen in Lagon an
+- Stepanie und Laya streiten sich über Religion; Stepanie meint, der Orden hat auch gute Seiten, und sieht Thorn eher skeptisch, stört sich an Layas Magie
+- Laya spottet, dass Stepanies Gruppe ihr zu bürgerlich ist. Religion und Familie taugen ihr nicht. "Ihr seid zu normal". Thorn ist radikal genug
 - Laya als Hochmagierin Thorns greift Orden an, offener Bürgerkrieg
 - Marcin trifft sich heimlich mit Thorn, um sich seine Stellung zurückzuerkaufen
-- Marcin führt die beiden in einen Hinterhalt von Thorns Truppen, Thorn erkennt Giulia und lässt sie laufen, dafür sperrt er Marcin für seinen Verrat in Sanguin ein, aber unter guten Bedingungen
+- Marcin führt die Giulia und Joran in einen Hinterhalt von Thorns Truppen, Thorn erkennt Giulia und lässt die beiden laufen
+- dafür sperrt Thorn Marcin für seinen Verrat in Sanguin ein, aber unter guten Bedingungen, weil er ihm nicht vertrauen kann
 - Joran wird bei Hinterhalt verletzt, sie kommen bei Laya unter, sie flickt ihn mit Technik zusammen
+- Orst geht zu Stepanie und schimpft sie gottlos - Stepanie versichert ihm, dass sie nur einen Glauben will, in dem Frauen Platz haben. Sie einigen sich.
 - Layas Haus wird vom Orden angegriffen, Joran entführt, Giulia entkommt
 - Joran trifft Eunuchen in der Zelle
 - Eunuch und Joran reden über Objektivität und Götter, wie man ein Gott wird
 - Marcin redet mit Thorn, versucht ihn zu überzeugen, Homosexualität akzeptabel zu machen, und ihm im Gegenzug zu helfen, Thorn verspottet ihn
-- Giulia streift durch die Straßen der Stadt, ihr fällt auf, wie die Frauen am Bürgerkrieg leiden, sie besetzt ein Haus und macht ein Frauenhaus auf
+- Giulia streift durch die Straßen der Stadt, ihr fällt auf, wie die Frauen am Bürgerkrieg leiden
+- Während sie versucht, sie aufzurütteln, trifft sie auf Stepanie, die ihr vom Widerstand erzählt
 - Eunuch zeigt ihm Grenzen der Menschlichkeit auf, hilft ihm, Realität nach seinem Willen zu formen
 - Joran wird zum Verhör aus der Zelle geführt, verbiegt Realität so, dass er entkommen kann (Zeit umdenken)
 - Blutgöttin redet ihm ein, dass er auf dem besten Weg ist, ein Gott zu werden, verführt ihn im Traum, sagt sie schenkt ihm Danias Leben 
+- Giulia erzählt Stepanie von Thorns und ihrer Vergangenheit & Atheismus, die ist geschockt und wirft sie raus
 - Giulia wird von Blutgöttin zu Thorn geführt, sie macht ihn wegen seines Narzissmus fertig
 - Joran kehrt zur Zelle des Eunuchen zurück, erklärt ihm, dass Menschen das Problem sind, weil sie an Götter glauben, und er Lagon reinigen muss, um eine neue Generation Post-Menschen zu kreieren
 - Eunuch will nicht mitkommen und entscheidet sich, in seiner Zelle zu bleiben
 - Giulia verführt Thorn, kratzt ihn dabei blutig, erpresst ihn mit seinem Blut, er jammert und bettelt
 - Da kommt Laya herein, beleidigt sie, dass Joran sie nie lieben würde, und ihr gehören würde, schlägt sie nach Magieduell in die Flucht, weil Giulia ihre Periode nicht hat
 - Währenddessen bricht Joran in die Zellen Thorns ein und bringt aus Rache Marcin um, der sich nicht wehren kann
-- Giulia lernt den Bürgerkrieg zu verachten
-- eine Frau erzählt ihr, dass der Orden gestürmt wird
-- Joran entmachtet Flammensplitter, weil er nicht an sie glaubt 
+- Laya und Joran treffen sich bei Stepanie wieder. die versucht ihnen zu erklären, dass der Glaube jetzt nicht mehr der Feind ist, doch ist ihnen egal
+- Giulia beginnt, den Bürgerkrieg zu verachten; das hier ist keine Revolution. Eine Frau erzählt ihr, dass der Orden gestürmt wird
+- Joran entmachtet Flammensplitter, weil er nicht an sie glaubt.
 - Joran und Laya stürmen den Orden, töten Isigor, stehlen Danias Leiche, wollen Dania in Kathedrale wiederbeleben
 - Blutgöttin überzeugt Joran, Laya zu opfern, „um Dania wiederzubeleben“
 - Danias Leiche auf dem Altar, hat Joran auf ihr Sex mit Laya, und entzieht ihr beim Orgasmus alles Blut, um die Kraft der Blutgöttin zu übertragen
@@ -594,9 +643,13 @@ Dragan (Marcin ist Dieb)
 - Giulia lässt die beiden in Ruhe, sucht Eunuchen auf, lässt sich Dinge deuten, ist angewidert von Joran und der Göttin, holt ihn aus der Zelle
 - Joran stellt sich vor Menge, erweckt Glauben an sich
 - Ende des Ordens, weil Joran ihn wegdefiniert und die Art ändert, wie Menschen Inquisitoren sehen (Warum habe ich so eine Robe an?) Unwissen der Masse, statt Wissen (wie es der Eunuch will)
+- Stepanie ist gerade mit Orst zusammen, als sie beide plötzlich aufhören, an J'zharr zu glauben. Reden über existentialistisches Nichts
+- Orst lacht irre und versucht, Stepanie zu vergewaltigen, weil er keinen Grund mehr sieht, es nicht zu tun
+- Stepanie wird von einer Genossin in der Nähe gerettet, sie machen Orst kampfunfähig und besinnen sich auf Solidarität
 - Giulia und Eunuch kommen aus den Heiligen Hallen, sehen Joran und Dania, Eunuch traurig, dass Joran Gott werden will, Giulia verachtet Blutgöttin als letzte Herrscherin
 - Joran und Dania stürmen Thorns Festung und stellen ihn, Joran tötet ihn „deine Herrschaft ist weltlich, von gestern“
-- Giulia und Eunuch eilen ihnen nach und treffen sie nach Thorns Tod
+- Stepanie will Mia aus der Schule holen; sie steht davor und tanzt auf den Straßen. Als Mia leicht zu schweben beginnt, bekommt Stepanie Angst. Mia beruhigt sie mit: "Ist okay, Mama, ich *will* das!"
+- Giulia und Eunuch eilen Joran und Dania nach und treffen sie nach Thorns Tod
 - Eunuch: du bist kein Gott, du kannst nicht von dir lassen, und sie weiß das
 - Giulia enttarnt Dania als Blutgöttin
 - Blutgöttin will Identität von Giulia umdefinieren, aber die glaubt zu fest an sich selbst
@@ -609,7 +662,8 @@ Dragan (Marcin ist Dieb)
 	- Joran nutzt Technikmagie um alle zu ernähren
 	- Giulia denkt über neue Normen nach
 	- Dragan und Jun'ya halten die Anarchie in Sanguin am laufen 
-	- Eunuch kümmert sich um seine Wombats 
+	- Eunuch kümmert sich um seine Wombats
+	- Stepanie unterrichtet
 
 
 # Spielprinzip 
