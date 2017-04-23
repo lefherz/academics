@@ -775,11 +775,11 @@ Wombatscheiße, Blut, Kotze, Flüssigkeiten destillieren: Bor
 
 **Göttliches Prinzip**
 Feuer/Wassergott sind tot, ihre Macht ruht in den Artefakten  
-Feuerartefakte wirken durch Unschuld, Jungfräulichkeit  
-Wasserartefakte wirken durch reines Wasser trinken/waschen  
+Feuerartefakte wirken durch Unschuld, Jungfräulichkeit und Gleichgültigkeit  
+Wasserartefakte wirken durch reines Wasser trinken/waschen, Leidenschaft  
 Götterdämmerung/Inkarnation:  
 sammeln der Splitter, wenn Gott tot war  
-Fusion der Splitter an heiligem Ort unter Opfer von einer*m, di*er sich noch nie gewaschen/geblutet/Sex gehabt hat  
+Fusion der Splitter an heiligem Ort unter Opfer von einer\*m, di\*er sich noch nie gewaschen/geblutet/Sex gehabt hat  
 
 _Geistliches Prinzip
 Geister leben in Parallelwelt
@@ -821,7 +821,8 @@ Namen können nur mit dem unterbewussten Geist verstanden werden, du kannst sie 
 * Vergissmich # Vergissmeinnicht/Myosotis Sylvatica
 * Feuer # Asche
 * Schutz # Knochenstaub
-* Feuerlöschen # A'kradizz-Schuppen
+* Schutz vor Feuer # A'kradizz-Schuppen
+* Feuerlöschen # Seife
 * Schweben # Schmetterlingsflügel
 * Nachtsicht # Sonnenblumen
 * Muskelkraft # menschliche Muskeln
