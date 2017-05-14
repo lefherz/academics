@@ -38,7 +38,7 @@ Marcin
 * Leutnant der ehrbaren Diebe
 * homosexuell
 * später heimlicher Verbündeter Thorns
-* hinterhältig
+* hinterhältig und vorsichtig
 * etwa 30 Jahre alt
 * frustriert, dass er wohl niemals lieben kann
 
@@ -162,7 +162,8 @@ Ratsinquisitor Callen
 Sinya 
 * Novize des Ratsinquisitors
 * schüchtern, gebrochen
-* Hass auf Magie, da Mutter Brockensüchtig
+* Hass auf Magie, da Mutter auf Brocken an einer magischen Entladung gestorben ist
+* klein & blond
 
 Jun'ya
 * Pantherin
@@ -265,20 +266,27 @@ Giulia von Hartlingen
 
 # Fraktionen 
 
-Rat Lagons
-* korruptes Parlament
-* Kommando über Miliz
+Stadt Lagon
+* Rat als korruptes Parlament
+* Im Rat sitzen der Patrizier und Berater, Bürokraten, Lobbyisten, Gesellschaftliche Vertreter, Hauptleute, Inquisitoren, Kaufleute, Fabrikanten
+* Patrizier hat überall das letzte Wort und Oberbefehl über Miliz
+* Ratsmitglieder ernennen Magister und haben deswegen Einfluss über sie
+* 13 Magister verwalten jeweils einen Bezirk und haben vor Ort eigene Miliz
 * Bürokratieapparat mit Verwaltung
-* treiben Steuern ein
-* Berater, Bürokraten, Lobbyisten, Gesellschaftliche Vertreter, Hauptleute, Inquisitoren, Kaufleute, Fabrikanten
+* Magister treiben Steuern ein, um Verwaltungsapparat zu finanzieren
+* Keine Judikative; Urteile werden direkt von Miliz oder manchmal vom Magister gefällt
+* Miliz (graue Uniformen) wahrt Recht auf Eigentum und körperliche Unversehrtheit, setzt sonstige Vorschriften nur für Willkür ein
+* Patrizier, Ratsmitglieder und Magister sind immun vor dem Gesetz; im Einzelfall bewaffnete Konflikte untereinander
 
 Orden der Flamme/Inquisition
 * Glaube des kleinen Mannes
-* besteht aus Inquisitoren in braunen Roben und Novizen in schwarzen Roben
+* besteht aus hohen Inquisitoren in roten Roben, Inquisitoren in braunen Roben und Novizen in schwarzen Roben
+* Großinquisitor trägt weiße Robe
 * Antimagische Einstellung, verfolgt Magier
 * Göttliche Feuersplitter als Festigung ihrer Macht 
 * Zölibat, sexuelle Abstinenz
 * Große Macht über Bürger, durch Manipulation im Gottesdienst
+* Verfolgen Brocken, Bor, Homosexualität und Prostitution; Täter werden dann in Schauprozessen hingerichtet
 
 Loge innovativer Eliten
 * Wirtschaftsbosse
@@ -296,6 +304,7 @@ die ehrbaren Diebe
 * Diebe leben nicht lang
 * Gefallen sind Währung unter Dieben, wer einen Gefallen nicht zurückgibt, verliert seinen Ruf und kriegt nie wieder einen Gefallen
 * Diebe helfen Armen gegen Gefallen
+* Wenn sie sich als Diebe zu erkennen geben wollen, tragen sie eine schwarze Ballonmütze
 
 Thornische Ureinwohner 
 * geprägt von Sexismus, Kannibalismus, Blutmagie, Inzestclans
@@ -342,19 +351,25 @@ Feministischer Untergrund
 * Einführungskapitel mit Thorn
 * Dania trifft sich mit Stepanie, nimmt eine Nase Brocken und treibt es mit einem Freier. als er fertig und benommen ist, klaut sie ihm die Brieftasche und versucht zu fliehen. Er erwischt sie, schlägt sie zusammen, raubt sie aus und lässt sie liegen
 * Joran sitzt in seinem Labor und tüftelt für Arghan Howl
-* Marcin findet sie so am Straßenrand, bietet ihr nen Schlafplatz an
 * Varg und Thorn stürmen Jorans Labor, kriegen Aussage, lassen ihn laufen, weil sie kein Bor finden.
-* Marcin bietet ihr den Job als Spionin für ihn an, weil er sein Territorium ausweiten will, gegen Brocken als Bezahlung
-* Stepanie findet Dania auf Brocken auf der Straße, gibt ihr was zu Essen aus und kotzt sich über ihre Sorgen bei ihr aus. „glaub mir, für Diebe arbeiten willst du nicht“
-* Thorn stürmt das Labor, dass Joran ihm verraten hat, und reinigt einen Magier, der sich noch versucht zu wehren. Daraufhin stellt er Arghan Howl zur Rede und versucht, ihn zu erpressen
-* (Daraufhin wird Jorans Labor geschlossen, aber evtl ergreift Arghan Maßnahmen, um Thorn aus dem Orden werfen zu lassen)
-* Dania schaltet für ihn einen rivalisierenden Brockendealer aus, seine Kumpanen verfolgen Dania
-* Thorn wird aus den heiligen Hallen des Ordens geprügelt, nachdem man ihm seine  entrissen hat, Dania läuft ihm verzweifelt in die Arme, er rettet sie
-* Stepanies Bruder erzählt ihr von dem aktuellen Tratsch im Orden; Raft ist ermordet worden, Thorn wurde herausgeworfen, erzählt von Varg, der ihm unschuldig vorkommt
+* Thorn stürmt das Labor, dass Joran ihm verraten hat, und reinigt einen Magier, der sich noch versucht zu wehren. 
+* Thorn stellt Arghan Howl zur Rede und versucht, ihn zu erpressen
+* Daraufhin wird Jorans Labor geschlossen, aber Arghan ergreift Maßnahmen, um Thorn aus dem Orden werfen zu lassen
+..* Arghan schickt Raft einen anonymen Hinweis auf Bor in Thorns Lager und arrangiert dort eine Bor-Explosion mit einem verkleideten "Novizen"
+* Marcin findet sie so am Straßenrand, bietet ihr nen Schlafplatz an
+* Dania soll für Marcin Gabor ausspionieren, weil er ihm ein Kind als Attentäter auf den Hals gehetzt hat
+* Stepanie findet Dania auf Brocken auf der Straße, gibt ihr was zu Essen aus
+* Dania überredet Marcin, ihr einen Job zu geben, damit sie sich nicht mehr verprostituieren muss
+* Varg führt Raft und Sinya auf Nachfrage in Thorns geheime Asservatenkammer; dort stirbt Raft an einer Bor-Explosion
+* Dania tötet Gabor, seine Kinder verfolgen Dania
+* Thorn wird aus dem Orden geworfen, nachdem man ihm seinen Splitter entrissen hat, wegen fahrlässiger Tötung
+* Dania läuft ihm verzweifelt in die Arme, er rettet sie vor Gabors Kindern
+* Stepanies Bruder erzählt ihr von dem aktuellen Tratsch im Orden; Raft ist explodiert, Thorn wurde herausgeworfen, Varg kommt ihm unschuldig vor
 * Dania bringt Thorn zu Marcin, der ihm Unterkunft gibt
-* die drei hecken einen Plan aus, um den Boss Marcins, Kenin, zu töten und Marcin den Platz zu verschaffen, Thorn gibt mit seiner Macht an, damit Marcin Nutzen an ihm findet
-* Thorn trifft sich mit Varg, fragt ihn um Unterstützung 
-* Thorn lehrt Dania einen leichten Illusionszauber, mit dem sie sich in Kenins Wohnung schleicht und ihn umbringt
+* Thorn gibt mit seiner Macht an, damit Marcin Nutzen an ihm findet
+* die drei hecken einen Plan aus, um den Boss Marcins, Kenin, zu töten und Marcin den Platz zu verschaffen
+* Thorn trifft sich mit Varg, fragt ihn um Unterstützung
+* Thorn bringt Dania Vergissmich-Bor, mit dem sie auf einer Party Kenin umbringt
 * Marcin wird Kenins Nachfolger und Hauptmann des siebten Bezirks
 
 # Akt 2
@@ -894,3 +909,16 @@ Dania hat eine Jugendfreundin, die unter Schönheitsdruck leidet
 Marcin nutzt eine Putzfrau als Spionin – dritter Akt?
 Vargs Terrorismus wird feministisch gebrandet – versucht jemand, ihn so zu instrumentalisieren?
 Thorns ehemalige Liebe, nun Priesterin der Blutgöttin und auf Thornien, kehrt im fünften Akt zurück, Blutgöttin spielt mit ihr Thorn und Joran gegeneinander aus, Dania(Blutgöttin) und sie errichten Matriarchat_
+
+# Alinas Feedback
+
+* Regeln und Gesetze in der Welt früher klären (Marcin?)
+* Magische Entladung aus Außenperspektive zeigen; Marcin?
+* Perspektiven zusammenlegen? zu kurze Kapitel mit zu vielen POVs
+* moderne Ausdrücke vermeiden
+* point of view konsistent halten
+* Szenen sollen besser aufeinander aufbauen, Handlungsstränge nicht unterbrechen
+* Beweggründe noch einmal nachprüfen und ggf. erweitern. müssen auch besser gezeigt werden.
+* World Building mehr zeigen als erklären
+* Action in der ersten Szene
+* Warum wurde Thorn herausgeschmissen - theologische Differenzen maybe?
