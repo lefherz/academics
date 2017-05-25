@@ -38,7 +38,7 @@ Marcin
 * Leutnant der ehrbaren Diebe
 * homosexuell
 * später heimlicher Verbündeter Thorns
-* hinterhältig und vorsichtig
+* hinterhältig und vorsichtig, eifersüchtig
 * etwa 30 Jahre alt
 * frustriert, dass er wohl niemals lieben kann
 
@@ -107,9 +107,9 @@ C'rahanijz
 
 Kenin
 * Hauptmann der ehrbaren Diebe des siebten Bezirks
-* Boss von Marcin
-* Brockensüchtig
-* homosexuell
+* Boss von Marcin, hat etwas mit ihm, um sich nah beinander zu halten
+* Brockensüchtig, verbringt viel Zeit mit Huren
+* bisexuell
 
 Gabor
 * Leutnant der ehrbaren Diebe des siebten Bezirks 
@@ -348,7 +348,7 @@ Feministischer Untergrund
 
 
 # Akt 1
-* Einführungskapitel mit Thorn
+* Einführungskapitel mit Thorn, er verhört einen von marcins Leuten und reinigt ihn
 * Dania trifft sich mit Stepanie, nimmt eine Nase Brocken und treibt es mit einem Freier. als er fertig und benommen ist, klaut sie ihm die Brieftasche und versucht zu fliehen. Er erwischt sie, schlägt sie zusammen, raubt sie aus und lässt sie liegen
 * Joran sitzt in seinem Labor und tüftelt für Arghan Howl
 * Varg und Thorn stürmen Jorans Labor, kriegen Aussage, lassen ihn laufen, weil sie kein Bor finden.
@@ -367,14 +367,15 @@ Feministischer Untergrund
 * Stepanies Bruder erzählt ihr von dem aktuellen Tratsch im Orden; Raft ist explodiert, Thorn wurde herausgeworfen, Varg kommt ihm unschuldig vor
 * Dania bringt Thorn zu Marcin, der ihm Unterkunft gibt
 * Thorn gibt mit seiner Macht an, damit Marcin Nutzen an ihm findet
-* die drei hecken einen Plan aus, um den Boss Marcins, Kenin, zu töten und Marcin den Platz zu verschaffen
+* Thorn spottet Marcin, weil er in Kenins Schatten steht, obwohl er doch viel mehr könnte
+* die drei hecken einen Plan aus, um Kenin, zu töten und Marcin den Platz zu verschaffen - Marcin ist eifersüchtig auf Kenin
 * Thorn trifft sich mit Varg, fragt ihn um Unterstützung
 * Thorn bringt Dania Vergissmich-Bor, mit dem sie auf einer Party Kenin umbringt
 * Marcin wird Kenins Nachfolger und Hauptmann des siebten Bezirks
 
 # Akt 2
 ## Kontakt zur Loge herstellen
-* Arghan Howl wurde früher der Magie beschuldigt, weil er Magier in seinem Dienst hatte, wurde jedoch aufgrund seiner Position freigesprochen
+* Arghan Howl wurde früher der Magie beschuldigt, weil er Magier in seinem Dienst hatte, wurde jedoch von Thorn erpresst statt angeklagt
 * Thorn nimmt Kontakt zu ihm auf und gründet Zusammenarbeit auf ideologischer Basis gegen den Orden
 * Dania und Varg werden Schüler und Versuchskaninchen für Joran, tief in Howls Geheimlabor
 * Dania macht mit, weil ihre magischen Fähigkeiten sie faszinieren, und weil sie an reineres Brocken kommt 
