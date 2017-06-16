@@ -101,6 +101,14 @@ C'rahanijz
 * folgt der Blutgöttin blind, sonst gutmütig
 * liebt sein Volk
 
+Giulia von Hartlingen
+- Thorns kleine Schwester
+- mit Thorn im ersten Bezirk aufgewachsen, alter Adel
+- unvoreingenommen, hinterfragt Normen natürlicherweise
+- Rache neigt dazu, ihre Willensfreiheit einzuschränken
+- Stellt fest, dass wenn man sich von seinem Willen detached, man nicht mehr lebt
+- Wird zu jemandem und erhält sich ihre Identität, weil sie Thorn hasst
+- muss lernen, auch ohne Hass jemand zu sein
 
 
 # Other people
@@ -170,6 +178,7 @@ Jun'ya
 * Terroristin
 * Lesbisch
 * jähzornig
+* Will unbedingt ein Kind großziehen, findet aber keinen Samenspender
 
 Orfan
 * lehrender Inquisitor
@@ -205,7 +214,7 @@ Hunnar
 
 Orst
 * Seit seiner Jugend beim Orden
-* Lehrender Inquisitor
+* Lehrender Inquisitor, für die Lehrpläne zuständig
 * Unterstützt Stepanie, wo er kann
 * lebt seinen Glauben streng aus und erwartet das auch von anderen
 
@@ -232,7 +241,6 @@ Laya
 - führt mit Joran lange Gespräche über Glauben und Wissenschaft
 - Da sie seit einem magischen Unfall keine Kinder mehr bekommen kann und ihren Vater hasst, glaubt sie nicht an Familie
 - Während sie in dem kleinen Labor lebt, wird sie zunehmend radikalisiert
-- Ist Thorn gegenüber loyal. dankbar, dass er Dania umgebracht hat; so hat sie Joran für sich. 
 
 Der Eunuch
 - Herkunft unbekannt, keine Identität mehr 
@@ -248,18 +256,6 @@ Der Eunuch
 - Freiheit endet, wenn man das notwendige einsieht; das N. hängt aber davon ab, was man will. Da er nichts will, ist nichts so wichtig wie die reine Wahlfreiheit – sich nicht gegen seinen Willen entscheiden zu können, ist ihm unverständlich.
 - erster Wombatzüchter
 
-Giulia von Hartlingen
-- Thorns kleine Schwester
-- mit Thorn im ersten Bezirk aufgewachsen, alter Adel
-- in der Jugend Affäre mit Thorn
-- dabei erwischt und ausgestoßen, während Thorn von ihrem Vater in den Orden geschickt wird
-- treibt sich auf der Straße herum, lernt Willkür der Männer kennen
-- trifft Eunuchen, lernt Bormagie als seine Gehilfin, er predigt ihr Willensfreiheit statt Rache
-- Eunuch: du hast die Freiheit bereits gefunden und sollst dich auf Wissensmehrung konzentrieren
-- Giulia findet die Rebellion wichtiger und stellt fest, dass sie Rache will
-- Giulia brennt das Haus ihrer Familie mit allen darin nieder
-- Eunuch verurteilt sie nicht, aber ist traurig, dass sie nicht so weit ist, Weisheit zu verstehen, Auflehnung mit Grausamkeit verwechselt – Giulia: Welt war grausam zu mir, so muss Auflehnung aussehen
-- Giulia verschwindet und schwebt auf den anderen Kontinent, lernt dort die Blutgöttin kennen, schließt sich den Pantherinnen an
 
 
 
@@ -287,6 +283,7 @@ Orden der Flamme/Inquisition
 * Zölibat, sexuelle Abstinenz
 * Große Macht über Bürger, durch Manipulation im Gottesdienst
 * Verfolgen Brocken, Bor, Homosexualität und Prostitution; Täter werden dann in Schauprozessen hingerichtet
+* Wasser ist für Gläubige eine unreine Substanz, und muss vor dem Verzehr abgekocht und gesegnet werden.
 
 Loge innovativer Eliten
 * Wirtschaftsbosse
@@ -355,7 +352,7 @@ Feministischer Untergrund
 * Thorn stürmt das Labor, dass Joran ihm verraten hat, und reinigt einen Magier, der sich noch versucht zu wehren. 
 * Thorn stellt Arghan Howl zur Rede und versucht, ihn zu erpressen
 * Daraufhin wird Jorans Labor geschlossen, aber Arghan ergreift Maßnahmen, um Thorn aus dem Orden werfen zu lassen
-..* Arghan schickt Raft einen anonymen Hinweis auf Bor in Thorns Lager und arrangiert dort eine Bor-Explosion mit einem verkleideten "Novizen"
+  - Arghan schickt Raft einen anonymen Hinweis auf Bor in Thorns Lager und arrangiert dort eine Bor-Explosion mit einem verkleideten "Novizen"
 * Marcin findet sie so am Straßenrand, bietet ihr nen Schlafplatz an
 * Dania soll für Marcin Gabor ausspionieren, weil er ihm ein Kind als Attentäter auf den Hals gehetzt hat
 * Stepanie findet Dania auf Brocken auf der Straße, gibt ihr was zu Essen aus
@@ -368,6 +365,7 @@ Feministischer Untergrund
 * Dania bringt Thorn zu Marcin, der ihm Unterkunft gibt
 * Thorn gibt mit seiner Macht an, damit Marcin Nutzen an ihm findet
 * Thorn spottet Marcin, weil er in Kenins Schatten steht, obwohl er doch viel mehr könnte
+* Marcin besucht Kenin, der gerade etwas mit einer seiner Huren hat - der will ihm nicht helfen, Marcin ist enttäuscht
 * die drei hecken einen Plan aus, um Kenin, zu töten und Marcin den Platz zu verschaffen - Marcin ist eifersüchtig auf Kenin
 * Thorn trifft sich mit Varg, fragt ihn um Unterstützung
 * Thorn bringt Dania Vergissmich-Bor, mit dem sie auf einer Party Kenin umbringt
@@ -380,7 +378,7 @@ Feministischer Untergrund
 * Dania und Varg werden Schüler und Versuchskaninchen für Joran, tief in Howls Geheimlabor
 * Dania macht mit, weil ihre magischen Fähigkeiten sie faszinieren, und weil sie an reineres Brocken kommt 
 * Varg macht mit, weil er hofft, dass Magie die Welt besser machen kann, wenn sie sicher genutzt werden kann. Thorn will ihn in dem Job haben, damit er etwas gegen ihn in der Hand hat
-* Ein A'kradizz, der übers Meer her geschwommen ist und total fertig, taucht auf, und erzählt mit seinen letzten Worten von den Wassersplittern und seinem Gott. Joran verwendet seine Überreste für Feuerlöschbor
+* Ein A'kradizz, der übers Meer her geschwommen ist und total fertig, taucht auf, und erzählt mit seinen letzten Worten von den Wassersplittern und seinem Gott. Joran verwendet seine Überreste für Feuerschutzbor
 * Dania begehrt Varg, weil er als erster Mann sie nicht will
 * Joran verliebt sich in Dania, weil Frau
 * Dania verführt Varg
@@ -508,8 +506,9 @@ Giulia
 * Sie lernt destruktive Bormagie vom Eunuchen, weil Wissen wichtig ist, egal welcher Zweck
 * sie brennt Haus ihrer Familie nieder, mit allen darin
 * Eunuch verurteilt sie nicht, aber ist traurig, dass sie nicht so weit ist, Weisheit zu verstehen, Auflehnung mit Grausamkeit verwechselt
-* Giulia: Welt war grausam zu mir, so muss Auflehnung aussehen
-* sie verschwindet und schwebt auf den anderen Kontinent
+* Giulia versteht, dass sie zu dieser Tat getrieben wurde, dass es Fremdbestimmtheit war
+* Giulia will nur noch weg, um der Fremdbestimmtheit zu entfliehen
+* sie überzeugt die Objektivität, dass das eine gute Sache wäre und schwebt davon (nach Sanguin)
 
 
 
@@ -542,8 +541,8 @@ Dragan
 * Thorn befiehlt ihm Kolonialisierung
 * Joran überträgt Stepanie vorübergehend die Leitung der Schule und die Obhut über Laya
 * Dragan kehrt mit Truppen und Joran zurück
+* Joran verschwindet
 * Dragan erobert Städte im Flussdelta, errichtet Wombatfarmen, Regierung
-* Joran wird entführt
 * Kampf mit Dschungelstamm
 * Dragan trifft Marcin, der mittlerweile etablierter Schamane ist, und Joran im Schlepptau
 
@@ -552,18 +551,45 @@ Marcin
 * Zuflucht in abgelegenen Dorf A der Ureinwohner 
 * Magische Lehre bei C'rahanijz
 * spioniert A'kradizz aus, erfährt Ziele: 
-* Wiederbringen des Wassergottes
-* sammeln der Splitter des Wassergottes
-* Fusion der Splitter an heiligem Wasserfall unter Opfer von einem, der sich noch nie gewaschen hat
-* Marcin entführt Joran aus Kolonie in der Wüste, stiehlt moderne Waffen 
-* C'rahanijz lehrt Joran Blutmagie
+  * Reinkarnation von Q'Holi
+  * sammeln der Splitter des Wassergottes
+  * Fusion der Splitter an heiligem Wasserfall unter Opfer von einem, der sich noch nie gewaschen hat
+* Blutgöttin will von Marcin, dass er die Reinkarnation von Q'Holi verhindert
+* Marcin spricht mit Joran in Kolonie in der Wüste, überzeugt ihn mitzukommen (Du kriegst die Wassersplitter), stiehlt moderne Waffen
 * Joran hilft Marcin bei Sammeln von Wassersplittern, plündern ein paar Tempel
 * Großoffensive der A'kradizz, Marcin wird zu Dorf B gerufen
 * Marcin verteidigt Dorf B, doch als er zu Dorf A zurückkehrt, wurden Joran und Wassersplitter entführt und das Dorf überrannt, nur C'rahanijz konnte mit Blutmagie entkommen
-* Marcin eilt zu Wasserfall, A'kradizz wollen Joran opfern und Wassergott zurückholen 
-* Marcin befreit Joran, vernichtet A'kradizz, Joran nimmt Wassersplitter 
+* Marcin eilt zu Wasserfall, A'kradizz wollen Joran opfern und Wassergott zurückholen
+* Marcin befreit Joran, gibt ihm Blut zu trinken, sie vernichten die A'kradizz, Joran nimmt Wassersplitter
 * Joran und Marcin gehen zu Dragan, Joran will nach Hause, Marcin will Dragan sprechen
 
+Dragan
+* Hat keine Lust mehr, Statthalter zu sein, und flieht mit Marcin, um ihre Homosexualität auszuleben und gegen Lagoner zu kämpfen
+* Sie kommen nach Dorf B, und versuchen dort, einen Widerstand aufzubauen; die Männer des Dorfes machen mit
+* Dragan lernt Jun'ya kennen, die in dem Dorf niedere Tätigkeiten übernimmt & für die Pantherinnen spioniert; sie diskutieren ein wenig
+* Marcin & Dragan überfallen mit Dörflern eine wichtige Versorgungskarawane und stehlen moderne Waffen
+* Dragan wird von Jun'ya bewusstlos gemacht und entführt
+* Bei den Pantherinnen muss Dragan erst einmal niedere Arbeiten übernehmen, um das einfache Leben zu verstehen; Seite an Seite mit Giulia (Wombatscheiße schaufeln)
+* Giulia überzeugt Dragan von queerfeministischen Thesen. Dragan erzählt von Thorn; während Giulia beschließt, Thorn zu töten, wird Dragan Pazifist
+* Dorf B wird angegriffen, die Dörfler von Marcin & C'rahanijz werden niedergemetzelt, C'rahanijz wird gefangen genommen
+* Dragan und Jun'ya besuchen Marcin, um ihm Allianz mit den Pantherinnen anzubieten
+
+Marcin
+* Ist nicht so überzeugt, aber liebt Dragan und will mit ihm ein Leben aufbauen, die anderen sind ihm egal, dann halt nach Vorstellungen der Pantherinnen
+* Latenter Hass, der ihn verzehrt, will außerdem gefüttert werden; richtet ihn gegen die Lagoner
+* Zieht mit Dragan & Pantherinnen durch die Dörfer, alle Männer wurden eingezogen oder versklavt 
+* Frauen wundern sich, warum sie alleine besser klarkommen, und werden von Pantherinnen indoktriniert
+* Sie überfallen eine weitere Karawane mit Waffen, und Marcin zeigt einige unnötige Grausamkeit - Dragan ist bestürzt und zieht sich zur Produktion zurück
+* Dragan meint: "Komm wieder, wenn du gewonnen hast und dein Durst nach Blut versiegt ist"
+* Marcin ist am Boden zerstört und richtet Hass gegen Lagoner, will umso schneller siegen, lässt sich nach Deltastadt einschleusen
+* Bekommt dort mit, wie C'rahanijz exekutiert wird, um die Männer Thorniens zum Gehorsam zu bringen: Botschaft "Ihr habt verloren"
+* Findet den Geheimgang wieder, mit dem Dragan und er damals entkommen sind; führt zum Büro des Statthalters
+* Kehrt zur Homebase zurück, diskutiert mit Giulia, Jun'ya & Dragan über den Plan, Deltastadt zu erobern, Statthalter zu töten, Kontrolle zu errichten
+* Marcin infiltriert Deltastadt mit einigen Pantherinnen. Sie ermorden den Statthalter & einige andere hochrangige Milizen, trinken ihr Blut & bilden neue Herrschaft
+* Dragan und Jun'ya führen Räteanarchismus ein, um das Chaos zu verwalten und neue, gleichberechtigte Gesellschaft aufzubauen. wo ist eig Giulia?
+* Marcin interessiert sich nicht für Dragans Ideen, aber liebt ihn, sehr romantisch. 
+
+<!--
 (je nach Gesinnung von) Marcin (überzeugt er entweder Dragan, dazubleiben und zu rebellieren, oder) ist froh, zurückgekehrt zu sein und will mit Dragan den Dschungel erobern
 
 _C'rahanijz (Marcin ist Magier)
@@ -603,6 +629,7 @@ Dragan (Marcin ist Dieb)
 * Jun'ya führt währenddessen weiter Terroranschläge durch 
 * Pantherinnen lehren ihm keine Blutmagie, weil sie nur für Frauen da ist
 * Er redet mit Giulia über Gesellschaft Lagons, sie überzeugt ihn, dass Patriarchat kacke ist
+* Jun'ya will unbedingt ein Kind zeugen, Dragan wundert das, hilft er ihr?
 * Währenddessen entkommt Marcin aus dem Gefängnis, indem er dunkelste Blutmagie anwendet
 * Marcin schlägt sich zu Dragan in den Dschungel durch und klagt ihn an, dass er nicht versucht hat, ihn zu befreien
 * Dragan ist froh, ihn wieder zu sehen, stört sich aber an seinem Maskulinismus
@@ -619,7 +646,8 @@ Dragan (Marcin ist Dieb)
 * Pantherinnenrat soll bei patriarchaler Unterdrückung eingreifen, Dragan erhält Sitz, um Schwule zu repräsentieren
 * Marcin, Giulia und Joran verlassen Sanguin, um Revolution in Lagon durchzuführen, Marcin hat andere Pläne
 
-
+-->
+<!--
 # Akt 5
 
 - Giulia, Marcin und Joran kommen in Lagon an
@@ -674,13 +702,65 @@ Dragan (Marcin ist Dieb)
 - Blutgöttin bricht zusammen, in der Erkenntnis, dass ihre Kräfte versagen
 - Eunuch nimmt die Seelen J'zharrs, Q'holis, und der Blutgöttin, vernichtet alle Göttlichkeit und schenkt jedem Menschen seine Definitionshoheit
 
+-->
+
+
+
+# Akt 5
+Giulia
+* Giulia will nach Lagon, um Thorn zu töten. Schafft es nicht, Objektivität zu überzeugen, aber klaut im Chaos der Revolution ein Luftschiff
+* Findet die Frauen in Lagon genauso unterdrückt, trifft jmd vom feministischen Untergrund
+* erzählt, dass sie sich in Sanguin befreit haben, Gerüchte verbreiten sich
+
+Joran
+* Joran leitet weiter seine Schule, hört auf, Blut zu trinken
+* Inquisition kommt und nimmt ihn fest, als Thornien erobert wird und Thorns Position scheinbar geschwächt ist
+* Joran & Eunuch treffen sich in Zelle des Ordens & diskutieren über Willensfreiheit
+* Joran wird willensfrei, redet mit der Objektivität, wird rausgelassen, findet Chaos in den Heiligen Hallen vor
+
+Thorn
+* Thorn greift mit Wasser-/Feuersplittern & Miliz den Orden an
+* Thorn tötet Isigor & Novizen in der Kathedrale
+* Layas Vater desertiert und sein Bataillon stellt sich auf die Seite des Ordens
+* einige Inquisitoren entkommen und laufen Amok
+
+Stepanie
+* Inquisitoren greifen Schule an, wo Howl & Stepanie gerade sind
+* Orst tötet Howl, will Stepanie überzeugen, zu fliehen, die verneint
+* Laya verteidigt die Schule mit anderen Schülern, vertreibt Inquisitoren
+
+Giulia
+* Ehrbare Diebe nutzen das Chaos, um 1,2 Magister zu töten und autonome Bezirke auszurufen
+* Giulia verführt Thorn, um ihn in Sicherheit zu wiegen
+* Thorn erzählt, dass ihm Lagon nicht ausreicht, zu langweilig ist. Will alles brennen sehen
+* Giulia tötet Thorn
+* Giulia weint, weil alles was sie ist, aus Hass bestand
+
+Joran
+* Joran wird von Dieben angegriffen, trinkt Blut um sich zu verteidigen
+* Blutgöttin kann wieder mit ihm reden, überzeugt ihn, dass er Dania liebt, Joran verliert Willensfreiheit
+* Joran geht zur Schule zurück, findet dort Chaos vor, und Laya, die es satt hat, sich im Keller zu verstecken
+* Joran und Laya stehlen Danias Leiche, wollen Blutgöttin als Dania in den Heiligen Hallen wiederbeleben
+* Danias Leiche auf dem Altar, hat Joran auf ihr Sex mit Laya, und entzieht ihr beim Orgasmus alles Blut, um die Kraft der Blutgöttin zu übertragen
+
+Eunuch
+* Eunuch wird von den Geräuschen in die Kathedrale gelockt
+* findet dort Joran, der Dania anschmachtet, neben Layas blutleerer Leiche
+* errät was passiert ist, bringt Joran dazu, Blutgöttin zu hinterfragen
+* Joran tötet Blutgöttin, nachdem sie entlarvt ist
+* Eunuch definiert Objektivität weg
+
 - Ausblick auf neue Gesellschaft:
 	- Joran nutzt Technikmagie um alle zu ernähren
 	- Giulia denkt über neue Normen nach
-	- Dragan und Jun'ya halten die Anarchie in Sanguin am laufen 
+	- Dragan und Jun'ya halten die Anarchie in Sanguin am laufen
 	- Eunuch kümmert sich um seine Wombats
 	- Stepanie unterrichtet
+	- Frauen nehmen mehr Rollen in Produktion ein, lernen mehr?
+	- Leute produzieren halbtags, lernen halbtags, spontane Schulen sprießen aus dem Boden?
+	- Marcin wird von Dragan besänftigt
 
+<!--
 
 # Spielprinzip 
 
@@ -750,6 +830,7 @@ Charakter: Joran
 Bormagie, Blutmagie, Wassersplitter, Flammensplitter vllt auch
 Stadt im Chaos, Bürgerkrieg_
 
+-->
 
 
 # Magie
@@ -811,8 +892,10 @@ müssen durch magische Flüssigkeit aufgeladen werden_
 **Blutmagie**
 Menschenblut trinken schafft Kontakt zu Blutgöttin, sie verleiht Macht  
 Beeinflusst Wahrnehmung der Realität → kognitive Dissonanzen wegen Grausamkeit?  
+Blutmagie funktioniert, indem Blutgöttin ein gutes Wort bei der Objektivität einlegt  
+<!--
 Energie wird durch Machtworte kanalisiert  
-durch Blutmagie getötete Gegner sind blutleer  
+durch Blutmagie getötete Gegner sind blutleer  -->
 
 **Brocken**
 eingenommen erzeugt es Visionen, Größenwahn und Ausbrüche leichter magischer Macht  
@@ -902,6 +985,32 @@ Namen können nur mit dem unterbewussten Geist verstanden werden, du kannst sie 
 * weitläufig, Äußerster Stadtrand
 12. Bezirk
 13. Bezirk
+
+# Göttlichkeit
+Wiederbringung eines Gottes:
+* Opfer von jemandem, der noch nie geblutet/gewaschen/... hat
+* Zusammenführung toter Splitter, um neuen Körper zu gewährleisten (Dania: all das Blut, das sie vergossen hat)
+* Ort muss etwas mit dem Element zu tun haben (Kathedrale: dort wurden all die Novizen abgeschlachtet, alles ist ziemlich blutig)
+
+Götter sind weder allmächtig noch allwissend.
+
+## Objektivität
+Die Objektivität ist ein total langweiliger Bürokrat, die die Subjektivitäten einschränkt, um zwischen ihnen vermitteln zu können.
+Die Objektivität denkt sich die objektive Wahrheit; nicht genug Fantasie, um an etwas anderes als pur rationales Zeug zu glauben.
+
+Bor schafft Medium, mit der Objektivität zu reden. Um mit der Objektivität reden zu können, muss man von seiner Subjektivität überzeugt sein;
+man muss sich von jeglicher Fremdbestimmtheit befreien wollen, und verstehen, dass Objektivität dazugehört.
+Man wird durch Willensfreiheit & Selbstbestimmtheit zum Menschen, und kann dann auf Augenhöhe mit der Objektivität diskutieren.
+
+Dann kann man mit der objektiven Wahrheit diskutieren, und sie von eigener Logik überzeugen, die bestehende Logik zu hinterfragen.
+Dazu erfindet man neue Begriffe, um die Welt zu reformulieren, poetische Umschreibungen einer Möglichkeit.
+
+## Reality Bending
+1. Willensfrei werden
+2. Bor nehmen
+3. Objektivität erscheint, wenn man an sie denkt
+4. Mit ihr diskutieren, warum die eigene Subjektivität mehr Recht haben könnte; hat Erfolg, wenn die Objektivität an ihrer eigenen Version zweifelt
+
 
 # Feminismus – mehr weibliche Charaktere
 _Ideen:
