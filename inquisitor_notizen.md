@@ -1023,12 +1023,15 @@ Thorns ehemalige Liebe, nun Priesterin der Blutgöttin und auf Thornien, kehrt i
 # Alinas Feedback
 
 * Regeln und Gesetze in der Welt früher klären (Marcin?)
-* Magische Entladung aus Außenperspektive zeigen; Marcin?
 * Perspektiven zusammenlegen? zu kurze Kapitel mit zu vielen POVs
 * moderne Ausdrücke vermeiden
 * point of view konsistent halten
 * Szenen sollen besser aufeinander aufbauen, Handlungsstränge nicht unterbrechen
 * Beweggründe noch einmal nachprüfen und ggf. erweitern. müssen auch besser gezeigt werden.
 * World Building mehr zeigen als erklären
-* Action in der ersten Szene
-* Warum wurde Thorn herausgeschmissen - theologische Differenzen maybe?
+
+# Anregungen
+
+* Wer wird nach Thorns Entlassung Vargs neuer Meister? Ein Lehrer?
+  * umso frustrierter wäre Thorn, dass er sein Talent im Orden nicht mehr ausleben kann.
+  * begründen, warum er später auch mal Prediger wird
