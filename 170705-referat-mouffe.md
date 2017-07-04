@@ -129,6 +129,7 @@ Normative Rationality
 * Deliberation makes it possible to reach consensus which satisfies rationality *and* democratic legitimacy
 * reformulating democracy in a way which eliminates danger to liberal values
 * popular souvereignty is intersubjectivity: "communicatively generated power"
+* By criticizing instrumental rationality & self-interest, DDs insist on the rationality at work in communicative action and free public reason
 
 Objectives
 * make co-originality of individual rights and popular souvereignty visible ("Freiheit des Einzelnen & Freiheit der Gruppe bedingen sich gegenseitig")
@@ -145,3 +146,58 @@ Flight from Pluralism
 * Both fail to define a domain not subject to pluralism of values, where a consensus without exclusion could be reached
 * The realm of politics is not a neutral terrain without pluralism, where rational & universal solutions could be formulated
 
+Problem of Allegiance
+* Habermas trusts on communicative rationality and the democratic process to sustain allegiance
+* Not a matter of rational justification, but of availability of democratic forms of individuality & subjectivity
+* citizen/subject in current democratic theory is framed as prior to society, bearer of natural rights and
+  * either utility maximizing agents
+  * or rational subjects.
+  * Abstracted from social power relations & culture; exclude the conditions of existence of such a subject
+
+Democratic Citizenship in pluralistic agonism
+* Accepting that there can't be a social relation without power
+* democratic individuals can only be made by multiplying institutions, discourses & forms of life with democratic values
+* democratic citizenship has to be a practice, not an argumentation
+* Rules can't be created on abstract principles and applied to cases, they are inseparable from specific forms of life
+* Separations beween procedural & substantial, moral & ethical can't be maintained - There is no neutrality
+
+## Agonistisches Modell der Demokratie
+
+Soziale Objektivität
+* Hegemony & Socialist Strategy: Jede Soziale Objektivität ist politisch und wird durch social power konstituiert
+* jede Soziale Objektivität zeigt die Spuren des Ausschlusses, der sie konstituiert
+* Dieser "mutual collapse" von Objektivität und Macht ist "Hegemonie"
+* Politische Praxis repräsentiert nicht bestehende Identitäten, sondern konstituiert sie ständig neu, prekär & verwundbar
+
+Macht & Demokratie
+* Deliberative Demokratie: je mehr Demokratie, desto weniger Macht konstituiert soziale Beziehungen
+* Wenn man akzeptiert, dass Macht soziale Beziehungen konstituiert, geht es nur noch darum, welche Macht Demokratie konstituiert
+* Dann ist die ideale Demokratie nicht mehr harmonisch
+* The democratic Character of a society can only be given by the fact that no limited social actor can attribute to herself the representation of the totality and claim to have the 'mastery' of the foundation
+
+Legitimität
+* Es ist zwar nicht alle Macht legitim, aber
+  * Wenn Macht sich durchsetzen konnte, dann weil sie in Teilen als legitim anerkannt wurde
+  * wenn Legitimität nicht auf a prioris basiert, dann weil sie irgendwo auf erfolgreicher Macht basiert
+* Diese Legitimität geht verloren, wenn man wie DD die Möglichkeit Machtfreier rationaler Argumentation formuliert, wo Legitimität in purer Rationalität gründet
+
+Alternative Model
+* The Political: Antagonism inherent in human relations
+* Politics: Ensemble of practices, discourses & institutions to organize human coexistence
+* politics domesticate the political
+* Consensus without exclusion erradicates the political
+* Central question of democratic politics: posit us/them in a way that is compatible with pluralist politics
+* Liberal democratic tolerance: we combat ideas of adversaries, but we do not question their right to defend their ideas
+* This agonism can't be resolved through rational discussion
+* Aim of democratic politics: transform antagonism into agonism
+
+Conflict and Democracy
+* Conflict doesnt't jeopardize democracy, it's its condition of existence
+* democracies refuse to suppress conflict with authoritarian order, but recognize and legitimate it
+* common ground which makes adversaries an "us", is a space of conflictial consensus
+* If no democratic political positions clash, there will be clashes between other forms of collective identification
+* That's why a consensus in the public sphere is a bad idea - every consensus is result of provisional hegemony
+
+By warning us against the illusion that a fully achieved democracy could ever be instantiated, it forces us to keep the democratic contestation alive.
+Coming to terms with the hegemonic nature of social relations and identities, it can contribute to subverting the everprasent temptation existing in
+democratic societies to naturalize its frontiers and essentialize its identities.
