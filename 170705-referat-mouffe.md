@@ -1,5 +1,13 @@
 # Chantal Mouffe
 
+Aufbau:
+* Mouffes metatheoretische Grundannahmen
+* Mouffes Bild von Demokratie
+* Unterschied zwischen demokratisch und liberal
+* das demokratische Paradox
+* Deliberative Demokratie und der Konsens
+* Agonistische Demokratie
+
 ## definitions of democracy
 
 Some say, the problem of democracy is, that in large & complex societies direct democracy is not possible
@@ -26,7 +34,7 @@ liberal:
 - individual rights
 - distinction between public & private
 
-# democratic paradox
+## democratic paradox
 
 Democratic and liberal thought only reconciled after long struggles - their different logics have different dynamics
 
