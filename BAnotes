@@ -1,39 +1,128 @@
 # BA-Arbeit
 Kant: Kritik der reinen Vernunft (Vorrede/Einleitung)
-ist Kant heute noch aktuell? (Internet, Faschos)
-kann man eine klare Grenze zwischen Denken und Meinen(Glauben?) ziehen?
-kann man eine klare Grenze zwischen wissenschaftlicher Erkenntnis und der des kleinen Mannes ziehen?
+* ist Kant heute noch aktuell? (Internet, Faschos)
+* kann man eine klare Grenze zwischen Denken und Meinen(Glauben?) ziehen?
+* kann man eine klare Grenze zwischen wissenschaftlicher Erkenntnis und der des kleinen Mannes ziehen?
 
-Wie hindert einen Antisemitismus an der Erkenntnis?
-was bedeutet das für einen gemeinsamen Diskurs in einer demokratischen Gesellschaft?
-Werden Informationen hierarchisiert, wenn man die Bedingungen für ihre Erkenntnis in eine Rangordnung presst und ist das ein Problem?
+Verschiedene Zweifel:
+* Wie hindert einen Antisemitismus an der Erkenntnis?
+* Informationen werden hierarchisiert, wenn man die Bedingungen für ihre Erkenntnis in eine Rangordnung presst
+  * Kann es dadurch vorkommen, dass man etwas unpraktisches glaubt, nur weil es auf eine "bessere Methode" erhoben wurde?
+  * Peirce kommt damit aus, sie nicht in eine Rangordnung zu pressen; dann lassen sie sich vergleichen.
+* Feinde der Erkenntnis in uns selbst:
+  * Confirmation Bias (Daten die man nicht erheben will)
+  * Cognitive Bias (Definition auf lesswrong?)
+    * Lesswrong: welche genamedten Biases gibt es noch?
+  * Rationalismus (Trennung, die im definieren inhärent ist (Foerster: from Science to Systemics) schließt Qualitäten aus)
+  * Dogma (Method of Tenacity)
+  * Faulheit (Zeitmanagement: gehe ich alle Studien durch, auf denen das hier basiert?)
+  * Selbstbild -> Weltbild (=Bias? nein, Schlüsse, die man nicht ziehen will)
+  * Tradition (An Dinge glauben, die Kontingenz bereits geändert haben könnte
 
+
+Forschungsfragen:
+* was bedeutet der Zerfall der Wahrheit für einen gemeinsamen Diskurs in einer demokratischen Gesellschaft?
+  * (Mouffe: Agonism, Konsens herstellen?)
+* 
+
+# Roter Faden
+Internet als Disruption der Wahrheit
+* Technologie und Mensch haben ein ko-evolutionäres Verhältnis -> Begriff des Cyborgs als technik benutzendes Tier
+* Gatekeeper fallen weg
+* plurale Perspektiven werden offensichtlicher, Filterblasen durchlässiger
+* Verschiedene Formen von Fake News (Blogpost von mspr0)
+* Begriff der postfaktischen Gesellschaft -> Angst davor, dass Leute ihre Wahrheiten selbst machen
+* Wissen: Netzwerk von Daten, die durch Explanatory Power zu Informationen werden
+* radical ironist -> mein Weltbild ist immer unvollständig, und ich habe die Autonomie zum Ziel
+* Erkennen Menschen/Cyborgs heute anders als früher? Welche Auswirkungen hat die Disruption der Erkenntnis und wie kann man damit umgehen?
+Alltagswissenschaft vs. Genauigkeit -> Einfluss auf den Diskurs
+* Wir wollen ein Weltbild haben, damit wir handeln können
+* Wissenschaftlichkeit verlangt Techniken, vorschnelle Erkenntnisse in Zweifel zu ziehen
+* im Alltag erkennen wir auch, aber haben meistens keinen Zugriff auf diese Techniken -> ändert sich mit Technologie Stück für Stück (Cyborgs)
+* Grenzen sind fließend - Peirce beschreibt die verschiedenen Methods of fixing Belief
+Welche Dinge können angezweifelt werden?
+* Tenacity (Glaube ich das nur, weil ich Angst vor der Erschütterung meines Weltbildes habe?)
+* Authority (Glaube ich das nur, weil eine Autorität es mir eingebläut hat?)
+* Basis of Reason (Warum habe ich mir die Axiome, auf deren Basis ich rational argumentiere, ausgesucht?)
+* Zeitmangel (Habe ich wirklich alle verfügbaren Daten?)
+* Dauerhaftigkeit des derzeitigen Wissens (Kontingenz) (Wie lange sind meine Daten gültig?)
+* Selbstreflexion (Wie verändere ich mich selbst während meines Erkenntnisprozesses?)
+* Stereotype/Anti-Essentialismus (Mit welchen bestehenden Kategorien versuche ich das Objekt zu erfassen, und wie werden sie ihm ungerecht?)
+* Privilegien/Confirmation Bias (Gibt es Daten, die ich nicht erheben will, weil sie mein Weltbild gefährden?)
+* Quantifizierung (Welche Qualitäten schließt meine Art der Quantifizierung aus? welche Grautöne sehe ich nicht mehr?)
+* Instrumentalität (Für welchen Zweck will ich mein Wissen gebrauchen und auf wen übe ich damit Herrschaft aus?)
+* Tendenz der Begriffe, zu trennen/Dualistisches Denken (welche Ausschlüsse produzieren wir durch unsere Differenzen?)
+Storage of Knowledge then and now (Kabinette & Bibliotheken, Rhizome, relationale Datenbanken)
+* Sagt die Art, wie Daten gelagert werden, nicht auch etwas über ihre Informationswerdung aus? (CADA -> analyze would make a difference)
+* Bei der letzten Explosion des Wissens, dem Buchdruck, entstanden viele neue Ausdrucksformen
+* Der damalige Kontrollverlust führte zur Reformation und zum 30jährigen Krieg, aber auch zur Method of Reason
+* Damals setzten sich Bibliotheken als Form der Lagerung, aber auch Ordnung von Wissen durch
+* Heute hat sich durch digitale Speicherung ein neuer Kontrollverlust breitgemacht
+* Die Query macht digital gespeichertes Wissen durchsuchbar
+* Daten werden mit jeder Query in einen neuen Zusammenhang gebracht, neu geordnet
+* Wo früher hierarchische Kataloge die Daten zentralisiert angeordnet haben, macht die Query diese Anordnung dezentral
+* Das führt zu einer explodierenden Diversität an Analysen dieser Daten, die alle unterschiedliche Querys benutzen, unterschiedliche Weltbilder
+Wer hat das alles schon mal gedacht? Peirce, Foerster, Laclau, Rorty
+* Was kann man in dieser Welt noch glauben? Es gibt immer einen Erklärungsansatz, der besser als der eigene ist
+* Peirce hat verschiedene Methoden der Fixation of Belief aufgezeigt, die dienen, einen solchen Zweifel zu besänftigen
+* Foerster hat stattdessen Systeme gesehen, in denen Akteure selbstreflexiv erkennen, und beschrieben, wie wir ständig alles konstruieren
+* Laclau versuchte, ein anti-essentialistisches Diskursverständnis zu formulieren, in dem soziale Wahrheiten immer nur kontingente Hegemonien sind
+* Rorty dachte Wittgenstein zu Ende und beschrieb, wie wir in den Grenzen unserer Sprache immer kontingente Erklärungen formulieren
+* Es gibt gute Methoden, Weltbilder zum Handeln zu finden, ohne dass man den Mythos einer objektiven Realität aufrechterhalten muss
+Doubt & Pragmatism -> autonomer, unverurteilbarer Alltagswissenschaftler
+* Was bedeutet das für den Alltag, in dem ich ständig handeln muss?
+* Es gibt einige Zweifel, denen ich mich als radical ironist stellen will
+* Gleichzeitig muss ich handeln, um die Welt zu verändern, aber auch um darin leben zu können
+* Diese zwei Treiber bestimmen also die Erkenntnis des radical ironists: Zweifel & Pragmatismus
+* Sie sind nicht synthetisierbar, also muss man von Situation zu Situation einen Kompromiss dazwischen finden
+* Welchen man findet, ist einem selbst überlassen & wird sich ständig ändern
+* Niemand kann über einen urteilen, man ist, existentialistisch, selbst für sich und die Welt, in der man lebt, verantwortlich
+
+# to do
 dreiviertelseite über welche Fragestellung, Erkenntnisinteresse, warum ich das mache an Balsiger
 Ausgangspunkt: mspr0: Krise der Institutionen -> man kann vielen ihrer Standarts nicht mehr vertrauen, neue antiuniversalistische Ontologie und Epistemologie wird notwendig
 
+# geile Autoren: Überblick
+Verschiedene Ansätze, die ohne objektive Wahrheit auskommen, und Postfaktischen Diskurs analysieren könnten:
+* Rorty - Redescription, alles ist kontingent
+* Peirce - will Zweifel beseitigen, um Glauben zu fixieren. Aber manche Zweifel lassen sich nun mal nicht beseitigen. 
+  * np, Sartre sagt, niemand kann mich dafür verurteilen ;)
+* von Foerster - Feedback, auf das wir Handeln, was ein System ergibt, dass wir nicht vollständig erkennen können
+* Laclau - soziale Objektivitäten tragen den Ausschluss, der zu ihrer Zerstörung führt, immer bereits in sich
 
-# Warum ist Feedback auf physikalisch korrektes Handeln so oft richtig?
-Gewisse Muster sind universal, wie Mathematik, Dialektik, Formallogik? 
-Welt ordnet sich selbst nach diesen Mustern; wenn Akteure rational handeln, wenn 1 Apfel + 1 Birne als 2 Obst verstanden werden können, kann Rationalität sie verstehen. 
--> nicht universal, aber Beschreibungen nähern sich an. Truth is made for a long, long time, Rationalität ist hegemonial.
+# Warum ist Feedback auf physikalisch korrektes Handeln so oft richtig? 
+*mit Method of Science überarbeiten, wahrscheinlich ist das alles bullshit*
+
+Sind gewisse Muster universal, wie Mathematik, Dialektik, Formallogik?
+* Vorschlag: Welt ordnet sich selbst nach diesen Mustern; 
+wenn Akteure rational handeln, wenn 1 Apfel + 1 Birne als 2 Obst verstanden werden können, kann Rationalität sie verstehen. 
+  * -> nicht universal, aber Beschreibungen nähern sich an. (Truth is made for a long, long time, Rationalität ist hegemonial.?)
 (Truth & Rationality are a platform, Science is an Institution?)
+
 entweder
-	Mathematik ist immer gleich, und deswegen kann auch jede*r auf dieselbe Art mit denselben Zahlen rechnen
-oder
-	Dialektik ist auch immer gleich, nur weil Worte ambiguöser sind als Zahlen weichen alle Beschreibungen von der universalen Wahrheit ab
-oder
-	Mathematik ist eine sehr gut enforcte soziale Norm
+* Mathematik ist immer gleich, und deswegen kann auch jede*r auf dieselbe Art mit denselben Zahlen rechnen
+* Dialektik ist auch immer gleich, nur weil Worte ambiguöser sind als Zahlen weichen alle Beschreibungen von der universalen Wahrheit ab
+* Mathematik ist eine sehr gut enforcte soziale Norm
+
 Demnach lassen sich Mathematik, Dialektik, Formallogik auch ohne dazugehörige Universalismen in meiner Sprache sagen.
 
 
 # Wie erkennen Leute?
 Es gibt neben linear rationalem Denken auch andere Formen der Wissensaneignung; lassen sich zusammenfassen mit Daten-Informationen-Wissen.
-Kant will negativ definieren was Vernunft ist. Alles andere ist dann keine gute Erkenntnis. Bringt aber allen die keinen Zugang zur Institution haben nix
-Ich will lieber darüber reden, wie Individuen Zweifel für Zweifel eine Methode erreichen, bessere Vorhersagen zu erzielen.
-Dafür muss ich aber die Wissensaneignung erst seeehr offen machen, und dann können Leute Gründe vorlegen, wie manche Erkenntnisse valider sind als andere.
 
-Kant behauptet, dass a priori Vernunft funktioniert. Das ist 1 Antwort auf die falsche Frage; denn für die *meisten Leute* funktioniert sie obviously nicht.
+Kant will negativ definieren was Vernunft ist. Alles andere ist dann keine gute Erkenntnis. (Method of Reason). 
+Das bringt dann aber allen, die keinen Zugang zur Institution haben nix. 
+(Hier habe ich Method of reason mit Method of Science durcheinandergeworfen).
+Ich will lieber darüber reden, wie Individuen Zweifel für Zweifel eine Methode erreichen, bessere Vorhersagen zu erzielen.
+(wtf, das habe ich geschrieben, bevor ich Peirce gelesen habe).
+
+Dafür muss ich aber die Wissensaneignung erst seeehr offen machen, und dann können Leute Gründe vorlegen, wie manche Erkenntnisse valider sind als andere.
+(ist das nicht ein revolutionärer Ansatz?)
+
+Kant behauptet, dass a priori Vernunft funktioniert. 
+Das ist 1 Antwort auf die falsche Frage; denn für die *meisten Leute* funktioniert sie obviously nicht.
 Alleine dass die allermeisten Leute Kant nicht gelesen haben und deswegen seine Regeln für Erkenntnis nicht anwenden, widerlegt ihn.
+
 Damit Leute vernünftig denken und handeln, ist sozialer Aufwand nötig, ihnen zu zeigen, wie es geht. (Institution)
 "a posteriori immer vernünftiger zu werden" ist dabei der zielführendere Weg; dabei ist das Ziel aber nicht a priori gegeben (wie Kant es versucht) sondern individuelle Utopie.
 
@@ -55,9 +144,25 @@ Deutlichkeit: (39)
 # Kuhn?
 
 
-# Feinde der Erkenntnis in uns selbst
-Bias (Daten die man nicht hat/nicht erheben will)
-Dogma
-Faulheit
-Selbstbild -> Weltbild (=Bias? nein, Schlüsse, die man nicht ziehen will)
+# Peirce - Fixation of Belief
+Method of Tenacity
+- sich beharrlich weigern, die Meinung zu ändern
+- auch angesichts von Gefahr, zB (Feuer wird mich nicht verbrennen)
+Method of Authority
+- wir beeinflussen notwendigerweise die Meinungen anderer
+- deswegen muss Glaube auch in der Community festgelegt werden, nicht nur im Individuum
+- indem man eine Institution baut, die nur eine Meinung lehrt
+- und indem man alle anderen Meinungen mit Gewalt zensiert
+Method of aPriori
+- Man gibt nicht nur einen Impuls an, der geglaubt werden soll, sondern auch eine Grundlage, von der aus er gültig ist
+- Grundlage muss "agreeable to reason" sein, nicht notwendigerweise von beobachteten Fakten bestärkt
+Method of Science
+- we need some external permanency, outside human, too fix our belief beyond that
+- objective reality affects everyone
+- affections are as various as individuals, but with some method, we all have to come to the ultimate conclusion
+points to criticize:
+- page 10: "No doubts of the method, therefore, necessarily arise from its practice, as is the case with all the others." <-- yes, Quanten!
+- page 12: "a choice [...], to which, when once made, he is bound to adhere." <-- nope, I'm bound to nothing
+- how does Contingency play into this? Method of Science is not immune to Contingency changing the circumstances
+- 
 
