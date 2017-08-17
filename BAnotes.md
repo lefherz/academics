@@ -3,7 +3,7 @@
 Download-Link: https://github.com/lefherz/academics/raw/master/bachelor_arbeit.odt
 
 
-# Roter Faden/Outline
+## Roter Faden/Outline
 Internet als Disruption der Wahrheit
 * Technologie und Mensch haben ein ko-evolutionäres Verhältnis -> Begriff des Cyborgs als technik benutzendes Tier
 * Gatekeeper fallen weg
@@ -111,7 +111,7 @@ Conclusion
 * Life happens in the interstice between solving problems and failing
 * Life happens when you stop studying philosophy, stop being right and start failing
 
-# Sources
+## Sources
 * Foerster, Heinz v./Pörksen, Bernhard (2008): Wahrheit ist die Erfindung eines Lügners. Gespräche für Skeptiker, Heidelberg: Carl Auer.
 * Lori Gruen (2014): Sich Tieren zuwenden: Empathischer Umgang mit der mehr als menschlichen Welt, in: Friederike Schmitz (Hrsg.): Tierethik. Frankfurt: Suhrkamp, S. 390-404.
 * Peirce, Charles Sanders (1877): The Fixation of Belief, in Popular Science Monthly 12 (November 1877), pp. 1-15
@@ -119,12 +119,13 @@ Conclusion
 * Hubbard, Elbert (1916): The Philosophy of Elbert Hubbard, The Roycrofts.
 * Pongratz, Tobias (2016): Das Trojanische Pferd, JKP/Warner Music.
 * Hampe, Michael (2016): Katerstimmung bei den pubertären Theoretikern, unter http://www.zeit.de/2016/52/kulturwissenschaft-theorie-die-linke-donald-trump-postfaktisch-rechtspopulismus (last visited at 8.10.2017)
-* https://de.wikibooks.org/w/index.php?diff=212176&oldid=212171&title=Natur:_Irrtum
+```
+https://de.wikibooks.org/w/index.php?diff=212176&oldid=212171&title=Natur:_Irrtum
+```
 
+## Thoughts
 
-# Thoughts
-
-# Objektivitätskritische Autoren: Überblick
+### Objektivitätskritische Autoren: Überblick
 Verschiedene Ansätze, die ohne objektive Wahrheit auskommen, und Postfaktischen Diskurs analysieren könnten:
 * Rorty - Redescription, alles ist kontingent
 * Peirce - will Zweifel beseitigen, um Glauben zu fixieren. Aber manche Zweifel lassen sich nun mal nicht beseitigen. 
@@ -133,7 +134,7 @@ Verschiedene Ansätze, die ohne objektive Wahrheit auskommen, und Postfaktischen
 * Laclau - soziale Objektivitäten tragen den Ausschluss, der zu ihrer Zerstörung führt, immer bereits in sich
 
 
-# Warum ist Feedback auf physikalisch korrektes Handeln so oft richtig? 
+### Warum ist Feedback auf physikalisch korrektes Handeln so oft richtig? 
 *mit Method of Science überarbeiten, wahrscheinlich ist das alles bullshit*
 
 Sind gewisse Muster universal, wie Mathematik, Dialektik, Formallogik?
@@ -143,14 +144,14 @@ wenn Akteure rational handeln, wenn 1 Apfel + 1 Birne als 2 Obst verstanden werd
 (Truth & Rationality are a platform, Science is an Institution?)
 
 entweder
-* Mathematik ist immer gleich, und deswegen kann auch jede*r auf dieselbe Art mit denselben Zahlen rechnen
+* Mathematik ist immer gleich, und deswegen kann auch jede\*r auf dieselbe Art mit denselben Zahlen rechnen
 * Dialektik ist auch immer gleich, nur weil Worte ambiguöser sind als Zahlen weichen alle Beschreibungen von der universalen Wahrheit ab
 * Mathematik ist eine sehr gut enforcte soziale Norm
 
 Demnach lassen sich Mathematik, Dialektik, Formallogik auch ohne dazugehörige Universalismen in meiner Sprache sagen.
 
 
-# Wie erkennen Leute?
+### Wie erkennen Leute?
 Es gibt neben linear rationalem Denken auch andere Formen der Wissensaneignung; lassen sich zusammenfassen mit Daten-Informationen-Wissen.
 
 Kant will negativ definieren was Vernunft ist. Alles andere ist dann keine gute Erkenntnis. (Method of Reason). 
@@ -172,9 +173,9 @@ Damit Leute vernünftig denken und handeln, ist sozialer Aufwand nötig, ihnen z
 
 
 
-# Excerpts
+## Excerpts
 
-## Peirce - Fixation of Belief
+### Peirce - Fixation of Belief
 Method of Tenacity
 - sich beharrlich weigern, die Meinung zu ändern
 - auch angesichts von Gefahr, zB (Feuer wird mich nicht verbrennen)
@@ -195,7 +196,7 @@ points to criticize:
 - page 12: "a choice [...], to which, when once made, he is bound to adhere." <-- nope, I'm bound to nothing
 - how does Contingency play into this? Method of Science is not immune to Contingency changing the circumstances
 
-## Kant
+### Kant
 Metaphysik = Kampfplatz zwischen Axiomen, die nicht empirisch widerlegt werden können, aber auf die man sich nun mal stützen muss, um über reales nachdenken zu können (21)
 
 Skeptiker verabscheuen den beständigen Aufbau solcher Prinzipien -> Anarchie in der Metaphysik (23)
@@ -215,9 +216,9 @@ Deutlichkeit: (39)
 
 
 
-# Unimportant Rest
+## Unimportant Rest
 
-## Nice Authors
+### Nice Authors
 * Michael Mann
 * Adorno
 * Sartre
@@ -234,7 +235,7 @@ Deutlichkeit: (39)
 * Richard Stallman
 Why are there so few women?
 
-## Kritik PhB
+### Kritik PhB
 Was kann man zusammenziehen, weglassen? klare Argumentation mit Balsiger abklären
 
 ```
@@ -253,14 +254,14 @@ Alltag in Abgrenzung zu Wissenschaft stellen
 Unterscheidung zwischen Glauben, Meinen und Wissen
 ```
 
-## Rant against centralization
+### Rant against centralization
 
 One fairy tale is often told about the Internet – that it would be the peak of decentralization, enabling everyone to form distributed networks, apart from the ability to centrally control it. This seems ridiculous given the way most users currently interact with the Internet – through centralized Internet companies like Facebook and Google, who surveil them and make money from the data they produce.1 Since recently, states come back to those centralized platforms and try to implement censorship to what is only a hell of personalized advertising industry, as laws against “hate speech” privatize law enforcement.2
 As with the decision of not using open source software, the centralization of the Internet was a decision – a decision of users to remain unconscious of their online activity, instead of taking back control and striving towards autonomy. Centralized platforms begin to diminish user’s autonomy, as Facebook is known to experiment with their user’s emotions3 and Google steers user’s attention with their query, the big algorithm sorting the world for anyone who doesn’t want to know how his data about the world is aggregated.
 What again makes the determining effect of those platforms on our lives so contradicting our autonomy, is its opaqueness.
 The tools of Google and Facebook are algorithms. They are big data companies, collecting lots of data about us and then sort this data with their algorithms for us to perceive, and try to find out which advertising we need. We don’t know these algorithms – and this is taking control from us, in two different ways.
 
-## Verworfen
+### Verworfen
 
 Kant: Kritik der reinen Vernunft (Vorrede/Einleitung)
 * ist Kant heute noch aktuell? (Internet, Faschos)
