@@ -13,11 +13,13 @@ Internet als Disruption der Wahrheit
 * Wissen: Netzwerk von Daten, die durch Explanatory Power zu Informationen werden
 * radical ironist -> mein Weltbild ist immer unvollständig, und ich habe die Autonomie zum Ziel
 * Wie kann ich meine Erkenntnis absichern, wie soll ich als radical ironist versuchen zu erkennen?
+
 Alltagswissenschaft vs. Genauigkeit -> Einfluss auf den Diskurs
 * Wir wollen ein Weltbild haben, damit wir handeln können
 * Wissenschaftlichkeit verlangt Techniken, vorschnelle Erkenntnisse in Zweifel zu ziehen
 * im Alltag erkennen wir auch, aber haben meistens keinen Zugriff auf diese Techniken -> ändert sich mit Technologie Stück für Stück (Cyborgs)
 * Grenzen sind fließend - Peirce beschreibt die verschiedenen Methods of fixing Belief
+
 Welche Dinge können angezweifelt werden?
 * Tenacity (Glaube ich das nur, weil ich Angst vor der Erschütterung meines Weltbildes habe?)
 * Authority (Glaube ich das nur, weil eine Autorität es mir eingebläut hat?)
@@ -30,6 +32,7 @@ Welche Dinge können angezweifelt werden?
 * Quantifizierung (Welche Qualitäten schließt meine Art der Quantifizierung aus? welche Grautöne sehe ich nicht mehr?)
 * Instrumentalität (Für welchen Zweck will ich mein Wissen gebrauchen und auf wen übe ich damit Herrschaft aus?)
 * Tendenz der Begriffe, zu trennen/Dualistisches Denken (welche Ausschlüsse produzieren wir durch unsere Differenzen?)
+
 Storage of Knowledge then and now (Kabinette & Bibliotheken, Rhizome, relationale Datenbanken)
 * Sagt die Art, wie Daten gelagert werden, nicht auch etwas über ihre Informationswerdung aus? (CADA -> analyze would make a difference)
 * Bei der letzten Explosion des Wissens, dem Buchdruck, entstanden viele neue Ausdrucksformen
@@ -40,6 +43,7 @@ Storage of Knowledge then and now (Kabinette & Bibliotheken, Rhizome, relational
 * Daten werden mit jeder Query in einen neuen Zusammenhang gebracht, neu geordnet
 * Wo früher hierarchische Kataloge die Daten zentralisiert angeordnet haben, macht die Query diese Anordnung dezentral
 * Das führt zu einer explodierenden Diversität an Analysen dieser Daten, die alle unterschiedliche Querys benutzen, unterschiedliche Weltbilder
+
 Wer hat das alles schon mal gedacht? Peirce, Foerster, Laclau, Rorty
 * Was kann man in dieser Welt noch glauben? Es gibt immer einen Erklärungsansatz, der besser als der eigene ist
 * Peirce hat verschiedene Methoden der Fixation of Belief aufgezeigt, die dienen, einen solchen Zweifel zu besänftigen
@@ -47,6 +51,7 @@ Wer hat das alles schon mal gedacht? Peirce, Foerster, Laclau, Rorty
 * Laclau versuchte, ein anti-essentialistisches Diskursverständnis zu formulieren, in dem soziale Wahrheiten immer nur kontingente Hegemonien sind
 * Rorty dachte Wittgenstein zu Ende und beschrieb, wie wir in den Grenzen unserer Sprache immer kontingente Erklärungen formulieren
 * Es gibt gute Methoden, Weltbilder zum Handeln zu finden, ohne dass man den Mythos einer objektiven Realität aufrechterhalten muss
+
 Doubt & Pragmatism -> autonomer, unverurteilbarer Alltagswissenschaftler
 * science is expensive. not everyone can do this, but everyone has to perceive.
 * Was bedeutet das für den Alltag, in dem ich ständig handeln muss?
@@ -56,7 +61,8 @@ Doubt & Pragmatism -> autonomer, unverurteilbarer Alltagswissenschaftler
 * Sie sind nicht synthetisierbar, also muss man von Situation zu Situation einen Kompromiss dazwischen finden
 * Welchen man findet, ist einem selbst überlassen & wird sich ständig ändern
 * Niemand kann über einen urteilen, man ist, existentialistisch, selbst für sich und die Welt, in der man lebt, verantwortlich
-Tell me your personal Utopia...
+
+Tell me your personal Utopia... (not written out)
 * Cybernetics mislead to think in current states and target states
 * Systemic thinking, and the premise that cyborgs depend on the structures producing them
 * Utopian thinking fails to include contingency and other cyborgs' perspectives
@@ -68,11 +74,13 @@ Tell me your personal Utopia...
   * formulate target state
   * act
 * cyberneticians should be aware of the blind spots of systemic thinking and reflect on them.
+
 How does technology produce autonomy?
 * how does willensfreiheit relate to autonomy and what is the new human
 * there is a lot of technology, and different people tend to different software (everything is software?) - becoming different cyborgs
 * Some people engage in wikis – producing a social objectivity after certain rules, but open
 * Cloud technology proves to be an interesting approach to open access – lots of data is now stored in a way where it is more easily share-able.
+* Why is it good if autonomous cyborgs make their own decisions based on lots of data?
 * Also there seems to be a difference between open source and proprietary technology
 * The more you understand this, the more you see how it forms you – and can steer this to form yourself (cite nietzsche/cyberrorty)
 * Some are ready to choose between different messengers, some don’t want to care
@@ -80,16 +88,18 @@ How does technology produce autonomy?
 * Software, die Autonomie fördert, ist zB
   * Freie Software (Herzschrittmacher, dessen Code einem nicht gehört? shit)
   * Dezentralität, über Federation miteinander verknüpfte autonome Hubs (Soziale Sphäre sehr wichtig bei Autonomie)
-Is it good if autonomous cyborgs make their own decisions based on lots of data?
+* Ich werde als radical ironist also weiter lernen, wie man Technik benutzt, befreit, sich aneignet.
+
+Problems which arise if more people do autonomy together (not written out)
 * Different technology levels leads to hierarchy – based on tech with rival access
 * non-rival tech only with open source possible
 * one cyborg can make better decisions with lots of access to all data
-but as no one is free until all are free:
+* but as no one is free until all are free:
 * atm top-down surveillance – mspr0 argues bottom-up sousveillance helps against oppression
 * could be abused – but also watches the abuser/oppressor
 * a good base of information about what exactly happens is the best foundation for lots of cyborgs to argue and decide autonomously which rules they want to give themselves (also: what data they don’t want to aggregate)
-=> non-rivalry and open access should be promoted to enable autonomy
-* Ich werde als radical ironist also weiter lernen, wie man Technik benutzt, befreit, sich aneignet.
+* => non-rivalry and open access should be promoted to enable autonomy
+
 Conclusion
 * As a radical ironist, I should doubt my current world view - so I try to understand the world with digital in mind
 * I want to call attention to several issues:
