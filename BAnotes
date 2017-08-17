@@ -78,16 +78,41 @@ Doubt & Pragmatism -> autonomer, unverurteilbarer Alltagswissenschaftler
 * Sie sind nicht synthetisierbar, also muss man von Situation zu Situation einen Kompromiss dazwischen finden
 * Welchen man findet, ist einem selbst überlassen & wird sich ständig ändern
 * Niemand kann über einen urteilen, man ist, existentialistisch, selbst für sich und die Welt, in der man lebt, verantwortlich
-Im Sinne des Cyborgs - Wie muss die Technologie sein, die einen solchen Menschen hervorbringt?
-* Damit jede*r Einzelne sein Wissen einordnen kann, muss es erst einmal zugänglich sein
-* Wiki-Culture erzeugt immer noch eine soziale Objektivität, wenn auch eine nach sehr guten Regeln (wird jedoch immer mal wieder von Nazis gehijackt)
-* Cloud-Architekturen können ein Miteinander von autonomen Cyborgs massiv befördern
-* Globale Datenspeicherung macht Wissen möglichst breit verfügbar
+Tell me your personal Utopia...
+* Cybernetics mislead to think in current states and target states
+* Systemic thinking, and the premise that cyborgs depend on the structures producing them
+* Utopian thinking fails to include contingency and other cyborgs' perspectives
+* It is not possible to exactly reach a target state, as the environment is impacted by one's observation
+  * minimum: one sees the target state and now wants something else
+* therefore it should be a circular recurring process of progress:
+  * perceive
+  * ask other people what they want
+  * formulate target state
+  * act
+* cyberneticians should be aware of the blind spots of systemic thinking and reflect on them.
+How does technology produce autonomy?
+* how does willensfreiheit relate to autonomy and what is the new human
+* there is a lot of technology, and different people tend to different software (everything is software?) - becoming different cyborgs
+* Some people engage in wikis – producing a social objectivity after certain rules, but open
+* Cloud technology proves to be an interesting approach to open access – lots of data is now stored in a way where it is more easily share-able.
+* Also there seems to be a difference between open source and proprietary technology
+* The more you understand this, the more you see how it forms you – and can steer this to form yourself (cite nietzsche/cyberrorty)
+* Some are ready to choose between different messengers, some don’t want to care
+* People also don’t understand their meaty hardware and their emotions
 * Software, die Autonomie fördert, ist zB
   * Freie Software (Herzschrittmacher, dessen Code einem nicht gehört? shit)
   * Dezentralität, über Federation miteinander verknüpfte autonome Hubs (Soziale Sphäre sehr wichtig bei Autonomie)
-  * Datenautonomie als Sicherheitskonzept, zum Schutz der Privatsphäre (Datenautonomie statt Datenschutz, Privacy ist kein gewährtes Recht, sondern muss man sich nehmen)
+Is it good if autonomous cyborgs make their own decisions based on lots of data?
+* Different technology levels leads to hierarchy – based on tech with rival access
+* non-rival tech only with open source possible
+* one cyborg can make better decisions with lots of access to all data
+but as no one is free until all are free:
+* atm top-down surveillance – mspr0 argues bottom-up sousveillance helps against oppression
+* could be abused – but also watches the abuser/oppressor
+* a good base of information about what exactly happens is the best foundation for lots of cyborgs to argue and decide autonomously which rules they want to give themselves (also: what data they don’t want to aggregate)
+=> non-rivality and open access should be promoted to enable autonomy
 * Ich werde als radical ironist also weiter lernen, wie man Technik benutzt, befreit, sich aneignet.
+Conclusion
 
 # to do
 dreiviertelseite über welche Fragestellung, Erkenntnisinteresse, warum ich das mache an Balsiger
@@ -184,6 +209,7 @@ Claus Jönsson (1961): Elektroneninterferenzen an mehreren künstlich hergestell
 Hubbard, Elbert (1916): The Philosophy of Elbert Hubbard, The Roycrofts.
 Pongratz, Tobias (2016): Das Trojanische Pferd, JKP/Warner Music.
 Hampe, Michael (2016): Katerstimmung bei den pubertären Theoretikern, unter http://www.zeit.de/2016/52/kulturwissenschaft-theorie-die-linke-donald-trump-postfaktisch-rechtspopulismus (last visited at 8.10.2017)
+https://de.wikibooks.org/w/index.php?diff=212176&oldid=212171&title=Natur:_Irrtum
 
 
 
@@ -221,3 +247,12 @@ Alltagswissenschaft erläutern - welcher Diskurs ist gemeint
 Unterliegt Weltbild unserem Willen? schließt "Handeln" veränderung des Weltbilds mit ein?
 Alltag in Abgrenzung zu Wissenschaft stellen
 Unterscheidung zwischen Glauben, Meinen und Wissen
+
+
+# Rant against centralization
+
+One fairy tale is often told about the Internet – that it would be the peak of decentralization, enabling everyone to form distributed networks, apart from the ability to centrally control it. This seems ridiculous given the way most users currently interact with the Internet – through centralized Internet companies like Facebook and Google, who surveil them and make money from the data they produce.1 Since recently, states come back to those centralized platforms and try to implement censorship to what is only a hell of personalized advertising industry, as laws against “hate speech” privatize law enforcement.2
+As with the decision of not using open source software, the centralization of the Internet was a decision – a decision of users to remain unconscious of their online activity, instead of taking back control and striving towards autonomy. Centralized platforms begin to diminish user’s autonomy, as Facebook is known to experiment with their user’s emotions3 and Google steers user’s attention with their query, the big algorithm sorting the world for anyone who doesn’t want to know how his data about the world is aggregated.
+What again makes the determining effect of those platforms on our lives so contradicting our autonomy, is its opaqueness.
+The tools of Google and Facebook are algorithms. They are big data companies, collecting lots of data about us and then sort this data with their algorithms for us to perceive, and try to find out which advertising we need. We don’t know these algorithms – and this is taking control from us, in two different ways.
+
