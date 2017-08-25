@@ -14,11 +14,13 @@ Internet als Disruption der Wahrheit
 * radical ironist -> mein Weltbild ist immer unvollständig, und ich habe die Autonomie zum Ziel
 * Wie kann ich meine Erkenntnis absichern, wie soll ich als radical ironist versuchen zu erkennen?
 
-Alltagswissenschaft vs. Genauigkeit -> Einfluss auf den Diskurs
-* Wir wollen ein Weltbild haben, damit wir handeln können
-* Wissenschaftlichkeit verlangt Techniken, vorschnelle Erkenntnisse in Zweifel zu ziehen
-* im Alltag erkennen wir auch, aber haben meistens keinen Zugriff auf diese Techniken -> ändert sich mit Technologie Stück für Stück (Cyborgs)
-* Grenzen sind fließend - Peirce beschreibt die verschiedenen Methods of fixing Belief
+Wer hat das alles schon mal gedacht? Peirce, Foerster, Laclau, Rorty
+* Was kann man in dieser Welt noch glauben? Es gibt immer einen Erklärungsansatz, der besser als der eigene ist
+* Peirce hat verschiedene Methoden der Fixation of Belief aufgezeigt, die dienen, einen solchen Zweifel zu besänftigen
+* Foerster hat stattdessen Systeme gesehen, in denen Akteure selbstreflexiv erkennen, und beschrieben, wie wir ständig alles konstruieren
+* Laclau versuchte, ein anti-essentialistisches Diskursverständnis zu formulieren, in dem soziale Wahrheiten immer nur kontingente Hegemonien sind
+* Rorty dachte Wittgenstein zu Ende und beschrieb, wie wir in den Grenzen unserer Sprache immer kontingente Erklärungen formulieren
+* Es gibt gute Methoden, Weltbilder zum Handeln zu finden, ohne dass man den Mythos einer objektiven Realität aufrechterhalten muss
 
 Welche Dinge können angezweifelt werden?
 * Tenacity (Glaube ich das nur, weil ich Angst vor der Erschütterung meines Weltbildes habe?)
@@ -33,24 +35,11 @@ Welche Dinge können angezweifelt werden?
 * Instrumentalität (Für welchen Zweck will ich mein Wissen gebrauchen und auf wen übe ich damit Herrschaft aus?)
 * Tendenz der Begriffe, zu trennen/Dualistisches Denken (welche Ausschlüsse produzieren wir durch unsere Differenzen?)
 
-Storage of Knowledge then and now (Kabinette & Bibliotheken, Rhizome, relationale Datenbanken)
-* Sagt die Art, wie Daten gelagert werden, nicht auch etwas über ihre Informationswerdung aus? (CADA -> analyze would make a difference)
-* Bei der letzten Explosion des Wissens, dem Buchdruck, entstanden viele neue Ausdrucksformen
-* Der damalige Kontrollverlust führte zur Reformation und zum 30jährigen Krieg, aber auch zur Method of Reason
-* Damals setzten sich Bibliotheken als Form der Lagerung, aber auch Ordnung von Wissen durch
-* Heute hat sich durch digitale Speicherung ein neuer Kontrollverlust breitgemacht
-* Die Query macht digital gespeichertes Wissen durchsuchbar
-* Daten werden mit jeder Query in einen neuen Zusammenhang gebracht, neu geordnet
-* Wo früher hierarchische Kataloge die Daten zentralisiert angeordnet haben, macht die Query diese Anordnung dezentral
-* Das führt zu einer explodierenden Diversität an Analysen dieser Daten, die alle unterschiedliche Querys benutzen, unterschiedliche Weltbilder
-
-Wer hat das alles schon mal gedacht? Peirce, Foerster, Laclau, Rorty
-* Was kann man in dieser Welt noch glauben? Es gibt immer einen Erklärungsansatz, der besser als der eigene ist
-* Peirce hat verschiedene Methoden der Fixation of Belief aufgezeigt, die dienen, einen solchen Zweifel zu besänftigen
-* Foerster hat stattdessen Systeme gesehen, in denen Akteure selbstreflexiv erkennen, und beschrieben, wie wir ständig alles konstruieren
-* Laclau versuchte, ein anti-essentialistisches Diskursverständnis zu formulieren, in dem soziale Wahrheiten immer nur kontingente Hegemonien sind
-* Rorty dachte Wittgenstein zu Ende und beschrieb, wie wir in den Grenzen unserer Sprache immer kontingente Erklärungen formulieren
-* Es gibt gute Methoden, Weltbilder zum Handeln zu finden, ohne dass man den Mythos einer objektiven Realität aufrechterhalten muss
+Alltagswissenschaft vs. Genauigkeit -> Einfluss auf den Diskurs
+* Wir wollen ein Weltbild haben, damit wir handeln können
+* Wissenschaftlichkeit verlangt Techniken, vorschnelle Erkenntnisse in Zweifel zu ziehen
+* im Alltag erkennen wir auch, aber haben meistens keinen Zugriff auf diese Techniken -> ändert sich mit Technologie Stück für Stück (Cyborgs)
+* Grenzen sind fließend - Peirce beschreibt die verschiedenen Methods of fixing Belief
 
 Doubt & Pragmatism -> autonomer, unverurteilbarer Alltagswissenschaftler
 * science is expensive. not everyone can do this, but everyone has to perceive.
@@ -62,18 +51,16 @@ Doubt & Pragmatism -> autonomer, unverurteilbarer Alltagswissenschaftler
 * Welchen man findet, ist einem selbst überlassen & wird sich ständig ändern
 * Niemand kann über einen urteilen, man ist, existentialistisch, selbst für sich und die Welt, in der man lebt, verantwortlich
 
-Tell me your personal Utopia... (not written out)
-* Cybernetics mislead to think in current states and target states
-* Systemic thinking, and the premise that cyborgs depend on the structures producing them
-* Utopian thinking fails to include contingency and other cyborgs' perspectives
-* It is not possible to exactly reach a target state, as the environment is impacted by one's observation
-  * minimum: one sees the target state and now wants something else
-* therefore it should be a circular recurring process of progress:
-  * perceive
-  * ask other people what they want
-  * formulate target state
-  * act
-* cyberneticians should be aware of the blind spots of systemic thinking and reflect on them.
+Storage of Knowledge then and now (Kabinette & Bibliotheken, Rhizome, relationale Datenbanken)
+* Sagt die Art, wie Daten gelagert werden, nicht auch etwas über ihre Informationswerdung aus? (CADA -> analyze would make a difference)
+* Bei der letzten Explosion des Wissens, dem Buchdruck, entstanden viele neue Ausdrucksformen
+* Der damalige Kontrollverlust führte zur Reformation und zum 30jährigen Krieg, aber auch zur Method of Reason
+* Damals setzten sich Bibliotheken als Form der Lagerung, aber auch Ordnung von Wissen durch
+* Heute hat sich durch digitale Speicherung ein neuer Kontrollverlust breitgemacht
+* Die Query macht digital gespeichertes Wissen durchsuchbar
+* Daten werden mit jeder Query in einen neuen Zusammenhang gebracht, neu geordnet
+* Wo früher hierarchische Kataloge die Daten zentralisiert angeordnet haben, macht die Query diese Anordnung dezentral
+* Das führt zu einer explodierenden Diversität an Analysen dieser Daten, die alle unterschiedliche Querys benutzen, unterschiedliche Weltbilder
 
 How does technology produce autonomy?
 * how does willensfreiheit relate to autonomy and what is the new human
@@ -90,16 +77,6 @@ How does technology produce autonomy?
   * Dezentralität, über Federation miteinander verknüpfte autonome Hubs (Soziale Sphäre sehr wichtig bei Autonomie)
 * Ich werde als radical ironist also weiter lernen, wie man Technik benutzt, befreit, sich aneignet.
 
-Problems which arise if more people do autonomy together (not written out)
-* Different technology levels leads to hierarchy – based on tech with rival access
-* non-rival tech only with open source possible
-* one cyborg can make better decisions with lots of access to all data
-* but as no one is free until all are free:
-* atm top-down surveillance – mspr0 argues bottom-up sousveillance helps against oppression
-* could be abused – but also watches the abuser/oppressor
-* a good base of information about what exactly happens is the best foundation for lots of cyborgs to argue and decide autonomously which rules they want to give themselves (also: what data they don’t want to aggregate)
-* => non-rivalry and open access should be promoted to enable autonomy
-
 Conclusion
 * As a radical ironist, I should doubt my current world view - so I try to understand the world with digital in mind
 * I want to call attention to several issues:
@@ -109,7 +86,28 @@ Conclusion
   * we are determined by the technology we use, and should understand it if we strive towards autonomy
 * we will never be able to see truth, we will never be fully autonomous, there will always be hierarchy
 * Life happens in the interstice between solving problems and failing
+* western Philosophy works too much with absolute categories
 * Life happens when you stop studying philosophy, stop being right and start failing
+
+### New Order
+
+
+Oh no, the Internet disrupted something… again
+- Wahrheit ist kaputt.
+Scientists gonna science, Poets gonna poet
+- wer glaubt noch alles, dass Wahrheit kaputt ist?
+intricate paths of doubt
+- mit welchen Formen von Zweifel kann ich mit dem Problem umgehen?
+do we need science to perceive
+- welche Rolle erfüllt dann Wissenschaft?
+you can be autonomous
+- wie werde ich in dem ganzen Handeln?
+Databases
+- how got knowledge managed in the past & future?
+technology & open source
+- wie sollte unsere Technologie sein?
+There is no solution, only eternal dancing
+- we can‘t solve this, we can only live
 
 ## Sources
 * Foerster, Heinz v./Pörksen, Bernhard (2008): Wahrheit ist die Erfindung eines Lügners. Gespräche für Skeptiker, Heidelberg: Carl Auer.
@@ -254,6 +252,14 @@ Alltag in Abgrenzung zu Wissenschaft stellen
 Unterscheidung zwischen Glauben, Meinen und Wissen
 ```
 
+falls ich darauf eingehen will, was die Philosophie dazu sagt:
+* Breitbach erwähnen: neue Wissensordnungen
+* Man kann die Analytiker auch mal bisschen bashen, selbstbewusst sein!
+
+Bei Erwähnung von philospohischen Begriffen auf sie referieren und sie erst dann bashen/für irrelevant erklären
+* Truth: philosophical dictionary
+* Perception: v. Foerster
+
 ### Rant against centralization
 
 One fairy tale is often told about the Internet – that it would be the peak of decentralization, enabling everyone to form distributed networks, apart from the ability to centrally control it. This seems ridiculous given the way most users currently interact with the Internet – through centralized Internet companies like Facebook and Google, who surveil them and make money from the data they produce.1 Since recently, states come back to those centralized platforms and try to implement censorship to what is only a hell of personalized advertising industry, as laws against “hate speech” privatize law enforcement.2
@@ -288,3 +294,27 @@ Forschungsfragen:
 * was bedeutet der Zerfall der Wahrheit für einen gemeinsamen Diskurs in einer demokratischen Gesellschaft?
   * (Mouffe: Agonism, Konsens herstellen?)
 * 
+
+Tell me your personal Utopia... (not written out)
+* Cybernetics mislead to think in current states and target states
+* Systemic thinking, and the premise that cyborgs depend on the structures producing them
+* Utopian thinking fails to include contingency and other cyborgs' perspectives
+* It is not possible to exactly reach a target state, as the environment is impacted by one's observation
+  * minimum: one sees the target state and now wants something else
+* therefore it should be a circular recurring process of progress:
+  * perceive
+  * ask other people what they want
+  * formulate target state
+  * act
+* cyberneticians should be aware of the blind spots of systemic thinking and reflect on them.
+
+Problems which arise if more people do autonomy together (not written out)
+* Different technology levels leads to hierarchy – based on tech with rival access
+* non-rival tech only with open source possible
+* one cyborg can make better decisions with lots of access to all data
+* but as no one is free until all are free:
+* atm top-down surveillance – mspr0 argues bottom-up sousveillance helps against oppression
+* could be abused – but also watches the abuser/oppressor
+* a good base of information about what exactly happens is the best foundation for lots of cyborgs to argue and decide autonomously which rules they want to give themselves (also: what data they don’t want to aggregate)
+* => non-rivalry and open access should be promoted to enable autonomy
+
