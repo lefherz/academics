@@ -4,7 +4,7 @@ Hausarbeit im Hauptseminar "Demokratietheorien"
 
 Ich soll mich für den Theoriebezug mit bestehender Theorie auseinandersetzen,
 habe also die Vorgabe, Mouffe und Habermas mit in die Argumentation einzubeziehen.
-Daneben will ich natürlich selbst Theorie machen und hoffe, dass ihrer argumentative
+Daneben will ich natürlich selbst Theorie machen und hoffe, dass ihrer argumentativen
 Herleitung nicht ganz die Grundlage fehlt.
 
 Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollendung ihres Projekts gegenüber?"
