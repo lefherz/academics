@@ -47,6 +47,7 @@ Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollen
 * Konsens, der im idealen Diskurs erreicht wird
 * ideale Sprechsituation, Kommunikative Rationalität
 * ... *muss ich noch mehr drüber lesen*
+* Die universelle Vernunft ist nicht mehr notwendig, wenn nicht das beste rauskommen soll, sondern das den Beteiligten Eigene
 
 2.3 Mouffes Kritik an der Habermasschen Legitimität
 * Gründet Legitimität auf eine sogenannte öffentliche Vernunft
