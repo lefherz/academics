@@ -47,7 +47,10 @@ Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollen
 * Konsens, der im idealen Diskurs erreicht wird
 * ideale Sprechsituation, Kommunikative Rationalität
 * ... *muss ich noch mehr drüber lesen*
+* Institutionalisierung des politischen Prozesses garantiert Legitimität des Ergebnisses?
+  * Wenn eine\*r sein Gegenüber so schon nicht respektiert, sollte man ihr\*m nicht auch noch Macht geben
 * Die universelle Vernunft ist nicht mehr notwendig, wenn nicht das beste rauskommen soll, sondern das den Beteiligten Eigene
+* Gewisse Elemente der jeder\*m eigenen Vernunft sind ohnehin inkommensurabel, Respekt vor Konsens notwendig
 
 2.3 Mouffes Kritik an der Habermasschen Legitimität
 * Gründet Legitimität auf eine sogenannte öffentliche Vernunft
