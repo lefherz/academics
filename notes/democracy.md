@@ -22,11 +22,12 @@ Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollen
 ## Outline
 
 1 Demokratisierung als Tanzbewegung
-* Radical Ironism -> Autonomie zum Ziel
+* Demokratie ist ein halbwegs nützlicher Status Quo
 * Autonomie Definition
 * Demokratisierung ist historisch eine Bewegung hin zu mehr Autonomie
-* Was ist eine Tanzbewegung?
 * Demokratisierung steht im Gegensatz zur Demokratie, die immer ein Status Quo ist, der bestehen will
+* Was ist eine Tanzbewegung?
+* Radical Ironism -> Autonomie zum Ziel
 * Welchen Hindernissen steht die Demokratisierung bei der Vollendung ihres Projekts gegenüber?
 
 2 Mouffe und Habermas über Demokratie
@@ -112,7 +113,7 @@ Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollen
 Autonomie
 * Man kann sich seine Regeln selbst geben
 * Man kann diese Regeln auch befolgen
-* graduell: kann nie vollständig erreicht werden, aber angestrebt
+* situativ; da alles vergänglich ist, kann sie sich nur in Situationen ausdrücken
 * "until all are free, no one is free": Autonomie einzelner und der Gruppe bedingt sich gegenseitig
 * Autonomie aller ist nicht in meiner Macht, deswegen kann ich aber trotzdem mein bestes geben, anderen Autonomie zu ermöglichen
 
@@ -122,3 +123,10 @@ Tanzbewegung
 * Man wird nie am Ziel ankommen
 * deswegen muss jeder Einzelne Schritt Spaß machen
 * Irgendwann hat man genug, und macht was anderes (zB neues Problembewusstsein)
+
+## Deleted
+
+Jede Form der Radikalität sollte mit einer Prise Ironie genossen werden. Sich selbst zu ernst zu nehmen, kann gefährlich sein, wenn man die Welt verändern will; man könnte nun also einfach alle anderen genauso ernst nehmen wie sich selbst, oder niemanden. Wahrscheinlich läuft es auf irgendeinen Mittelweg hinaus.
+Wie immer ist die Lösung niemand anders außer Ihnen selbst überlassen. Sie sind radikal auf sich alleine gestellt, wenn Sie in dieser Welt handeln wollen; kein Gott kann Ihnen die Verantwortung abnehmen, selbst mit Ihren Handlungen leben zu müssen.1 Viel Spaß mit einem Leben in existentialistischer Verzweiflung. Es gibt keine Regeln außer Ihren eigenen; die, die Sie für die richtigen halten.
+Doch wenigstens ist niemand hier alleine, und wir haben andere, um uns die Zeit zu vertreiben. Das läuft mal gut, mal schlecht, doch wenigstens wird es nie langweilig. Für die Zeiten, in denen es gut funktioniert, gibt es Kunst, und für die Zeiten in denen es nicht so gut läuft, gibt es Herrschaftsverhältnisse. Die Demokratie, in der ich lebe, ist wahrscheinlich das beste von denen, die gerade auf dem Markt sind; wobei man nur schwerlich von einem Markt sprechen kann, wenn der Wechsel zu einem Konkurrenten dermaßen sanktioniert und durch Mauern und Pässe erschwert wird.
+
