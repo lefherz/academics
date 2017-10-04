@@ -44,10 +44,14 @@ Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollen
 * Synthese wäre: Freiheit der Gruppe und Freiheit des Einzelnen bedingen sich gegenseitig
 * Habermas' herrschaftsfreier Diskurs ist ein solcher Topos, in dem eben diese Synthese passiert
 
-2.2 Habermas' Konsens
+2.2 Habermas' Konsens (ich sollte bei Habermas Konsens nicht verwenden)
 * Konsens, der im idealen Diskurs erreicht wird
 * ideale Sprechsituation, Kommunikative Rationalität
-* ... *muss ich noch mehr drüber lesen*
+  * Sprechakt:
+    1. vernünftig nachvollziehbar
+    2. sozial anerkannter Kontext
+    3. glaubhaft/ehrlich sein
+    4. Gemeinsame Sprache
 * Institutionalisierung des politischen Prozesses garantiert Legitimität des Ergebnisses?
   * Wenn eine\*r sein Gegenüber so schon nicht respektiert, sollte man ihr\*m nicht auch noch Macht geben
 * Die universelle Vernunft ist nicht mehr notwendig, wenn nicht das beste rauskommen soll, sondern das den Beteiligten Eigene
@@ -123,6 +127,42 @@ Tanzbewegung
 * Man wird nie am Ziel ankommen
 * deswegen muss jeder Einzelne Schritt Spaß machen
 * Irgendwann hat man genug, und macht was anderes (zB neues Problembewusstsein)
+
+## Notizen Habermas
+
+dreigestaltige Rationalitätsentfaltung
+* kognitiv-instrumentell entlang der objektiv-dinglichenen Welt: Wissenschaft, Technik, Natur, Mensch
+* normativ-praktisch entlang der sozial-menschlichen Welt: Recht, Moral
+* ästhetisch-praktisch entlang der subjektiv-psychischen Welt: Erotik, Kunst, Psyche
+
+Sprechakt gelingt nur, wenn:
+1. vernünftig nachvollziehbar
+2. sozial anerkannter Kontext
+3. glaubhaft/ehrlich sein
+4. Gemeinsame Sprache
+
+Universalpragmatik
+* diese Voraussetzungen sind bei *pragmatischen* Sprechakten *denknotwendig*
+* Rationalität ist definitorisch eine kommunikative
+* Wahrheit als privilegiert im Vordergrund stehender Geltungsanspruch = was im herrschaftsfreien Diskurs verteidigt werden kann
+* Nur Sätze über Dinge sind wahr/falsch, nicht die Dinge selbst
+
+Das Problem: Institutionen
+* Es kommt durch komplexere/differenzierte Ausbildung des Systems sozialer Institutionen zu einer einseitigen Entwicklung der kognitiv-instrumentellen Vernunftsdimension
+* Folge: Kolonialisierung der Lebenswelt, bzw der anderen beiden Vernunftsdimensionen
+* Wucherndes System der Institutionen verdrängt kommunikative Begründung der Normen zwischenmenschlichen Zusammenlebens
+
+Moral der kritischen Theorie
+* der der kritischen Theorie fehlende moralische Maßstab, der auf ihrer negativen Praxis beruht, kann ihr positiv nachgereicht werden, durch Vernunft begründet
+* soziale Entwicklung unterliegt zwingender/logischer Entwicklungsrichtung -> Kohlbergs Verhaltensstufen, noch so 1 Stufentheorie
+* Nicht die Entfaltung der Vernunft, nur ihre einseitige instrumentelle Entfaltung führt zu den Pathologien der Moderne
+
+Ästhetische Vernunft
+* gewisse Proportionen sind *rational und universal* ästhetisch
+
+Aufklärerisches Projekt:
+* Nicht die Exzesse der Vernunft, sondern Deformation dieser sind schuld an den Pathologien der Moderne
+* Habermas rekonstruiert Rationalität in drei Ebenen, um das Projekt des Humanismus zu retten
 
 ## Deleted
 
