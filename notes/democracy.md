@@ -44,27 +44,23 @@ Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollen
 * Synthese wäre: Freiheit der Gruppe und Freiheit des Einzelnen bedingen sich gegenseitig
 * Habermas' herrschaftsfreier Diskurs ist ein solcher Topos, in dem eben diese Synthese passiert
 
-2.2 Habermas' Konsens (ich sollte bei Habermas Konsens nicht verwenden)
-* Konsens, der im idealen Diskurs erreicht wird
+2.2 Habermas' Einigung
+* Einigung, die im idealen Diskurs erreicht wird
 * ideale Sprechsituation, Kommunikative Rationalität
   * Sprechakt:
     1. vernünftig nachvollziehbar
     2. sozial anerkannter Kontext
     3. glaubhaft/ehrlich sein
     4. Gemeinsame Sprache
-* Institutionalisierung des politischen Prozesses garantiert Legitimität des Ergebnisses?
-  * Wenn eine\*r sein Gegenüber so schon nicht respektiert, sollte man ihr\*m nicht auch noch Macht geben
-* Die universelle Vernunft ist nicht mehr notwendig, wenn nicht das beste rauskommen soll, sondern das den Beteiligten Eigene
-* Gewisse Elemente der jeder\*m eigenen Vernunft sind ohnehin inkommensurabel, Respekt vor Konsens notwendig
+* Institutionalisierung des politischen Prozesses garantiert Legitimität des Ergebnisses
 
-2.3 Mouffes Kritik an der Habermasschen Legitimität
+2.3 Kritik an der Habermasschen Legitimität
 * Gründet Legitimität auf eine sogenannte öffentliche Vernunft
 * Mouffe über Habermas: Legitimität beruht darauf, wie gerecht, rational der Prozess ist
 * Ich sage: Legitimität ist unwichtig
 * Menschen müssen sich ihre eigenen Handlungen nicht legitimieren, sie sind eh dafür verantwortlich
-* Niemand außer einem selbst kann eigene Handlungen beurteilen, oder ändern
-* Wenn Leute mit dem Ergebnis eines solchen Konsens nicht einverstanden sind, ist es kein Konsens/müssen sie ertragen oder fliehen
 * Aber wenn es um eigene Handlungen geht, rückt Legitimität in den Hintergrund
+* Gewisse Elemente der jeder\*m eigenen Vernunft sind ohnehin inkommensurabel, Respekt vor Konsens notwendig
 
 3 Demokratische Hindernisse
 * Demokratie als Status Quo legt der Demokratisierung gewisse Steine in den Weg
