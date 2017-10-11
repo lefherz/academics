@@ -24,6 +24,7 @@ Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollen
 1 Demokratisierung als Tanzbewegung
 * Demokratie ist ein halbwegs nützlicher Status Quo
 * Autonomie Definition
+* Verantwortung und Autonomie gehen miteinander einher
 * Demokratisierung ist historisch eine Bewegung hin zu mehr Autonomie
 * Demokratisierung steht im Gegensatz zur Demokratie, die immer ein Status Quo ist, der bestehen will
 * Was ist eine Tanzbewegung?
@@ -83,6 +84,7 @@ Forschungsfrage: "Welchen Hindernissen steht die Demokratisierung bei der Vollen
 3.3 Mehrheitsprinzip
 * lässt Leute die Entscheidungen Einzelner übergehen
 * in einem Löwenkäfig kann nur Konsensdemokratie die Lämmer schützen
+* Konsensdemokratie braucht jedoch einfache Möglichkeiten, ein- und auszutreten
 * Wenn Konsens etabliert ist, werden viele liberale Institutionen unnötig
 
 3.4 Gewaltmonopol
