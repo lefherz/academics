@@ -135,6 +135,6 @@ Preis orientieren?
 
 ## Quellen
 * Michael Heinrich (2005): Kritik der Politischen Ökonomie. Eine Einführung, Schmetterling Verlag: Stuttgart.
-* Michael Seemann (2014): Das Neue Spiel. Regeln für das Internet nach Snowden, 
-* Michael Seemann: Warum ich nicht an die Arbeitswerttheorie glaube
+* Michael Seemann (2014): Das Neue Spiel. Strategien für die Welt nach dem Kontrollverlust, unter http://www.ctrl-verlust.net/buch/
+* Michael Seemann (2016): Ich lehne Marx' Arbeitswerttheorie ab und hier ist warum, unter http://mspr0.de/?p=4605
 
