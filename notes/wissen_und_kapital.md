@@ -117,16 +117,29 @@ machen - und selbst zu verstehen.
 
 ### Wissen, Arbeitskraft und Produktionsmittel
 
-*siehe "Offene Fragen".*
+Wissen kann nicht einfach als Produktionsmittel abgetan werden. Bei
+Marx unterscheiden sich Produktionsmittel und Arbeitskraft so:
+(Heinrich, S. 99)
+
+* Produktionsmittel sind konstantes Kapital. Ihr Wert überträgt sich
+  auf die produzierten Waren.
+* Arbeitskraft im Gegenzug erzeugt bei ihrem Verbrauch einen neuen
+  Wert, den Mehrwert. Er ist idR größer als der Wert der
+  Arbeitskraft.
+
+Wissen, das sich eben durch den Produktionsprozess nicht verbraucht,
+sondern sogar zunimmt, und in Folge der Produktion auch
+weitergegeben, abgeschaut, kopiert werden kann, passt in dieses
+Raster noch hinein. Es folgt gänzlich anderen Bewegungsgesetzen und
+kann völlig andere produktive Dynamiken entfalten.
 
 ### Offene Fragen
 
-Ist eine Maschine Wissen, Arbeitskraft, oder Produkt? Wie verhält
-sich Wissen zu Arbeit und Produktionsmitteln?
-* Setzt sich Arbeitskraft aus Wissen + Reproduktionskosten zusammen?
-* Sind Maschinen einfach nur andere Arbeiterinnen mit niedrigeren
-  Reproduktionskosten, die nicht eigenständig auf dem Markt agieren
-  und nicht streiken?
+Sind Maschinen einfach nur andere Arbeiterinnen mit niedrigeren
+Reproduktionskosten, die nicht eigenständig auf dem Markt agieren
+und nicht streiken?
+* Arbeiterinnen sind doppelt frei, im Gegensatz zu den besessenen
+  Maschinen.
 
 Wie verhalten sich bei Marx Wert und Preis zueinander? Kann man
 gewisse Marxsche Annahmen über Marktteilnehmer überhaupt
