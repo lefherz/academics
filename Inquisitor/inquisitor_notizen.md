@@ -289,7 +289,6 @@ Loge innovativer Eliten
 * Wirtschaftsbosse
 * Intellektueller Verbund von Erfindern
 * kapitalistische Ausbeuter
-* führen Universität 
 * heimliche magische Forschungen
 * Fabrikführer
 
@@ -384,7 +383,7 @@ Feministischer Untergrund
 * Dania verführt Varg
 * während ihrer Monatelangen Ausbildung setzen sie weiter die Intrigen Thorns durch.
 ## Thorns Aufstieg
-* Howl besorgt ihm ein Verwaltungsamt in Marcins Bezirk, nachdem Dania den Vorgänger beseitigt
+* Howl besorgt Thorn ein Verwaltungsamt im achten Bezirk, nachdem Dania den Vorgänger beseitigt
 * Hakun, der alles in der Stadt sieht, wird auf Marcin aufmerksam – Marcin bietet ihm seine Hilfe gegen die Diebe im Austausch gegen Schutz an.
 * Marcin zettelt einen Aufstand mehrerer Diebe an, den Thorn blutig niederschlägt.
 * Stepanie trauert um ihren Mann, ihre Tochter wird auf der Straße gemobbt
