@@ -76,22 +76,22 @@ Dragan Burk
 
 Stepanie
 * lebt im achten Bezirk, arbeitslos, Mutter von Mia, Schwester von Orst und Mann von Hunnar
+* findet sich außerordentlich hässlich und hat damit ein Problem, auch wenn Hunnar sie liebt
+* fromm, aber tolerant
+* Orst versorgt sie immer mal wieder mit Essen und Geld, sie muss den Job Hunnars verheimlichen
+* Am Ende des zweiten Aktes stirb Hunnar, Situation wird spürbar schlechter
 * Hunnar ist ehrbarer Dieb und stirbt bei Revolte gegen Magister Thorn.
 * Danach arbeitet sie bei Howl Industries, als Informantin erst für Orst, dann für Marcin, als Pädagogik-Lehrerin bei Joran
-* findet sich außerordentlich hässlich und hat damit ein Problem, auch wenn Hunnar sie liebt
-* Orst versorgt sie immer mal wieder mit Essen und Geld, sie muss den Job Hunnars verheimlichen
 * herzlich, selbstlos & großzügig, auch wenn sie sich mal mit unschönen Taten über Wasser halten muss
-* fromm, aber tolerant
 * Hat ein ordentliches Netzwerk an Frauen, die zum Markt gehen
-* während des zweiten Aktes von Schicksalsschlägen erschüttert (Tod ihres Mannes), Situation wird spürbar schlechter
 * schickt Mia zur Schule, damit sie nicht nur auf der Straße gemobbt wird, sondern andere Chancen hat. Mia bringt Stepanie das Lesen bei
 * Weil sie sich selbst behaupten musst, lernt sie Eigenständigkeit
 * Weil sie ein großes Netzwerk hat und nacheinander für unterschiedliche Leute spioniert, bekommt sie immer mehr Übersicht
-* schreibt im dritten Akt die feministischen Terrorbotschaften
+* schreibt im zweiten Buch die feministischen Terrorbotschaften
 * freundet sich mit Varg an?
-* geht am Ende des dritten Aktes in den Untergrund, Mia bleibt bei Jorans Schule. Orst hilft, aber Stepanie hat mittlerweile eh viele Freunde
-* läuft sie während des vierten Aktes Joran über den Weg?
-* im fünften Akt führt sie den Frauenwiderstand an
+* geht am Ende des zweiten Buchs in den Untergrund, Mia bleibt bei Jorans Schule. Orst hilft, aber Stepanie hat mittlerweile eh viele Freunde
+* läuft sie während des dritten Buchs Joran über den Weg?
+* im letzten Buch führt sie den Frauenwiderstand an
 * wird keine Atheistin, konzentriert sich auf das Gute im Glauben
 
 C'rahanijz
@@ -217,6 +217,11 @@ Orst
 * Lehrender Inquisitor, für die Lehrpläne zuständig
 * Unterstützt Stepanie, wo er kann
 * lebt seinen Glauben streng aus und erwartet das auch von anderen
+
+Lilya
+* Trifft Stepanie regelmäßig am Markt
+* Hure im achten Bezirk
+* 
 
 Katan
 * Hauptmann der Miliz
