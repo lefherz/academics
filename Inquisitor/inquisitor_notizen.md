@@ -221,7 +221,12 @@ Orst
 Lilya
 * Trifft Stepanie regelmäßig am Markt
 * Hure im achten Bezirk
-* 
+* arbeitete für Hunnar
+* Stepanie ist neidisch auf ihre Schönheit, aber vertraut ihr trotzdem
+
+Halm
+* Inquisitor im achten Bezirk
+* Nicht so super fromm, guter Humor, lebensnah
 
 Katan
 * Hauptmann der Miliz
@@ -288,7 +293,8 @@ Orden der Flamme/Inquisition
 * Zölibat, sexuelle Abstinenz
 * Große Macht über Bürger, durch Manipulation im Gottesdienst
 * Verfolgen Brocken, Bor, Homosexualität und Prostitution; Täter werden dann in Schauprozessen hingerichtet
-* Wasser ist für Gläubige eine unreine Substanz, und muss vor dem Verzehr abgekocht und gesegnet werden.
+* Wasser ist für Gläubige eine unreine Substanz, und muss vor dem Verzehr/Benutzung/Waschen abgekocht und gesegnet werden.
+* Viele waschen sich auch gar nicht.
 
 Loge innovativer Eliten
 * Wirtschaftsbosse
@@ -346,9 +352,9 @@ Feministischer Untergrund
 
 
 
+# Erstes Buch
 
-
-# Akt 1
+## Akt 1 - Der Siebte Bezirk
 * Einführungskapitel mit Thorn, er verhört einen von marcins Leuten und reinigt ihn
 * Dania trifft sich mit Stepanie, nimmt eine Nase Brocken und treibt es mit einem Freier. als er fertig und benommen ist, klaut sie ihm die Brieftasche und versucht zu fliehen. Er erwischt sie, schlägt sie zusammen, raubt sie aus und lässt sie liegen
 * Joran sitzt in seinem Labor und tüftelt für Arghan Howl
@@ -375,8 +381,7 @@ Feministischer Untergrund
 * Thorn bringt Dania Vergissmich-Bor, mit dem sie auf einer Party Kenin umbringt
 * Marcin wird Kenins Nachfolger und Hauptmann des siebten Bezirks
 
-# Akt 2
-## Kontakt zur Loge herstellen
+## Akt 2 - Das geheime Labor
 * Arghan Howl wurde früher der Magie beschuldigt, weil er Magier in seinem Dienst hatte, wurde jedoch von Thorn erpresst statt angeklagt
 * Thorn nimmt Kontakt zu ihm auf und gründet Zusammenarbeit auf ideologischer Basis gegen den Orden
 * Dania und Varg werden Schüler und Versuchskaninchen für Joran, tief in Howls Geheimlabor
@@ -387,18 +392,19 @@ Feministischer Untergrund
 * Joran verliebt sich in Dania, weil Frau
 * Dania verführt Varg
 * während ihrer Monatelangen Ausbildung setzen sie weiter die Intrigen Thorns durch.
-## Thorns Aufstieg
 * Howl besorgt Thorn ein Verwaltungsamt im achten Bezirk, nachdem Dania den Vorgänger beseitigt
 * Hakun, der alles in der Stadt sieht, wird auf Marcin aufmerksam – Marcin bietet ihm seine Hilfe gegen die Diebe im Austausch gegen Schutz an.
-* Marcin zettelt einen Aufstand mehrerer Diebe an, den Thorn blutig niederschlägt.
-* Stepanie trauert um ihren Mann, ihre Tochter wird auf der Straße gemobbt
 * Hakun hat Dragan in seinen Diensten, weil er sein Geheimnis kennt
 * Dragan merkt, dass Marcin Hakun ausspioniert, und bietet ihm seine Hilfe an, Hakun aus dem Weg zu räumen
 * Dania, Marcin und Varg ermorden Hakun mithilfe von Informationen von Dragan
-* Stepanie beginnt, in einer von Arghans Fabriken zu arbeiten, Leute sind unfreundlich
+* Marcin zettelt einen Aufstand mehrerer Diebe an, den Thorn blutig niederschlägt.
+
+# Akt 3 - Thorns Aufstieg
+* Stepanie trauert um ihren Mann, ihre Tochter wird auf der Straße gemobbt
 * Arghan plant mit Thorns Genehmigung den Bau einer Schule im achten Bezirk
 * Marcin macht sich an Dragan heran, es klappt aber nicht, wegen Misstrauen
 * Thorn wird wegen seiner Leistungen im achten Bezirk zum Ratsmitglied ernannt.
+* Stepanie beginnt, in einer von Arghans Fabriken zu arbeiten, Leute sind unfreundlich
 * Dania forscht im Leben Hauptmann Dragans nach und findet seine Homosexualität heraus
 * Thorn eröffnet mit Arghan und Joran eine Schule, auf der die Schüler selbst experimentieren können.
 * Stepanie bringt ihre Tochter zu Jorans Schule, damit sie eine ordentliche Ausbildung bekommt
@@ -409,14 +415,20 @@ Feministischer Untergrund
 * Dania ermordet den Patrizier und wird von Thorn vergiftet
 * Thorn ergreift mit Unterstützung von Howl, Dragan und Marcin die Macht und lässt sich zum Patrizier wählen
 
-# Akt 3
+# Zweites Buch
+
+Muss sehr viel kürzer werden.
+Nochmal alle Charaktere aufschreiben, was sie antreibt, was mit ihnen passieren soll - und was dafür nötig ist. Dann ergibt sich der Plot von selbst
+- Hauptleute wegkürzen
+- Laya & Sinya mergen?
+
 ## Vargs Doppelleben
 * Thorn erzählt Joran und Varg, dass Dania im Kampf ums Leben gekommen ist
 * Varg und Joran sind erschüttert über den Tod Danias
 * Thorn: Loyalität der Hauptleute sicherstellen
 * Marcin macht Katan Brocken-süchtig
 * Varg kidnappt Laya, Tochter eines Hauptmanns. Laya wird in Jorans Labor eingesperrt, der nett zu ihr sein will, und selbst depressiv ist
-* Varg statuiert ein Exempel und tötet einen Sergeant, um den Hauptmann bei der Stange zu halten
+* Varg statuiert ein Exempel und tötet einen Feldwebel, um den Hauptmann bei der Stange zu halten
 * Varg wendet sich an Isigor, weil Thorns Machenschaften ihm langsam suspekt werden
 * Isigor: bring mir Informationen, belausche Thorn & Marcin; Varg erfährt, dass Thorn Dania getötet hat
 * Orst will von Stepanie, dass sie in Howls Fabrik spioniert. Sie liefert ihm den Grundriss
@@ -424,7 +436,7 @@ Feministischer Untergrund
 * Es wird verbreitet, dass es das Werk von Terroristinnen war
 * Stepanie wird arbeitslos und kehrt zurück in den achten Bezirk. Toman vermittelt ihr einen Spitzeljob für Marcin in einer Sauna
 * Thorn: töte Ratsinquisitor Callen in Stepanies Sauna. Sinya sieht es, Varg verschont ihn
-* Stepanie beobachtet aus Versehen Varg bei dem Mord, berichtet an Toman, der sagt ihr, sie stattdessen verbreiten, es wären Terroristinnen gewesen
+* Stepanie beobachtet aus Versehen Varg bei dem Mord, berichtet an Toman, der sagt ihr, sie soll stattdessen verbreiten, es wären Terroristinnen gewesen
 * Thorn kann die Legalisierung von Luftkutschen durchsetzen, Varg erhält Callens Flammensplitter
 * Isigor gibt Varg einen weiteren Flammensplitter, und schickt ihn auf die Jagd nach dem Mörder des Ratsinquisitors, nach der anderen Terroristin
 * Stepanie besucht Mia im achten & erfährt auf dem Markt, dass seit es angeblich feministische Terroristinnen gibt, eine Freundin von ihr nicht mehr geschlagen wird
@@ -434,6 +446,7 @@ Feministischer Untergrund
 * Varg predigt für mehr Sicherheitspolitik, deren Zweck die Mittel heiligt. Außerdem traditionelle Familie, die besser für Frauen ist als Unabhängigkeit
 * Stepanie hört das und beschließt, Flugblätter für die Terroristinnen zu veröffentlichen
 * Isigor weist Varg Sinya als Novizen zu
+## Wasser für Vargs schmutzige Wäsche
 * Isigor: konfisziere im Namen des Ordens Howls Baupläne für eine Luftkutsche. Thorn ist misstrauisch
 * Thorn: bedrohe Orst, der für die Lehrpläne zuständig ist, damit er keine Angst vor dem Wasser verbreitet und klau die Baupläne zurück
 * Orst soll stattdessen wissenschaftliche Erkenntnisse von Jorans Schule verbreiten
@@ -516,7 +529,8 @@ Giulia
 
 
 
-# Akt 4
+# Drittes Buch
+
 Dragan
 * Marcin und Dragan werden beauftragt, in einem fremden Kontinent nach einer Waffe gegen die Artefakte des Ordens zu suchen
 * Marcin legt sich einen neuen Namen zu
@@ -710,7 +724,8 @@ Dragan (Marcin ist Dieb)
 
 
 
-# Akt 5
+# Letztes Buch
+
 Giulia
 * Giulia will nach Lagon, um Thorn zu töten. Schafft es nicht, Objektivität zu überzeugen, aber klaut im Chaos der Revolution ein Luftschiff
 * Findet die Frauen in Lagon genauso unterdrückt, trifft jmd vom feministischen Untergrund
